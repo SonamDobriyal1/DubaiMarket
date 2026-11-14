@@ -1,0 +1,5812 @@
+[
+  {
+    "community_id": "area__al-athbah",
+    "community_kind": "official_area",
+    "community_name": "AL Athbah",
+    "rows_all_procedures": 567,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 567
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mizhar-fourth",
+    "community_kind": "official_area",
+    "community_name": "AL MIZHAR FOURTH",
+    "rows_all_procedures": 808,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 258,
+      "Villa": 548
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais",
+    "community_kind": "official_area",
+    "community_name": "AL QUSAIS",
+    "rows_all_procedures": 364,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 318,
+      "Land": 46
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-twar-fifth",
+    "community_kind": "official_area",
+    "community_name": "AL TWAR FIFTH",
+    "rows_all_procedures": 254,
+    "residential_primary_sales": 32,
+    "property_type_counts_all_procedures": {
+      "Building": 96,
+      "Land": 78,
+      "Villa": 80
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__abu-hail",
+    "community_kind": "official_area",
+    "community_name": "Abu Hail",
+    "rows_all_procedures": 893,
+    "residential_primary_sales": 363,
+    "property_type_counts_all_procedures": {
+      "Building": 121,
+      "Land": 141,
+      "Villa": 631
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-asbaq",
+    "community_kind": "official_area",
+    "community_name": "Al Asbaq",
+    "rows_all_procedures": 12,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 12
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-aweer-first",
+    "community_kind": "official_area",
+    "community_name": "Al Aweer First",
+    "rows_all_procedures": 2956,
+    "residential_primary_sales": 6,
+    "property_type_counts_all_procedures": {
+      "Building": 36,
+      "Land": 2901,
+      "Villa": 19
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-aweer-second",
+    "community_kind": "official_area",
+    "community_name": "Al Aweer Second",
+    "rows_all_procedures": 189,
+    "residential_primary_sales": 5,
+    "property_type_counts_all_procedures": {
+      "Building": 61,
+      "Land": 99,
+      "Villa": 29
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-bada",
+    "community_kind": "official_area",
+    "community_name": "Al Bada",
+    "rows_all_procedures": 860,
+    "residential_primary_sales": 289,
+    "property_type_counts_all_procedures": {
+      "Building": 247,
+      "Land": 55,
+      "Villa": 558
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-baharna",
+    "community_kind": "official_area",
+    "community_name": "Al Baharna",
+    "rows_all_procedures": 4,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-baraha",
+    "community_kind": "official_area",
+    "community_name": "Al Baraha",
+    "rows_all_procedures": 434,
+    "residential_primary_sales": 25,
+    "property_type_counts_all_procedures": {
+      "Building": 325,
+      "Land": 43,
+      "Villa": 66
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha",
+    "rows_all_procedures": 80,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 80
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha-first",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha First",
+    "rows_all_procedures": 1359,
+    "residential_primary_sales": 222,
+    "property_type_counts_all_procedures": {
+      "Building": 668,
+      "Land": 269,
+      "Unit": 302,
+      "Villa": 120
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha-second",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha Second",
+    "rows_all_procedures": 1641,
+    "residential_primary_sales": 341,
+    "property_type_counts_all_procedures": {
+      "Building": 171,
+      "Land": 232,
+      "Villa": 1238
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha-south-fifth",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha South Fifth",
+    "rows_all_procedures": 13164,
+    "residential_primary_sales": 8576,
+    "property_type_counts_all_procedures": {
+      "Building": 56,
+      "Land": 232,
+      "Unit": 8661,
+      "Villa": 4215
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha-south-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha South Fourth",
+    "rows_all_procedures": 63635,
+    "residential_primary_sales": 45416,
+    "property_type_counts_all_procedures": {
+      "Building": 445,
+      "Land": 1135,
+      "Unit": 56790,
+      "Villa": 5265
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barsha-third",
+    "community_kind": "official_area",
+    "community_name": "Al Barsha Third",
+    "rows_all_procedures": 1584,
+    "residential_primary_sales": 296,
+    "property_type_counts_all_procedures": {
+      "Building": 142,
+      "Land": 272,
+      "Villa": 1170
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barshaa-south-first",
+    "community_kind": "official_area",
+    "community_name": "Al Barshaa South First",
+    "rows_all_procedures": 1424,
+    "residential_primary_sales": 21,
+    "property_type_counts_all_procedures": {
+      "Building": 96,
+      "Land": 159,
+      "Villa": 1169
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barshaa-south-second",
+    "community_kind": "official_area",
+    "community_name": "Al Barshaa South Second",
+    "rows_all_procedures": 8128,
+    "residential_primary_sales": 5620,
+    "property_type_counts_all_procedures": {
+      "Building": 130,
+      "Land": 359,
+      "Unit": 6471,
+      "Villa": 1168
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-barshaa-south-third",
+    "community_kind": "official_area",
+    "community_name": "Al Barshaa South Third",
+    "rows_all_procedures": 15495,
+    "residential_primary_sales": 12202,
+    "property_type_counts_all_procedures": {
+      "Building": 97,
+      "Land": 355,
+      "Unit": 15043
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-buteen",
+    "community_kind": "official_area",
+    "community_name": "Al Buteen",
+    "rows_all_procedures": 208,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 194,
+      "Land": 14
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-dhagaya",
+    "community_kind": "official_area",
+    "community_name": "Al Dhagaya",
+    "rows_all_procedures": 386,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 345,
+      "Land": 37,
+      "Villa": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-eyas",
+    "community_kind": "official_area",
+    "community_name": "Al Eyas",
+    "rows_all_procedures": 37,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 22,
+      "Land": 6,
+      "Villa": 9
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-faga-a",
+    "community_kind": "official_area",
+    "community_name": "Al Faga'A",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-garhoud",
+    "community_kind": "official_area",
+    "community_name": "Al Garhoud",
+    "rows_all_procedures": 352,
+    "residential_primary_sales": 48,
+    "property_type_counts_all_procedures": {
+      "Building": 149,
+      "Land": 25,
+      "Villa": 178
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-first",
+    "community_kind": "official_area",
+    "community_name": "Al Goze First",
+    "rows_all_procedures": 645,
+    "residential_primary_sales": 161,
+    "property_type_counts_all_procedures": {
+      "Building": 63,
+      "Land": 146,
+      "Villa": 436
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Fourth",
+    "rows_all_procedures": 2568,
+    "residential_primary_sales": 1609,
+    "property_type_counts_all_procedures": {
+      "Building": 35,
+      "Land": 48,
+      "Unit": 2287,
+      "Villa": 198
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-industrial-first",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Industrial First",
+    "rows_all_procedures": 74,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 70,
+      "Land": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-industrial-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Industrial Fourth",
+    "rows_all_procedures": 42,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 41,
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-industrial-second",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Industrial Second",
+    "rows_all_procedures": 53,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 43,
+      "Land": 10
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-industrial-third",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Industrial Third",
+    "rows_all_procedures": 77,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 77
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-goze-third",
+    "community_kind": "official_area",
+    "community_name": "Al Goze Third",
+    "rows_all_procedures": 69,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 55,
+      "Land": 14
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hamriya",
+    "community_kind": "official_area",
+    "community_name": "Al Hamriya",
+    "rows_all_procedures": 458,
+    "residential_primary_sales": 6,
+    "property_type_counts_all_procedures": {
+      "Building": 417,
+      "Land": 31,
+      "Villa": 10
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-fifth",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah Fifth",
+    "rows_all_procedures": 17150,
+    "residential_primary_sales": 5809,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 7934,
+      "Unit": 8977,
+      "Villa": 237
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-first",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah First",
+    "rows_all_procedures": 13719,
+    "residential_primary_sales": 7687,
+    "property_type_counts_all_procedures": {
+      "Building": 21,
+      "Land": 115,
+      "Unit": 12456,
+      "Villa": 1127
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah Fourth",
+    "rows_all_procedures": 27881,
+    "residential_primary_sales": 18513,
+    "property_type_counts_all_procedures": {
+      "Building": 100,
+      "Land": 1864,
+      "Unit": 20326,
+      "Villa": 5591
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-second",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah Second",
+    "rows_all_procedures": 3281,
+    "residential_primary_sales": 2353,
+    "property_type_counts_all_procedures": {
+      "Building": 20,
+      "Land": 55,
+      "Unit": 3021,
+      "Villa": 185
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-sixth",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah Sixth",
+    "rows_all_procedures": 3852,
+    "residential_primary_sales": 1934,
+    "property_type_counts_all_procedures": {
+      "Land": 547,
+      "Unit": 216,
+      "Villa": 3089
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hebiah-third",
+    "community_kind": "official_area",
+    "community_name": "Al Hebiah Third",
+    "rows_all_procedures": 13852,
+    "residential_primary_sales": 5181,
+    "property_type_counts_all_procedures": {
+      "Building": 10,
+      "Land": 3385,
+      "Unit": 7096,
+      "Villa": 3361
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-hudaiba",
+    "community_kind": "official_area",
+    "community_name": "Al Hudaiba",
+    "rows_all_procedures": 70,
+    "residential_primary_sales": 11,
+    "property_type_counts_all_procedures": {
+      "Building": 16,
+      "Land": 12,
+      "Villa": 42
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-jadaf",
+    "community_kind": "official_area",
+    "community_name": "Al Jadaf",
+    "rows_all_procedures": 8230,
+    "residential_primary_sales": 5493,
+    "property_type_counts_all_procedures": {
+      "Building": 187,
+      "Land": 1005,
+      "Unit": 7038
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-jafliya",
+    "community_kind": "official_area",
+    "community_name": "Al Jafliya",
+    "rows_all_procedures": 323,
+    "residential_primary_sales": 117,
+    "property_type_counts_all_procedures": {
+      "Building": 24,
+      "Land": 30,
+      "Villa": 269
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-karama",
+    "community_kind": "official_area",
+    "community_name": "Al Karama",
+    "rows_all_procedures": 686,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 653,
+      "Land": 30,
+      "Villa": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khabeesi",
+    "community_kind": "official_area",
+    "community_name": "Al Khabeesi",
+    "rows_all_procedures": 313,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Building": 269,
+      "Land": 39,
+      "Villa": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khairan-first",
+    "community_kind": "official_area",
+    "community_name": "Al Khairan First",
+    "rows_all_procedures": 16775,
+    "residential_primary_sales": 12313,
+    "property_type_counts_all_procedures": {
+      "Land": 13,
+      "Unit": 16762
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khairan-second",
+    "community_kind": "official_area",
+    "community_name": "Al Khairan Second",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khawaneej",
+    "community_kind": "official_area",
+    "community_name": "Al Khawaneej",
+    "rows_all_procedures": 87,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 87
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khawaneej-first",
+    "community_kind": "official_area",
+    "community_name": "Al Khawaneej First",
+    "rows_all_procedures": 1865,
+    "residential_primary_sales": 38,
+    "property_type_counts_all_procedures": {
+      "Building": 288,
+      "Land": 777,
+      "Villa": 800
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-khawaneej-second",
+    "community_kind": "official_area",
+    "community_name": "Al Khawaneej Second",
+    "rows_all_procedures": 1582,
+    "residential_primary_sales": 5,
+    "property_type_counts_all_procedures": {
+      "Building": 351,
+      "Land": 1128,
+      "Villa": 103
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-kheeran",
+    "community_kind": "official_area",
+    "community_name": "Al Kheeran",
+    "rows_all_procedures": 743,
+    "residential_primary_sales": 381,
+    "property_type_counts_all_procedures": {
+      "Building": 14,
+      "Land": 19,
+      "Unit": 633,
+      "Villa": 77
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-kifaf",
+    "community_kind": "official_area",
+    "community_name": "Al Kifaf",
+    "rows_all_procedures": 2686,
+    "residential_primary_sales": 1293,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 23,
+      "Unit": 2662
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-lusaily",
+    "community_kind": "official_area",
+    "community_name": "Al Lusaily",
+    "rows_all_procedures": 42,
+    "residential_primary_sales": 5,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 26,
+      "Villa": 12
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-maha",
+    "community_kind": "official_area",
+    "community_name": "Al Maha",
+    "rows_all_procedures": 4,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mamzer",
+    "community_kind": "official_area",
+    "community_name": "Al Mamzer",
+    "rows_all_procedures": 459,
+    "residential_primary_sales": 66,
+    "property_type_counts_all_procedures": {
+      "Building": 79,
+      "Land": 232,
+      "Villa": 148
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-manara",
+    "community_kind": "official_area",
+    "community_name": "Al Manara",
+    "rows_all_procedures": 640,
+    "residential_primary_sales": 191,
+    "property_type_counts_all_procedures": {
+      "Building": 15,
+      "Land": 96,
+      "Villa": 529
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mararr",
+    "community_kind": "official_area",
+    "community_name": "Al Mararr",
+    "rows_all_procedures": 646,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Building": 626,
+      "Land": 12,
+      "Villa": 8
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-merkadh",
+    "community_kind": "official_area",
+    "community_name": "Al Merkadh",
+    "rows_all_procedures": 24333,
+    "residential_primary_sales": 17935,
+    "property_type_counts_all_procedures": {
+      "Building": 35,
+      "Land": 1099,
+      "Unit": 22089,
+      "Villa": 1110
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mizhar",
+    "community_kind": "official_area",
+    "community_name": "Al Mizhar",
+    "rows_all_procedures": 51,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 51
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mizhar-first",
+    "community_kind": "official_area",
+    "community_name": "Al Mizhar First",
+    "rows_all_procedures": 1444,
+    "residential_primary_sales": 249,
+    "property_type_counts_all_procedures": {
+      "Building": 126,
+      "Land": 264,
+      "Villa": 1054
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mizhar-second",
+    "community_kind": "official_area",
+    "community_name": "Al Mizhar Second",
+    "rows_all_procedures": 920,
+    "residential_primary_sales": 151,
+    "property_type_counts_all_procedures": {
+      "Building": 96,
+      "Land": 144,
+      "Villa": 680
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mizhar-third",
+    "community_kind": "official_area",
+    "community_name": "Al Mizhar Third",
+    "rows_all_procedures": 554,
+    "residential_primary_sales": 10,
+    "property_type_counts_all_procedures": {
+      "Building": 96,
+      "Land": 106,
+      "Villa": 352
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-murqabat",
+    "community_kind": "official_area",
+    "community_name": "Al Murqabat",
+    "rows_all_procedures": 719,
+    "residential_primary_sales": 3,
+    "property_type_counts_all_procedures": {
+      "Building": 604,
+      "Land": 109,
+      "Villa": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-musalla-dubai",
+    "community_kind": "official_area",
+    "community_name": "Al Musalla (Dubai)",
+    "rows_all_procedures": 30,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 30
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-muteena",
+    "community_kind": "official_area",
+    "community_name": "Al Muteena",
+    "rows_all_procedures": 681,
+    "residential_primary_sales": 63,
+    "property_type_counts_all_procedures": {
+      "Building": 446,
+      "Land": 81,
+      "Villa": 154
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-nahda-first",
+    "community_kind": "official_area",
+    "community_name": "Al Nahda First",
+    "rows_all_procedures": 358,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 171,
+      "Land": 36,
+      "Unit": 151
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-nahda-second",
+    "community_kind": "official_area",
+    "community_name": "Al Nahda Second",
+    "rows_all_procedures": 661,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 585,
+      "Land": 76
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qoaz",
+    "community_kind": "official_area",
+    "community_name": "Al Qoaz",
+    "rows_all_procedures": 34,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 34
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais",
+    "rows_all_procedures": 50,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 50
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais-industrial-fifth",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais Industrial Fifth",
+    "rows_all_procedures": 188,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 30,
+      "Land": 59,
+      "Unit": 99
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais-industrial-first",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais Industrial First",
+    "rows_all_procedures": 84,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 78,
+      "Land": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais-industrial-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais Industrial Fourth",
+    "rows_all_procedures": 186,
+    "residential_primary_sales": 56,
+    "property_type_counts_all_procedures": {
+      "Building": 28,
+      "Land": 46,
+      "Unit": 112
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais-industrial-second",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais Industrial Second",
+    "rows_all_procedures": 44,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 42,
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qusais-industrial-third",
+    "community_kind": "official_area",
+    "community_name": "Al Qusais Industrial Third",
+    "rows_all_procedures": 29,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 13,
+      "Land": 16
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-raffa",
+    "community_kind": "official_area",
+    "community_name": "Al Raffa",
+    "rows_all_procedures": 698,
+    "residential_primary_sales": 7,
+    "property_type_counts_all_procedures": {
+      "Building": 567,
+      "Land": 103,
+      "Villa": 28
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-ras",
+    "community_kind": "official_area",
+    "community_name": "Al Ras",
+    "rows_all_procedures": 290,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 272,
+      "Land": 18
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-rashidiya",
+    "community_kind": "official_area",
+    "community_name": "Al Rashidiya",
+    "rows_all_procedures": 1123,
+    "residential_primary_sales": 646,
+    "property_type_counts_all_procedures": {
+      "Building": 19,
+      "Land": 79,
+      "Villa": 1025
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-rega",
+    "community_kind": "official_area",
+    "community_name": "Al Rega",
+    "rows_all_procedures": 96,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 95,
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-rowaiyah-first",
+    "community_kind": "official_area",
+    "community_name": "Al Rowaiyah First",
+    "rows_all_procedures": 35,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 35
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-rowaiyah-second",
+    "community_kind": "official_area",
+    "community_name": "Al Rowaiyah Second",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-rowaiyah-third",
+    "community_kind": "official_area",
+    "community_name": "Al Rowaiyah Third",
+    "rows_all_procedures": 8,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 5,
+      "Land": 2,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-ruwayyah",
+    "community_kind": "official_area",
+    "community_name": "Al Ruwayyah",
+    "rows_all_procedures": 1322,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1322
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-sabkha",
+    "community_kind": "official_area",
+    "community_name": "Al Sabkha",
+    "rows_all_procedures": 68,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 62,
+      "Land": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-safaa",
+    "community_kind": "official_area",
+    "community_name": "Al Safaa",
+    "rows_all_procedures": 30,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 30
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-saffa-first",
+    "community_kind": "official_area",
+    "community_name": "Al Saffa First",
+    "rows_all_procedures": 140,
+    "residential_primary_sales": 31,
+    "property_type_counts_all_procedures": {
+      "Building": 11,
+      "Land": 14,
+      "Villa": 115
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-saffa-second",
+    "community_kind": "official_area",
+    "community_name": "Al Saffa Second",
+    "rows_all_procedures": 447,
+    "residential_primary_sales": 122,
+    "property_type_counts_all_procedures": {
+      "Building": 27,
+      "Land": 40,
+      "Villa": 380
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-safouh-first",
+    "community_kind": "official_area",
+    "community_name": "Al Safouh First",
+    "rows_all_procedures": 1174,
+    "residential_primary_sales": 524,
+    "property_type_counts_all_procedures": {
+      "Building": 40,
+      "Land": 53,
+      "Unit": 922,
+      "Villa": 159
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-safouh-second",
+    "community_kind": "official_area",
+    "community_name": "Al Safouh Second",
+    "rows_all_procedures": 1186,
+    "residential_primary_sales": 959,
+    "property_type_counts_all_procedures": {
+      "Building": 102,
+      "Land": 53,
+      "Unit": 1020,
+      "Villa": 11
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-satwa",
+    "community_kind": "official_area",
+    "community_name": "Al Satwa",
+    "rows_all_procedures": 2270,
+    "residential_primary_sales": 1099,
+    "property_type_counts_all_procedures": {
+      "Building": 182,
+      "Land": 756,
+      "Unit": 930,
+      "Villa": 402
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-suq-al-kabeer",
+    "community_kind": "official_area",
+    "community_name": "Al Suq Al Kabeer",
+    "rows_all_procedures": 610,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 557,
+      "Land": 47,
+      "Villa": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-thanayah-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Thanayah Fourth",
+    "rows_all_procedures": 19881,
+    "residential_primary_sales": 8476,
+    "property_type_counts_all_procedures": {
+      "Building": 13,
+      "Land": 1062,
+      "Unit": 3,
+      "Villa": 18803
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-thanyah-fifth",
+    "community_kind": "official_area",
+    "community_name": "Al Thanyah Fifth",
+    "rows_all_procedures": 59852,
+    "residential_primary_sales": 26460,
+    "property_type_counts_all_procedures": {
+      "Building": 111,
+      "Land": 662,
+      "Unit": 50053,
+      "Villa": 9026
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-thanyah-first",
+    "community_kind": "official_area",
+    "community_name": "Al Thanyah First",
+    "rows_all_procedures": 5176,
+    "residential_primary_sales": 915,
+    "property_type_counts_all_procedures": {
+      "Building": 160,
+      "Land": 59,
+      "Unit": 4955,
+      "Villa": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-thanyah-third",
+    "community_kind": "official_area",
+    "community_name": "Al Thanyah Third",
+    "rows_all_procedures": 20974,
+    "residential_primary_sales": 10597,
+    "property_type_counts_all_procedures": {
+      "Building": 23,
+      "Land": 132,
+      "Unit": 17343,
+      "Villa": 3476
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-ttay",
+    "community_kind": "official_area",
+    "community_name": "Al Ttay",
+    "rows_all_procedures": 172,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 41,
+      "Land": 131
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-twar-first",
+    "community_kind": "official_area",
+    "community_name": "Al Twar First",
+    "rows_all_procedures": 234,
+    "residential_primary_sales": 120,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 6,
+      "Villa": 220
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-twar-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Twar Fourth",
+    "rows_all_procedures": 351,
+    "residential_primary_sales": 147,
+    "property_type_counts_all_procedures": {
+      "Building": 32,
+      "Land": 42,
+      "Villa": 277
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-twar-second",
+    "community_kind": "official_area",
+    "community_name": "Al Twar Second",
+    "rows_all_procedures": 142,
+    "residential_primary_sales": 53,
+    "property_type_counts_all_procedures": {
+      "Building": 7,
+      "Land": 18,
+      "Villa": 117
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-twar-third",
+    "community_kind": "official_area",
+    "community_name": "Al Twar Third",
+    "rows_all_procedures": 479,
+    "residential_primary_sales": 115,
+    "property_type_counts_all_procedures": {
+      "Building": 47,
+      "Land": 52,
+      "Villa": 380
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-waheda",
+    "community_kind": "official_area",
+    "community_name": "Al Waheda",
+    "rows_all_procedures": 692,
+    "residential_primary_sales": 383,
+    "property_type_counts_all_procedures": {
+      "Building": 31,
+      "Land": 68,
+      "Villa": 593
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warqa-first",
+    "community_kind": "official_area",
+    "community_name": "Al Warqa First",
+    "rows_all_procedures": 506,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 341,
+      "Land": 165
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warqa-fourth",
+    "community_kind": "official_area",
+    "community_name": "Al Warqa Fourth",
+    "rows_all_procedures": 1179,
+    "residential_primary_sales": 28,
+    "property_type_counts_all_procedures": {
+      "Building": 68,
+      "Land": 348,
+      "Villa": 763
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warqa-second",
+    "community_kind": "official_area",
+    "community_name": "Al Warqa Second",
+    "rows_all_procedures": 958,
+    "residential_primary_sales": 43,
+    "property_type_counts_all_procedures": {
+      "Building": 89,
+      "Land": 142,
+      "Villa": 727
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warqa-third",
+    "community_kind": "official_area",
+    "community_name": "Al Warqa Third",
+    "rows_all_procedures": 1703,
+    "residential_primary_sales": 210,
+    "property_type_counts_all_procedures": {
+      "Building": 156,
+      "Land": 434,
+      "Villa": 1113
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warsan-first",
+    "community_kind": "official_area",
+    "community_name": "Al Warsan First",
+    "rows_all_procedures": 35869,
+    "residential_primary_sales": 25261,
+    "property_type_counts_all_procedures": {
+      "Building": 391,
+      "Land": 271,
+      "Unit": 33977,
+      "Villa": 1230
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warsan-second",
+    "community_kind": "official_area",
+    "community_name": "Al Warsan Second",
+    "rows_all_procedures": 91,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 91
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-warsan-third",
+    "community_kind": "official_area",
+    "community_name": "Al Warsan Third",
+    "rows_all_procedures": 141,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 9,
+      "Land": 132
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-wasl",
+    "community_kind": "official_area",
+    "community_name": "Al Wasl",
+    "rows_all_procedures": 8132,
+    "residential_primary_sales": 5650,
+    "property_type_counts_all_procedures": {
+      "Building": 58,
+      "Land": 367,
+      "Unit": 7464,
+      "Villa": 243
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yelayiss-1",
+    "community_kind": "official_area",
+    "community_name": "Al Yelayiss 1",
+    "rows_all_procedures": 10996,
+    "residential_primary_sales": 4550,
+    "property_type_counts_all_procedures": {
+      "Land": 3913,
+      "Villa": 7083
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yelayiss-2",
+    "community_kind": "official_area",
+    "community_name": "Al Yelayiss 2",
+    "rows_all_procedures": 14723,
+    "residential_primary_sales": 9862,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 61,
+      "Unit": 8806,
+      "Villa": 5852
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yelayiss-3",
+    "community_kind": "official_area",
+    "community_name": "Al Yelayiss 3",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yelayiss-4",
+    "community_kind": "official_area",
+    "community_name": "Al Yelayiss 4",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yelayiss-5",
+    "community_kind": "official_area",
+    "community_name": "Al Yelayiss 5",
+    "rows_all_procedures": 208,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 208
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yufrah-1",
+    "community_kind": "official_area",
+    "community_name": "Al Yufrah 1",
+    "rows_all_procedures": 6429,
+    "residential_primary_sales": 5094,
+    "property_type_counts_all_procedures": {
+      "Land": 835,
+      "Villa": 5594
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yufrah-2",
+    "community_kind": "official_area",
+    "community_name": "Al Yufrah 2",
+    "rows_all_procedures": 3688,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2156,
+      "Villa": 1532
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yufrah-3",
+    "community_kind": "official_area",
+    "community_name": "Al Yufrah 3",
+    "rows_all_procedures": 2232,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1523,
+      "Villa": 709
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-yufrah-4",
+    "community_kind": "official_area",
+    "community_name": "Al Yufrah 4",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-aweer",
+    "community_kind": "official_area",
+    "community_name": "Al-Aweer",
+    "rows_all_procedures": 21,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 21
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-bastakiyah",
+    "community_kind": "official_area",
+    "community_name": "Al-Bastakiyah",
+    "rows_all_procedures": 4,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-cornich",
+    "community_kind": "official_area",
+    "community_name": "Al-Cornich",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-muhaisnah-north",
+    "community_kind": "official_area",
+    "community_name": "Al-Muhaisnah North",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-murar-jadeed",
+    "community_kind": "official_area",
+    "community_name": "Al-Murar Jadeed",
+    "rows_all_procedures": 20,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 20
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-murar-qadeem",
+    "community_kind": "official_area",
+    "community_name": "Al-Murar Qadeem",
+    "rows_all_procedures": 43,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 43
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-musalla-deira",
+    "community_kind": "official_area",
+    "community_name": "Al-Musalla (Deira)",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-mustashfa-west",
+    "community_kind": "official_area",
+    "community_name": "Al-Mustashfa West",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-nahdah",
+    "community_kind": "official_area",
+    "community_name": "Al-Nahdah",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-nakhal",
+    "community_kind": "official_area",
+    "community_name": "Al-Nakhal",
+    "rows_all_procedures": 12,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 12
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-qiyadah",
+    "community_kind": "official_area",
+    "community_name": "Al-Qiyadah",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-raulah",
+    "community_kind": "official_area",
+    "community_name": "Al-Raulah",
+    "rows_all_procedures": 10,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 10
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-riqqa-east",
+    "community_kind": "official_area",
+    "community_name": "Al-Riqqa East",
+    "rows_all_procedures": 17,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 17
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-riqqa-west",
+    "community_kind": "official_area",
+    "community_name": "Al-Riqqa West",
+    "rows_all_procedures": 7,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 7
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-safiyyah",
+    "community_kind": "official_area",
+    "community_name": "Al-Safiyyah",
+    "rows_all_procedures": 21,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 21
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-shumaal",
+    "community_kind": "official_area",
+    "community_name": "Al-Shumaal",
+    "rows_all_procedures": 8,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 8
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-souq-al-kabeer-deira",
+    "community_kind": "official_area",
+    "community_name": "Al-Souq Al Kabeer (Deira)",
+    "rows_all_procedures": 6,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-tawar",
+    "community_kind": "official_area",
+    "community_name": "Al-Tawar",
+    "rows_all_procedures": 32,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 32
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__al-zarouniyyah",
+    "community_kind": "official_area",
+    "community_name": "Al-Zarouniyyah",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__bukadra",
+    "community_kind": "official_area",
+    "community_name": "Bukadra",
+    "rows_all_procedures": 5387,
+    "residential_primary_sales": 5177,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 190,
+      "Unit": 5194
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__bur-dubai",
+    "community_kind": "official_area",
+    "community_name": "Bur Dubai",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__burj-khalifa",
+    "community_kind": "official_area",
+    "community_name": "Burj Khalifa",
+    "rows_all_procedures": 57867,
+    "residential_primary_sales": 27856,
+    "property_type_counts_all_procedures": {
+      "Building": 66,
+      "Land": 307,
+      "Unit": 57494
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__burj-nahar",
+    "community_kind": "official_area",
+    "community_name": "Burj Nahar",
+    "rows_all_procedures": 19,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 19
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__business-bay",
+    "community_kind": "official_area",
+    "community_name": "Business Bay",
+    "rows_all_procedures": 54554,
+    "residential_primary_sales": 31030,
+    "property_type_counts_all_procedures": {
+      "Building": 109,
+      "Land": 324,
+      "Unit": 54121
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__cornich-deira",
+    "community_kind": "official_area",
+    "community_name": "Cornich Deira",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__dubai-international-airport",
+    "community_kind": "official_area",
+    "community_name": "Dubai International Airport",
+    "rows_all_procedures": 24,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 23,
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__dubai-investment-park-first",
+    "community_kind": "official_area",
+    "community_name": "Dubai Investment Park First",
+    "rows_all_procedures": 6646,
+    "residential_primary_sales": 585,
+    "property_type_counts_all_procedures": {
+      "Building": 921,
+      "Land": 288,
+      "Unit": 2654,
+      "Villa": 2783
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__dubai-investment-park-second",
+    "community_kind": "official_area",
+    "community_name": "Dubai Investment Park Second",
+    "rows_all_procedures": 7288,
+    "residential_primary_sales": 3412,
+    "property_type_counts_all_procedures": {
+      "Building": 1277,
+      "Land": 1184,
+      "Unit": 3574,
+      "Villa": 1253
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__eyal-nasser",
+    "community_kind": "official_area",
+    "community_name": "Eyal Nasser",
+    "rows_all_procedures": 314,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 289,
+      "Land": 25
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__festival-city-first",
+    "community_kind": "official_area",
+    "community_name": "Festival City First",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ghadeer-al-tair",
+    "community_kind": "official_area",
+    "community_name": "Ghadeer Al tair",
+    "rows_all_procedures": 1099,
+    "residential_primary_sales": 19,
+    "property_type_counts_all_procedures": {
+      "Building": 116,
+      "Land": 694,
+      "Villa": 289
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ghadeer-barashy",
+    "community_kind": "official_area",
+    "community_name": "Ghadeer Barashy",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__grayteesah",
+    "community_kind": "official_area",
+    "community_name": "Grayteesah",
+    "rows_all_procedures": 11,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 6,
+      "Land": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hadaeq-sheikh-mohammed-bin-rashid",
+    "community_kind": "official_area",
+    "community_name": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "rows_all_procedures": 25358,
+    "residential_primary_sales": 16590,
+    "property_type_counts_all_procedures": {
+      "Building": 6,
+      "Land": 2280,
+      "Unit": 16822,
+      "Villa": 6250
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hatta",
+    "community_kind": "official_area",
+    "community_name": "Hatta",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hessyan-first",
+    "community_kind": "official_area",
+    "community_name": "Hessyan First",
+    "rows_all_procedures": 422,
+    "residential_primary_sales": 229,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 21,
+      "Unit": 291,
+      "Villa": 102
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hessyan-second",
+    "community_kind": "official_area",
+    "community_name": "Hessyan Second",
+    "rows_all_procedures": 31,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Land": 30,
+      "Unit": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hor-al-anz",
+    "community_kind": "official_area",
+    "community_name": "Hor Al Anz",
+    "rows_all_procedures": 1718,
+    "residential_primary_sales": 399,
+    "property_type_counts_all_procedures": {
+      "Building": 926,
+      "Land": 136,
+      "Villa": 656
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__hor-al-anz-east",
+    "community_kind": "official_area",
+    "community_name": "Hor Al Anz East",
+    "rows_all_procedures": 377,
+    "residential_primary_sales": 66,
+    "property_type_counts_all_procedures": {
+      "Building": 189,
+      "Land": 81,
+      "Villa": 107
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__island-2",
+    "community_kind": "official_area",
+    "community_name": "Island 2",
+    "rows_all_procedures": 628,
+    "residential_primary_sales": 240,
+    "property_type_counts_all_procedures": {
+      "Land": 200,
+      "Unit": 294,
+      "Villa": 134
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali",
+    "rows_all_procedures": 10517,
+    "residential_primary_sales": 6299,
+    "property_type_counts_all_procedures": {
+      "Land": 961,
+      "Unit": 9556
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali-first",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali First",
+    "rows_all_procedures": 26730,
+    "residential_primary_sales": 11133,
+    "property_type_counts_all_procedures": {
+      "Building": 165,
+      "Land": 4714,
+      "Unit": 17537,
+      "Villa": 4314
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali-industrial-first",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali Industrial First",
+    "rows_all_procedures": 834,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 313,
+      "Land": 521
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali-industrial-second",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali Industrial Second",
+    "rows_all_procedures": 2016,
+    "residential_primary_sales": 1448,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 54,
+      "Unit": 1959,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali-industrial-third",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali Industrial Third",
+    "rows_all_procedures": 27,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 25
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jabal-ali-third",
+    "community_kind": "official_area",
+    "community_name": "Jabal Ali Third",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jumeirah",
+    "community_kind": "official_area",
+    "community_name": "Jumeirah",
+    "rows_all_procedures": 82,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 82
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jumeirah-first",
+    "community_kind": "official_area",
+    "community_name": "Jumeirah First",
+    "rows_all_procedures": 3376,
+    "residential_primary_sales": 1867,
+    "property_type_counts_all_procedures": {
+      "Building": 102,
+      "Land": 720,
+      "Unit": 1846,
+      "Villa": 708
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jumeirah-second",
+    "community_kind": "official_area",
+    "community_name": "Jumeirah Second",
+    "rows_all_procedures": 658,
+    "residential_primary_sales": 293,
+    "property_type_counts_all_procedures": {
+      "Building": 23,
+      "Land": 96,
+      "Unit": 182,
+      "Villa": 357
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__jumeirah-third",
+    "community_kind": "official_area",
+    "community_name": "Jumeirah Third",
+    "rows_all_procedures": 734,
+    "residential_primary_sales": 184,
+    "property_type_counts_all_procedures": {
+      "Building": 32,
+      "Land": 65,
+      "Villa": 637
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__le-hemaira",
+    "community_kind": "official_area",
+    "community_name": "Le Hemaira",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__lehbab",
+    "community_kind": "official_area",
+    "community_name": "Lehbab",
+    "rows_all_procedures": 44,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 44
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__lehbab-first",
+    "community_kind": "official_area",
+    "community_name": "Lehbab First",
+    "rows_all_procedures": 23,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 13,
+      "Land": 8,
+      "Villa": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__lehbab-second",
+    "community_kind": "official_area",
+    "community_name": "Lehbab Second",
+    "rows_all_procedures": 14,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 6,
+      "Land": 3,
+      "Villa": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-al-mataar",
+    "community_kind": "official_area",
+    "community_name": "Madinat Al Mataar",
+    "rows_all_procedures": 20083,
+    "residential_primary_sales": 14982,
+    "property_type_counts_all_procedures": {
+      "Building": 45,
+      "Land": 1055,
+      "Unit": 12004,
+      "Villa": 6979
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-dubai-almelaheyah",
+    "community_kind": "official_area",
+    "community_name": "Madinat Dubai Almelaheyah",
+    "rows_all_procedures": 7349,
+    "residential_primary_sales": 7071,
+    "property_type_counts_all_procedures": {
+      "Building": 28,
+      "Land": 86,
+      "Unit": 7235
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-hind-1",
+    "community_kind": "official_area",
+    "community_name": "Madinat Hind 1",
+    "rows_all_procedures": 16,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 5,
+      "Land": 11
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-hind-3",
+    "community_kind": "official_area",
+    "community_name": "Madinat Hind 3",
+    "rows_all_procedures": 576,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 576
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-hind-4",
+    "community_kind": "official_area",
+    "community_name": "Madinat Hind 4",
+    "rows_all_procedures": 9278,
+    "residential_primary_sales": 1596,
+    "property_type_counts_all_procedures": {
+      "Land": 7046,
+      "Unit": 2232
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__madinat-latifa",
+    "community_kind": "official_area",
+    "community_name": "Madinat Latifa",
+    "rows_all_procedures": 15,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 15
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__mankhool",
+    "community_kind": "official_area",
+    "community_name": "Mankhool",
+    "rows_all_procedures": 650,
+    "residential_primary_sales": 49,
+    "property_type_counts_all_procedures": {
+      "Building": 444,
+      "Land": 76,
+      "Villa": 130
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__margham",
+    "community_kind": "official_area",
+    "community_name": "Margham",
+    "rows_all_procedures": 31,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 31
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__marsa-dubai",
+    "community_kind": "official_area",
+    "community_name": "Marsa Dubai",
+    "rows_all_procedures": 84119,
+    "residential_primary_sales": 56745,
+    "property_type_counts_all_procedures": {
+      "Building": 246,
+      "Land": 150,
+      "Unit": 83619,
+      "Villa": 104
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__me-aisem-first",
+    "community_kind": "official_area",
+    "community_name": "Me'Aisem First",
+    "rows_all_procedures": 19754,
+    "residential_primary_sales": 12006,
+    "property_type_counts_all_procedures": {
+      "Building": 45,
+      "Land": 1033,
+      "Unit": 15848,
+      "Villa": 2828
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__me-aisem-second",
+    "community_kind": "official_area",
+    "community_name": "Me'Aisem Second",
+    "rows_all_procedures": 1039,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1039
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__mena-jabal-ali",
+    "community_kind": "official_area",
+    "community_name": "Mena Jabal Ali",
+    "rows_all_procedures": 30,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 28
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__mirdif",
+    "community_kind": "official_area",
+    "community_name": "Mirdif",
+    "rows_all_procedures": 6187,
+    "residential_primary_sales": 2607,
+    "property_type_counts_all_procedures": {
+      "Building": 223,
+      "Land": 553,
+      "Unit": 1421,
+      "Villa": 3990
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muashrah-al-bahraana",
+    "community_kind": "official_area",
+    "community_name": "Muashrah Al Bahraana",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__mugatrah",
+    "community_kind": "official_area",
+    "community_name": "Mugatrah",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muhaisanah-first",
+    "community_kind": "official_area",
+    "community_name": "Muhaisanah First",
+    "rows_all_procedures": 1231,
+    "residential_primary_sales": 149,
+    "property_type_counts_all_procedures": {
+      "Building": 72,
+      "Land": 92,
+      "Unit": 614,
+      "Villa": 453
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muhaisanah-fourth",
+    "community_kind": "official_area",
+    "community_name": "Muhaisanah Fourth",
+    "rows_all_procedures": 134,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 97,
+      "Land": 37
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muhaisanah-second",
+    "community_kind": "official_area",
+    "community_name": "Muhaisanah Second",
+    "rows_all_procedures": 50,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 43,
+      "Land": 7
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muhaisanah-third",
+    "community_kind": "official_area",
+    "community_name": "Muhaisanah Third",
+    "rows_all_procedures": 585,
+    "residential_primary_sales": 155,
+    "property_type_counts_all_procedures": {
+      "Building": 46,
+      "Land": 99,
+      "Villa": 440
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muhaisna",
+    "community_kind": "official_area",
+    "community_name": "Muhaisna",
+    "rows_all_procedures": 10,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 10
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__muragab",
+    "community_kind": "official_area",
+    "community_name": "Muragab",
+    "rows_all_procedures": 11,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__mushrif",
+    "community_kind": "official_area",
+    "community_name": "Mushrif",
+    "rows_all_procedures": 149,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 148
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-hamar",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Hamar",
+    "rows_all_procedures": 1683,
+    "residential_primary_sales": 307,
+    "property_type_counts_all_procedures": {
+      "Building": 184,
+      "Land": 420,
+      "Unit": 67,
+      "Villa": 1012
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-shiba",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Shiba",
+    "rows_all_procedures": 5095,
+    "residential_primary_sales": 610,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 747,
+      "Unit": 4336,
+      "Villa": 10
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-shiba-first",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Shiba First",
+    "rows_all_procedures": 6373,
+    "residential_primary_sales": 2551,
+    "property_type_counts_all_procedures": {
+      "Building": 39,
+      "Land": 1679,
+      "Unit": 2696,
+      "Villa": 1959
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-shiba-fourth",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Shiba Fourth",
+    "rows_all_procedures": 752,
+    "residential_primary_sales": 9,
+    "property_type_counts_all_procedures": {
+      "Building": 135,
+      "Land": 412,
+      "Villa": 205
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-shiba-second",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Shiba Second",
+    "rows_all_procedures": 159,
+    "residential_primary_sales": 5,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 129,
+      "Villa": 22
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-al-shiba-third",
+    "community_kind": "official_area",
+    "community_name": "Nad Al Shiba Third",
+    "rows_all_procedures": 2254,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 40,
+      "Land": 2211,
+      "Villa": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-rashid",
+    "community_kind": "official_area",
+    "community_name": "Nad Rashid",
+    "rows_all_procedures": 43,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 43
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nad-shamma",
+    "community_kind": "official_area",
+    "community_name": "Nad Shamma",
+    "rows_all_procedures": 88,
+    "residential_primary_sales": 11,
+    "property_type_counts_all_procedures": {
+      "Building": 6,
+      "Land": 19,
+      "Villa": 63
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nadd-hessa",
+    "community_kind": "official_area",
+    "community_name": "Nadd Hessa",
+    "rows_all_procedures": 16422,
+    "residential_primary_sales": 4180,
+    "property_type_counts_all_procedures": {
+      "Building": 226,
+      "Land": 294,
+      "Unit": 14805,
+      "Villa": 1097
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__naif",
+    "community_kind": "official_area",
+    "community_name": "Naif",
+    "rows_all_procedures": 692,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Building": 620,
+      "Land": 47,
+      "Villa": 25
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__naif-north",
+    "community_kind": "official_area",
+    "community_name": "Naif North",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__naif-south",
+    "community_kind": "official_area",
+    "community_name": "Naif South",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__nazwah",
+    "community_kind": "official_area",
+    "community_name": "Nazwah",
+    "rows_all_procedures": 6,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__oud-metha",
+    "community_kind": "official_area",
+    "community_name": "Oud Metha",
+    "rows_all_procedures": 143,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 134,
+      "Land": 9
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__palm-deira",
+    "community_kind": "official_area",
+    "community_name": "Palm Deira",
+    "rows_all_procedures": 3692,
+    "residential_primary_sales": 2975,
+    "property_type_counts_all_procedures": {
+      "Land": 697,
+      "Unit": 2995
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__palm-jabal-ali",
+    "community_kind": "official_area",
+    "community_name": "Palm Jabal Ali",
+    "rows_all_procedures": 903,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 902
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__palm-jumeirah",
+    "community_kind": "official_area",
+    "community_name": "Palm Jumeirah",
+    "rows_all_procedures": 26899,
+    "residential_primary_sales": 15604,
+    "property_type_counts_all_procedures": {
+      "Building": 74,
+      "Land": 1163,
+      "Unit": 22021,
+      "Villa": 3641
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__port-saeed",
+    "community_kind": "official_area",
+    "community_name": "Port Saeed",
+    "rows_all_procedures": 891,
+    "residential_primary_sales": 8,
+    "property_type_counts_all_procedures": {
+      "Building": 268,
+      "Land": 49,
+      "Unit": 558,
+      "Villa": 16
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ras-al-khor",
+    "community_kind": "official_area",
+    "community_name": "Ras Al Khor",
+    "rows_all_procedures": 57,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 57
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ras-al-khor-industrial-first",
+    "community_kind": "official_area",
+    "community_name": "Ras Al Khor Industrial First",
+    "rows_all_procedures": 2249,
+    "residential_primary_sales": 2106,
+    "property_type_counts_all_procedures": {
+      "Building": 79,
+      "Land": 58,
+      "Unit": 2112
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ras-al-khor-industrial-second",
+    "community_kind": "official_area",
+    "community_name": "Ras Al Khor Industrial Second",
+    "rows_all_procedures": 119,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 88,
+      "Land": 31
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__ras-al-khor-industrial-third",
+    "community_kind": "official_area",
+    "community_name": "Ras Al Khor Industrial Third",
+    "rows_all_procedures": 58,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 38,
+      "Land": 20
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__rega-al-buteen",
+    "community_kind": "official_area",
+    "community_name": "Rega Al Buteen",
+    "rows_all_procedures": 296,
+    "residential_primary_sales": 122,
+    "property_type_counts_all_procedures": {
+      "Building": 65,
+      "Land": 38,
+      "Unit": 193
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__remah",
+    "community_kind": "official_area",
+    "community_name": "Remah",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__saih-aldahal",
+    "community_kind": "official_area",
+    "community_name": "Saih Aldahal",
+    "rows_all_procedures": 19,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 17
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__saih-shuaib-1",
+    "community_kind": "official_area",
+    "community_name": "Saih Shuaib 1",
+    "rows_all_procedures": 2851,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 2846,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__saih-shuaib-2",
+    "community_kind": "official_area",
+    "community_name": "Saih Shuaib 2",
+    "rows_all_procedures": 1651,
+    "residential_primary_sales": 957,
+    "property_type_counts_all_procedures": {
+      "Building": 68,
+      "Land": 423,
+      "Unit": 855,
+      "Villa": 305
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__saih-shuaib-3",
+    "community_kind": "official_area",
+    "community_name": "Saih Shuaib 3",
+    "rows_all_procedures": 174,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 51,
+      "Land": 123
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__saih-shuaib-4",
+    "community_kind": "official_area",
+    "community_name": "Saih Shuaib 4",
+    "rows_all_procedures": 413,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 47,
+      "Land": 366
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__shandagha-east",
+    "community_kind": "official_area",
+    "community_name": "Shandagha East",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__shandagha-west",
+    "community_kind": "official_area",
+    "community_name": "Shandagha West",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__sikkat-al-khail-north",
+    "community_kind": "official_area",
+    "community_name": "Sikkat Al Khail North",
+    "rows_all_procedures": 6,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 6
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__sikkat-al-khail-south",
+    "community_kind": "official_area",
+    "community_name": "Sikkat Al Khail South",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__tawaa-al-sayegh",
+    "community_kind": "official_area",
+    "community_name": "Tawaa Al Sayegh",
+    "rows_all_procedures": 21,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 21
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__tawi-al-muraqqab",
+    "community_kind": "official_area",
+    "community_name": "Tawi Al Muraqqab",
+    "rows_all_procedures": 16,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 16
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__trade-center-first",
+    "community_kind": "official_area",
+    "community_name": "Trade Center First",
+    "rows_all_procedures": 668,
+    "residential_primary_sales": 226,
+    "property_type_counts_all_procedures": {
+      "Building": 146,
+      "Land": 34,
+      "Unit": 488
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__trade-center-second",
+    "community_kind": "official_area",
+    "community_name": "Trade Center Second",
+    "rows_all_procedures": 1257,
+    "residential_primary_sales": 432,
+    "property_type_counts_all_procedures": {
+      "Building": 51,
+      "Land": 10,
+      "Unit": 1196
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-al-sheif",
+    "community_kind": "official_area",
+    "community_name": "Um Al Sheif",
+    "rows_all_procedures": 759,
+    "residential_primary_sales": 171,
+    "property_type_counts_all_procedures": {
+      "Building": 120,
+      "Land": 262,
+      "Villa": 377
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-esalay",
+    "community_kind": "official_area",
+    "community_name": "Um Esalay",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-hurair-first",
+    "community_kind": "official_area",
+    "community_name": "Um Hurair First",
+    "rows_all_procedures": 56,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 50,
+      "Land": 4,
+      "Villa": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-hurair-second",
+    "community_kind": "official_area",
+    "community_name": "Um Hurair Second",
+    "rows_all_procedures": 270,
+    "residential_primary_sales": 71,
+    "property_type_counts_all_procedures": {
+      "Building": 50,
+      "Land": 39,
+      "Unit": 181
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-ramool",
+    "community_kind": "official_area",
+    "community_name": "Um Ramool",
+    "rows_all_procedures": 115,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 108,
+      "Land": 7
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-suqaim",
+    "community_kind": "official_area",
+    "community_name": "Um Suqaim",
+    "rows_all_procedures": 359,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 359
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-suqaim-first",
+    "community_kind": "official_area",
+    "community_name": "Um Suqaim First",
+    "rows_all_procedures": 702,
+    "residential_primary_sales": 190,
+    "property_type_counts_all_procedures": {
+      "Building": 42,
+      "Land": 74,
+      "Villa": 586
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-suqaim-second",
+    "community_kind": "official_area",
+    "community_name": "Um Suqaim Second",
+    "rows_all_procedures": 798,
+    "residential_primary_sales": 220,
+    "property_type_counts_all_procedures": {
+      "Building": 59,
+      "Land": 145,
+      "Villa": 594
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__um-suqaim-third",
+    "community_kind": "official_area",
+    "community_name": "Um Suqaim Third",
+    "rows_all_procedures": 2926,
+    "residential_primary_sales": 2345,
+    "property_type_counts_all_procedures": {
+      "Building": 40,
+      "Land": 57,
+      "Unit": 2493,
+      "Villa": 336
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__umm-addamin",
+    "community_kind": "official_area",
+    "community_name": "Umm Addamin",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-amardi",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Amardi",
+    "rows_all_procedures": 372,
+    "residential_primary_sales": 1,
+    "property_type_counts_all_procedures": {
+      "Building": 119,
+      "Land": 193,
+      "Villa": 60
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-2",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 2",
+    "rows_all_procedures": 9931,
+    "residential_primary_sales": 5198,
+    "property_type_counts_all_procedures": {
+      "Building": 29,
+      "Land": 1430,
+      "Unit": 6869,
+      "Villa": 1603
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-3",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 3",
+    "rows_all_procedures": 11928,
+    "residential_primary_sales": 6712,
+    "property_type_counts_all_procedures": {
+      "Building": 62,
+      "Land": 1592,
+      "Unit": 6484,
+      "Villa": 3790
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-4",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 4",
+    "rows_all_procedures": 2620,
+    "residential_primary_sales": 2482,
+    "property_type_counts_all_procedures": {
+      "Building": 19,
+      "Land": 104,
+      "Unit": 2297,
+      "Villa": 200
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-5",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 5",
+    "rows_all_procedures": 34602,
+    "residential_primary_sales": 20547,
+    "property_type_counts_all_procedures": {
+      "Building": 109,
+      "Land": 2626,
+      "Unit": 18062,
+      "Villa": 13805
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-6",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 6",
+    "rows_all_procedures": 12971,
+    "residential_primary_sales": 5389,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 45,
+      "Villa": 12924
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__wadi-al-safa-7",
+    "community_kind": "official_area",
+    "community_name": "Wadi Al Safa 7",
+    "rows_all_procedures": 11341,
+    "residential_primary_sales": 5223,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 824,
+      "Unit": 1229,
+      "Villa": 9284
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__warsan-fourth",
+    "community_kind": "official_area",
+    "community_name": "Warsan Fourth",
+    "rows_all_procedures": 3589,
+    "residential_primary_sales": 2236,
+    "property_type_counts_all_procedures": {
+      "Building": 158,
+      "Land": 382,
+      "Unit": 3049
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__world-islands",
+    "community_kind": "official_area",
+    "community_name": "World Islands",
+    "rows_all_procedures": 793,
+    "residential_primary_sales": 36,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 74,
+      "Unit": 679,
+      "Villa": 38
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__yaraah",
+    "community_kind": "official_area",
+    "community_name": "Yaraah",
+    "rows_all_procedures": 1,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__zaabeel-first",
+    "community_kind": "official_area",
+    "community_name": "Zaabeel First",
+    "rows_all_procedures": 1525,
+    "residential_primary_sales": 1336,
+    "property_type_counts_all_procedures": {
+      "Land": 4,
+      "Unit": 1521
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__zaabeel-second",
+    "community_kind": "official_area",
+    "community_name": "Zaabeel Second",
+    "rows_all_procedures": 2921,
+    "residential_primary_sales": 2293,
+    "property_type_counts_all_procedures": {
+      "Building": 5,
+      "Land": 12,
+      "Unit": 2904
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "area__zareeba-duviya",
+    "community_kind": "official_area",
+    "community_name": "Zareeba Duviya",
+    "rows_all_procedures": 16,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 16
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__800-villas",
+    "community_kind": "master_project",
+    "community_name": "800 Villas",
+    "rows_all_procedures": 2267,
+    "residential_primary_sales": 1203,
+    "property_type_counts_all_procedures": {
+      "Villa": 2267
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__al-khawaneej-district",
+    "community_kind": "master_project",
+    "community_name": "AL KHAWANEEJ DISTRICT",
+    "rows_all_procedures": 271,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 271
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__al-warsan-industrial",
+    "community_kind": "master_project",
+    "community_name": "AL WARSAN INDUSTRIAL",
+    "rows_all_procedures": 89,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 89
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__al-barari",
+    "community_kind": "master_project",
+    "community_name": "Al Barari",
+    "rows_all_procedures": 1077,
+    "residential_primary_sales": 224,
+    "property_type_counts_all_procedures": {
+      "Land": 356,
+      "Villa": 721
+    },
+    "modal_area": "Wadi Al Safa 3",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__al-furjan",
+    "community_kind": "master_project",
+    "community_name": "Al Furjan",
+    "rows_all_procedures": 19886,
+    "residential_primary_sales": 7719,
+    "property_type_counts_all_procedures": {
+      "Building": 39,
+      "Land": 3732,
+      "Unit": 12343,
+      "Villa": 3772
+    },
+    "modal_area": "Jabal Ali First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__al-khail-towers",
+    "community_kind": "master_project",
+    "community_name": "Al Khail Towers",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 4
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__al-khawaneej-labour-city",
+    "community_kind": "master_project",
+    "community_name": "Al Khawaneej Labour City",
+    "rows_all_procedures": 162,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 40,
+      "Land": 122
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__al-waha-villas",
+    "community_kind": "master_project",
+    "community_name": "Al Waha Villas",
+    "rows_all_procedures": 656,
+    "residential_primary_sales": 281,
+    "property_type_counts_all_procedures": {
+      "Land": 1,
+      "Unit": 420,
+      "Villa": 235
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__al-wasl-district",
+    "community_kind": "master_project",
+    "community_name": "Al Wasl District",
+    "rows_all_procedures": 218,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 218
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__arabian-ranches-1",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches - 1",
+    "rows_all_procedures": 12961,
+    "residential_primary_sales": 5389,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 38,
+      "Villa": 12921
+    },
+    "modal_area": "Wadi Al Safa 6",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-golf-homes",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches - Golf Homes",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 5
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__arabian-ranches-polo-homes",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches - Polo Homes",
+    "rows_all_procedures": 188,
+    "residential_primary_sales": 41,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Villa": 185
+    },
+    "modal_area": "Al Hebiah Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-3",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches 3",
+    "rows_all_procedures": 4551,
+    "residential_primary_sales": 3086,
+    "property_type_counts_all_procedures": {
+      "Land": 514,
+      "Villa": 4037
+    },
+    "modal_area": "Wadi Al Safa 5",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-azalea",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - AZALEA",
+    "rows_all_procedures": 195,
+    "residential_primary_sales": 31,
+    "property_type_counts_all_procedures": {
+      "Villa": 195
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-casa",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - CASA",
+    "rows_all_procedures": 595,
+    "residential_primary_sales": 142,
+    "property_type_counts_all_procedures": {
+      "Villa": 595
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-camelia",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - Camelia",
+    "rows_all_procedures": 422,
+    "residential_primary_sales": 239,
+    "property_type_counts_all_procedures": {
+      "Villa": 422
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-lila",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - LILA",
+    "rows_all_procedures": 434,
+    "residential_primary_sales": 71,
+    "property_type_counts_all_procedures": {
+      "Villa": 434
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-palma",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - PALMA",
+    "rows_all_procedures": 233,
+    "residential_primary_sales": 45,
+    "property_type_counts_all_procedures": {
+      "Land": 4,
+      "Villa": 229
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-rasha",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - RASHA",
+    "rows_all_procedures": 270,
+    "residential_primary_sales": 42,
+    "property_type_counts_all_procedures": {
+      "Villa": 270
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-rosa",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - ROSA",
+    "rows_all_procedures": 287,
+    "residential_primary_sales": 39,
+    "property_type_counts_all_procedures": {
+      "Villa": 287
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-reem-community",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - Reem Community",
+    "rows_all_procedures": 355,
+    "residential_primary_sales": 189,
+    "property_type_counts_all_procedures": {
+      "Villa": 355
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-samara",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - SAMARA",
+    "rows_all_procedures": 328,
+    "residential_primary_sales": 50,
+    "property_type_counts_all_procedures": {
+      "Villa": 328
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arabian-ranches-ii-yasmin",
+    "community_kind": "master_project",
+    "community_name": "Arabian Ranches II - YASMIN",
+    "rows_all_procedures": 164,
+    "residential_primary_sales": 23,
+    "property_type_counts_all_procedures": {
+      "Villa": 164
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__arjan",
+    "community_kind": "master_project",
+    "community_name": "Arjan",
+    "rows_all_procedures": 15273,
+    "residential_primary_sales": 12075,
+    "property_type_counts_all_procedures": {
+      "Building": 93,
+      "Land": 287,
+      "Unit": 14893
+    },
+    "modal_area": "Al Barshaa South Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__badra",
+    "community_kind": "master_project",
+    "community_name": "Badra",
+    "rows_all_procedures": 345,
+    "residential_primary_sales": 223,
+    "property_type_counts_all_procedures": {
+      "Unit": 269,
+      "Villa": 76
+    },
+    "modal_area": "Hessyan First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__barsha-heights",
+    "community_kind": "master_project",
+    "community_name": "Barsha Heights",
+    "rows_all_procedures": 5173,
+    "residential_primary_sales": 915,
+    "property_type_counts_all_procedures": {
+      "Building": 158,
+      "Land": 59,
+      "Unit": 4955,
+      "Villa": 1
+    },
+    "modal_area": "Al Thanyah First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__bluewaters-island",
+    "community_kind": "master_project",
+    "community_name": "Bluewaters Island",
+    "rows_all_procedures": 1025,
+    "residential_primary_sales": 450,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 1,
+      "Unit": 1022
+    },
+    "modal_area": "Marsa Dubai",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__burj-khalifa",
+    "community_kind": "master_project",
+    "community_name": "Burj Khalifa",
+    "rows_all_procedures": 5,
+    "residential_primary_sales": 2,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Unit": 3
+    },
+    "modal_area": "Burj Khalifa",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__business-bay",
+    "community_kind": "master_project",
+    "community_name": "Business Bay",
+    "rows_all_procedures": 61611,
+    "residential_primary_sales": 30021,
+    "property_type_counts_all_procedures": {
+      "Building": 104,
+      "Land": 465,
+      "Unit": 61042
+    },
+    "modal_area": "Business Bay",
+    "modal_area_share": 0.849039006029113
+  },
+  {
+    "community_id": "master__business-park",
+    "community_kind": "master_project",
+    "community_name": "Business Park",
+    "rows_all_procedures": 536,
+    "residential_primary_sales": 531,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Unit": 533
+    },
+    "modal_area": "Zaabeel Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__city-of-arabia",
+    "community_kind": "master_project",
+    "community_name": "City Of Arabia",
+    "rows_all_procedures": 827,
+    "residential_primary_sales": 709,
+    "property_type_counts_all_procedures": {
+      "Building": 16,
+      "Land": 95,
+      "Unit": 689,
+      "Villa": 27
+    },
+    "modal_area": "Wadi Al Safa 4",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__city-walk",
+    "community_kind": "master_project",
+    "community_name": "City Walk",
+    "rows_all_procedures": 5553,
+    "residential_primary_sales": 3858,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 44,
+      "Unit": 5501
+    },
+    "modal_area": "Al Wasl",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__culture-village",
+    "community_kind": "master_project",
+    "community_name": "Culture Village",
+    "rows_all_procedures": 9,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 9
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__damac-hills",
+    "community_kind": "master_project",
+    "community_name": "DAMAC HILLS",
+    "rows_all_procedures": 12221,
+    "residential_primary_sales": 5181,
+    "property_type_counts_all_procedures": {
+      "Building": 10,
+      "Land": 1757,
+      "Unit": 7096,
+      "Villa": 3358
+    },
+    "modal_area": "Al Hebiah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__damac-hills-2",
+    "community_kind": "master_project",
+    "community_name": "DAMAC HILLS 2",
+    "rows_all_procedures": 15009,
+    "residential_primary_sales": 1596,
+    "property_type_counts_all_procedures": {
+      "Land": 10536,
+      "Unit": 2232,
+      "Villa": 2241
+    },
+    "modal_area": "Madinat Hind 4",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__damac-lagoons",
+    "community_kind": "master_project",
+    "community_name": "DAMAC Lagoons",
+    "rows_all_procedures": 4780,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 4780
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dmcc-ez1",
+    "community_kind": "master_project",
+    "community_name": "DMCC-EZ1",
+    "rows_all_procedures": 597,
+    "residential_primary_sales": 509,
+    "property_type_counts_all_procedures": {
+      "Building": 11,
+      "Land": 16,
+      "Unit": 570
+    },
+    "modal_area": "Al Thanyah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dmcc-ez2",
+    "community_kind": "master_project",
+    "community_name": "DMCC-EZ2",
+    "rows_all_procedures": 1542,
+    "residential_primary_sales": 643,
+    "property_type_counts_all_procedures": {
+      "Land": 16,
+      "Unit": 1526
+    },
+    "modal_area": "Jabal Ali First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS",
+    "rows_all_procedures": 250,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 247
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-club-villas",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - CLUB VILLAS",
+    "rows_all_procedures": 260,
+    "residential_primary_sales": 144,
+    "property_type_counts_all_procedures": {
+      "Land": 7,
+      "Villa": 253
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-emerald-hills",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - EMERALD HILLS",
+    "rows_all_procedures": 213,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 213
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-fairway-vistas",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - FAIRWAY VISTAS",
+    "rows_all_procedures": 114,
+    "residential_primary_sales": 12,
+    "property_type_counts_all_procedures": {
+      "Villa": 114
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-fairways",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - FAIRWAYS",
+    "rows_all_procedures": 218,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 218
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-golf-grove",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - GOLF GROVE",
+    "rows_all_procedures": 259,
+    "residential_primary_sales": 149,
+    "property_type_counts_all_procedures": {
+      "Villa": 259
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-golf-place",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - GOLF PLACE",
+    "rows_all_procedures": 285,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 285
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-golf-terraces",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - GOLF TERRACES",
+    "rows_all_procedures": 176,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 176
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-hills-grove",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - HILLS GROVE",
+    "rows_all_procedures": 22,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 22
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-hills-view",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - HILLS VIEW",
+    "rows_all_procedures": 118,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 118
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-lambourghini",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - LAMBOURGHINI",
+    "rows_all_procedures": 26,
+    "residential_primary_sales": 20,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Villa": 23
+    },
+    "modal_area": "Al Bada",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-maple-1",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - MAPLE 1",
+    "rows_all_procedures": 1143,
+    "residential_primary_sales": 660,
+    "property_type_counts_all_procedures": {
+      "Villa": 1143
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-maple-2",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - MAPLE 2",
+    "rows_all_procedures": 1040,
+    "residential_primary_sales": 634,
+    "property_type_counts_all_procedures": {
+      "Villa": 1040
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-maple-3",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - MAPLE 3",
+    "rows_all_procedures": 906,
+    "residential_primary_sales": 481,
+    "property_type_counts_all_procedures": {
+      "Villa": 906
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-palm-hills",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - PALM HILLS",
+    "rows_all_procedures": 116,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 116
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-parkway-vistas",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - PARKWAY VISTAS",
+    "rows_all_procedures": 106,
+    "residential_primary_sales": 23,
+    "property_type_counts_all_procedures": {
+      "Villa": 106
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-parkways",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - PARKWAYS",
+    "rows_all_procedures": 177,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 176,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-hills-sidra-1",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - SIDRA 1",
+    "rows_all_procedures": 907,
+    "residential_primary_sales": 150,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 905
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-sidra-2",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - SIDRA 2",
+    "rows_all_procedures": 772,
+    "residential_primary_sales": 117,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 770
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-sidra-3",
+    "community_kind": "master_project",
+    "community_name": "DUBAI HILLS - SIDRA 3",
+    "rows_all_procedures": 549,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 549
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__discovery-gardens",
+    "community_kind": "master_project",
+    "community_name": "Discovery Gardens",
+    "rows_all_procedures": 11474,
+    "residential_primary_sales": 7580,
+    "property_type_counts_all_procedures": {
+      "Building": 120,
+      "Land": 39,
+      "Unit": 11315
+    },
+    "modal_area": "Jabal Ali",
+    "modal_area_share": 0.8310026385224274
+  },
+  {
+    "community_id": "master__down-town-jabal-ali",
+    "community_kind": "master_project",
+    "community_name": "Down Town Jabal Ali",
+    "rows_all_procedures": 2042,
+    "residential_primary_sales": 1447,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 78,
+      "Unit": 1960
+    },
+    "modal_area": "Jabal Ali Industrial Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__downtown-dubai",
+    "community_kind": "master_project",
+    "community_name": "DownTown Dubai",
+    "rows_all_procedures": 43577,
+    "residential_primary_sales": 23740,
+    "property_type_counts_all_procedures": {
+      "Building": 54,
+      "Land": 103,
+      "Unit": 43420
+    },
+    "modal_area": "Burj Khalifa",
+    "modal_area_share": 0.9698820556023589
+  },
+  {
+    "community_id": "master__dubai-creek-harbour",
+    "community_kind": "master_project",
+    "community_name": "Dubai Creek Harbour",
+    "rows_all_procedures": 16765,
+    "residential_primary_sales": 12313,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Unit": 16762
+    },
+    "modal_area": "Al Khairan First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-harbour",
+    "community_kind": "master_project",
+    "community_name": "Dubai Harbour",
+    "rows_all_procedures": 7983,
+    "residential_primary_sales": 6993,
+    "property_type_counts_all_procedures": {
+      "Building": 5,
+      "Land": 9,
+      "Unit": 7969
+    },
+    "modal_area": "Marsa Dubai",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-health-care-city-phase-1",
+    "community_kind": "master_project",
+    "community_name": "Dubai Health Care City Phase 1",
+    "rows_all_procedures": 245,
+    "residential_primary_sales": 71,
+    "property_type_counts_all_procedures": {
+      "Building": 29,
+      "Land": 35,
+      "Unit": 181
+    },
+    "modal_area": "Um Hurair Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-health-care-city-phase-2",
+    "community_kind": "master_project",
+    "community_name": "Dubai Health Care City Phase 2",
+    "rows_all_procedures": 3900,
+    "residential_primary_sales": 3129,
+    "property_type_counts_all_procedures": {
+      "Building": 18,
+      "Land": 93,
+      "Unit": 3789
+    },
+    "modal_area": "Al Jadaf",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-hills-estate",
+    "community_kind": "master_project",
+    "community_name": "Dubai Hills Estate",
+    "rows_all_procedures": 15823,
+    "residential_primary_sales": 12633,
+    "property_type_counts_all_procedures": {
+      "Land": 24,
+      "Unit": 15799
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-industrial-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Industrial City",
+    "rows_all_procedures": 587,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 98,
+      "Land": 489
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-international-academic-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai International Academic City",
+    "rows_all_procedures": 26,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 26
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-international-financial-center",
+    "community_kind": "master_project",
+    "community_name": "Dubai International Financial Center",
+    "rows_all_procedures": 72,
+    "residential_primary_sales": 65,
+    "property_type_counts_all_procedures": {
+      "Land": 5,
+      "Unit": 66,
+      "Villa": 1
+    },
+    "modal_area": "Zaabeel Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-investment-park-first",
+    "community_kind": "master_project",
+    "community_name": "Dubai Investment Park First",
+    "rows_all_procedures": 6646,
+    "residential_primary_sales": 585,
+    "property_type_counts_all_procedures": {
+      "Building": 921,
+      "Land": 288,
+      "Unit": 2654,
+      "Villa": 2783
+    },
+    "modal_area": "Dubai Investment Park First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-investment-park-second",
+    "community_kind": "master_project",
+    "community_name": "Dubai Investment Park Second",
+    "rows_all_procedures": 2878,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1277,
+      "Land": 190,
+      "Unit": 1409,
+      "Villa": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-land-residence-complex",
+    "community_kind": "master_project",
+    "community_name": "Dubai Land Residence Complex",
+    "rows_all_procedures": 17758,
+    "residential_primary_sales": 10851,
+    "property_type_counts_all_procedures": {
+      "Building": 107,
+      "Land": 308,
+      "Unit": 17343
+    },
+    "modal_area": "Wadi Al Safa 5",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-life-style-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Life Style City",
+    "rows_all_procedures": 59,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 58,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-marina",
+    "community_kind": "master_project",
+    "community_name": "Dubai Marina",
+    "rows_all_procedures": 59653,
+    "residential_primary_sales": 38897,
+    "property_type_counts_all_procedures": {
+      "Building": 173,
+      "Land": 111,
+      "Unit": 59265,
+      "Villa": 104
+    },
+    "modal_area": "Marsa Dubai",
+    "modal_area_share": 0.9999228732292978
+  },
+  {
+    "community_id": "master__dubai-maritime-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Maritime City",
+    "rows_all_procedures": 4788,
+    "residential_primary_sales": 4562,
+    "property_type_counts_all_procedures": {
+      "Building": 7,
+      "Land": 83,
+      "Unit": 4698
+    },
+    "modal_area": "Madinat Dubai Almelaheyah",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-outsource-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Outsource City",
+    "rows_all_procedures": 9,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 9
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__dubai-science-park",
+    "community_kind": "master_project",
+    "community_name": "Dubai Science Park",
+    "rows_all_procedures": 7432,
+    "residential_primary_sales": 5606,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 96,
+      "Unit": 6471,
+      "Villa": 857
+    },
+    "modal_area": "Al Barshaa South Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-south-residential-district",
+    "community_kind": "master_project",
+    "community_name": "Dubai South Residential District",
+    "rows_all_procedures": 7545,
+    "residential_primary_sales": 5224,
+    "property_type_counts_all_procedures": {
+      "Building": 45,
+      "Land": 336,
+      "Unit": 5128,
+      "Villa": 2036
+    },
+    "modal_area": "Madinat Al Mataar",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-sports-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Sports City",
+    "rows_all_procedures": 24044,
+    "residential_primary_sales": 16785,
+    "property_type_counts_all_procedures": {
+      "Building": 100,
+      "Land": 387,
+      "Unit": 20326,
+      "Villa": 3231
+    },
+    "modal_area": "Al Hebiah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-studio-city",
+    "community_kind": "master_project",
+    "community_name": "Dubai Studio City",
+    "rows_all_procedures": 3093,
+    "residential_primary_sales": 2312,
+    "property_type_counts_all_procedures": {
+      "Building": 20,
+      "Land": 52,
+      "Unit": 3021
+    },
+    "modal_area": "Al Hebiah Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubai-water-canal",
+    "community_kind": "master_project",
+    "community_name": "Dubai Water Canal",
+    "rows_all_procedures": 2081,
+    "residential_primary_sales": 1762,
+    "property_type_counts_all_procedures": {
+      "Land": 51,
+      "Unit": 2030
+    },
+    "modal_area": "Al Wasl",
+    "modal_area_share": 0.9409761634506243
+  },
+  {
+    "community_id": "master__dubai-water-front",
+    "community_kind": "master_project",
+    "community_name": "Dubai Water Front",
+    "rows_all_procedures": 112,
+    "residential_primary_sales": 4,
+    "property_type_counts_all_procedures": {
+      "Land": 85,
+      "Unit": 23,
+      "Villa": 4
+    },
+    "modal_area": "Hessyan First",
+    "modal_area_share": 0.75
+  },
+  {
+    "community_id": "master__dubai-world-central",
+    "community_kind": "master_project",
+    "community_name": "Dubai World Central",
+    "rows_all_procedures": 12538,
+    "residential_primary_sales": 9758,
+    "property_type_counts_all_procedures": {
+      "Land": 719,
+      "Unit": 6876,
+      "Villa": 4943
+    },
+    "modal_area": "Madinat Al Mataar",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__dubiotech",
+    "community_kind": "master_project",
+    "community_name": "Dubiotech",
+    "rows_all_procedures": 12,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 12
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__emaar-s-street-of-dreams",
+    "community_kind": "master_project",
+    "community_name": "Emaar's Street Of Dreams",
+    "rows_all_procedures": 18,
+    "residential_primary_sales": 8,
+    "property_type_counts_all_procedures": {
+      "Villa": 18
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__emirates-hills",
+    "community_kind": "master_project",
+    "community_name": "Emirates Hills",
+    "rows_all_procedures": 1612,
+    "residential_primary_sales": 261,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 1020,
+      "Villa": 588
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__falcon-city",
+    "community_kind": "master_project",
+    "community_name": "Falcon City",
+    "rows_all_procedures": 2668,
+    "residential_primary_sales": 698,
+    "property_type_counts_all_procedures": {
+      "Building": 6,
+      "Land": 1036,
+      "Unit": 439,
+      "Villa": 1187
+    },
+    "modal_area": "Wadi Al Safa 2",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__festival-city",
+    "community_kind": "master_project",
+    "community_name": "Festival City",
+    "rows_all_procedures": 703,
+    "residential_primary_sales": 359,
+    "property_type_counts_all_procedures": {
+      "Building": 9,
+      "Land": 20,
+      "Unit": 633,
+      "Villa": 41
+    },
+    "modal_area": "Al Kheeran",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__garden-view",
+    "community_kind": "master_project",
+    "community_name": "Garden View",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 1,
+      "Villa": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__global-village",
+    "community_kind": "master_project",
+    "community_name": "Global Village",
+    "rows_all_procedures": 6,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__hadaeq-sheikh-mohammed-bin-rashid-disrict-7",
+    "community_kind": "master_project",
+    "community_name": "HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7",
+    "rows_all_procedures": 1864,
+    "residential_primary_sales": 1587,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 85,
+      "Unit": 1023,
+      "Villa": 753
+    },
+    "modal_area": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__ibn-battuta",
+    "community_kind": "master_project",
+    "community_name": "Ibn Battuta",
+    "rows_all_procedures": 6,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__international-city-phase-1",
+    "community_kind": "master_project",
+    "community_name": "International City Phase 1",
+    "rows_all_procedures": 35147,
+    "residential_primary_sales": 24674,
+    "property_type_counts_all_procedures": {
+      "Building": 384,
+      "Land": 192,
+      "Unit": 33341,
+      "Villa": 1230
+    },
+    "modal_area": "Al Warsan First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__international-city-phase-3",
+    "community_kind": "master_project",
+    "community_name": "International City Phase 3",
+    "rows_all_procedures": 3583,
+    "residential_primary_sales": 2236,
+    "property_type_counts_all_procedures": {
+      "Building": 158,
+      "Land": 376,
+      "Unit": 3049
+    },
+    "modal_area": "Warsan Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__international-media-production-zone",
+    "community_kind": "master_project",
+    "community_name": "International Media Production Zone",
+    "rows_all_procedures": 15014,
+    "residential_primary_sales": 10847,
+    "property_type_counts_all_procedures": {
+      "Building": 45,
+      "Land": 243,
+      "Unit": 14726
+    },
+    "modal_area": "Me'Aisem First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jabal-ali-industrial-development",
+    "community_kind": "master_project",
+    "community_name": "JABAL ALI INDUSTRIAL DEVELOPMENT",
+    "rows_all_procedures": 666,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 242,
+      "Land": 424
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__jabel-ali-hills",
+    "community_kind": "master_project",
+    "community_name": "JABEL ALI HILLS",
+    "rows_all_procedures": 2833,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 2829,
+      "Villa": 1
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__jabal-ali-village",
+    "community_kind": "master_project",
+    "community_name": "Jabal Ali Village",
+    "rows_all_procedures": 740,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 740
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__jaddaf-waterfront",
+    "community_kind": "master_project",
+    "community_name": "Jaddaf Waterfront",
+    "rows_all_procedures": 3406,
+    "residential_primary_sales": 2364,
+    "property_type_counts_all_procedures": {
+      "Building": 39,
+      "Land": 118,
+      "Unit": 3249
+    },
+    "modal_area": "Al Jadaf",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeira-bay",
+    "community_kind": "master_project",
+    "community_name": "Jumeira Bay",
+    "rows_all_procedures": 612,
+    "residential_primary_sales": 240,
+    "property_type_counts_all_procedures": {
+      "Land": 184,
+      "Unit": 294,
+      "Villa": 134
+    },
+    "modal_area": "Island 2",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-garden-city",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Garden City",
+    "rows_all_procedures": 1219,
+    "residential_primary_sales": 879,
+    "property_type_counts_all_procedures": {
+      "Building": 17,
+      "Land": 271,
+      "Unit": 930,
+      "Villa": 1
+    },
+    "modal_area": "Al Satwa",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-golf-estates",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Golf Estates",
+    "rows_all_procedures": 5000,
+    "residential_primary_sales": 1160,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 1048,
+      "Unit": 1122,
+      "Villa": 2829
+    },
+    "modal_area": "Me'Aisem First",
+    "modal_area_share": 0.9991379310344828
+  },
+  {
+    "community_id": "master__jumeirah-golf-estates-phase-b",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Golf Estates - Phase B",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__jumeirah-heights",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Heights",
+    "rows_all_procedures": 688,
+    "residential_primary_sales": 294,
+    "property_type_counts_all_procedures": {
+      "Unit": 688
+    },
+    "modal_area": "Al Thanyah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-islands",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Islands",
+    "rows_all_procedures": 8207,
+    "residential_primary_sales": 5484,
+    "property_type_counts_all_procedures": {
+      "Building": 18,
+      "Land": 226,
+      "Unit": 5361,
+      "Villa": 2602
+    },
+    "modal_area": "Al Thanyah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-lakes-towers",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Lakes Towers",
+    "rows_all_procedures": 43664,
+    "residential_primary_sales": 18214,
+    "property_type_counts_all_procedures": {
+      "Building": 81,
+      "Land": 230,
+      "Unit": 43352,
+      "Villa": 1
+    },
+    "modal_area": "Al Thanyah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-park",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Park",
+    "rows_all_procedures": 6614,
+    "residential_primary_sales": 1909,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 190,
+      "Villa": 6423
+    },
+    "modal_area": "Al Thanyah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-village-circle",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Village Circle",
+    "rows_all_procedures": 63627,
+    "residential_primary_sales": 45416,
+    "property_type_counts_all_procedures": {
+      "Building": 445,
+      "Land": 1127,
+      "Unit": 56790,
+      "Villa": 5265
+    },
+    "modal_area": "Al Barsha South Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeirah-village-triangle",
+    "community_kind": "master_project",
+    "community_name": "Jumeirah Village Triangle",
+    "rows_all_procedures": 12359,
+    "residential_primary_sales": 7930,
+    "property_type_counts_all_procedures": {
+      "Building": 54,
+      "Land": 227,
+      "Unit": 7870,
+      "Villa": 4208
+    },
+    "modal_area": "Al Barsha South Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__jumeriah-beach-residence-jbr",
+    "community_kind": "master_project",
+    "community_name": "Jumeriah Beach Residence - JBR",
+    "rows_all_procedures": 13853,
+    "residential_primary_sales": 9077,
+    "property_type_counts_all_procedures": {
+      "Building": 49,
+      "Land": 18,
+      "Unit": 13786
+    },
+    "modal_area": "Marsa Dubai",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__la-mer",
+    "community_kind": "master_project",
+    "community_name": "LA MER",
+    "rows_all_procedures": 2093,
+    "residential_primary_sales": 1661,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 131,
+      "Unit": 1759,
+      "Villa": 201
+    },
+    "modal_area": "Jumeirah First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-deema-1",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Deema 1",
+    "rows_all_procedures": 214,
+    "residential_primary_sales": 98,
+    "property_type_counts_all_procedures": {
+      "Villa": 214
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-deema-2",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Deema 2",
+    "rows_all_procedures": 146,
+    "residential_primary_sales": 81,
+    "property_type_counts_all_procedures": {
+      "Villa": 146
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-deema-3",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Deema 3",
+    "rows_all_procedures": 172,
+    "residential_primary_sales": 78,
+    "property_type_counts_all_procedures": {
+      "Villa": 172
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-deema-4",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Deema 4",
+    "rows_all_procedures": 171,
+    "residential_primary_sales": 83,
+    "property_type_counts_all_procedures": {
+      "Villa": 171
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-forat",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Forat",
+    "rows_all_procedures": 170,
+    "residential_primary_sales": 74,
+    "property_type_counts_all_procedures": {
+      "Villa": 170
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-ghadeer",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Ghadeer",
+    "rows_all_procedures": 320,
+    "residential_primary_sales": 137,
+    "property_type_counts_all_procedures": {
+      "Land": 1,
+      "Villa": 319
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-hattan-i",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Hattan I",
+    "rows_all_procedures": 133,
+    "residential_primary_sales": 59,
+    "property_type_counts_all_procedures": {
+      "Villa": 133
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-hattan-ii",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Hattan II",
+    "rows_all_procedures": 227,
+    "residential_primary_sales": 89,
+    "property_type_counts_all_procedures": {
+      "Villa": 227
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-hattan-iii",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Hattan III",
+    "rows_all_procedures": 102,
+    "residential_primary_sales": 46,
+    "property_type_counts_all_procedures": {
+      "Villa": 102
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__lakes-maeen",
+    "community_kind": "master_project",
+    "community_name": "Lakes - Maeen",
+    "rows_all_procedures": 825,
+    "residential_primary_sales": 339,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Villa": 822
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__living-legends",
+    "community_kind": "master_project",
+    "community_name": "Living Legends",
+    "rows_all_procedures": 2535,
+    "residential_primary_sales": 1008,
+    "property_type_counts_all_procedures": {
+      "Building": 13,
+      "Land": 307,
+      "Unit": 919,
+      "Villa": 1296
+    },
+    "modal_area": "Wadi Al Safa 3",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__liwan",
+    "community_kind": "master_project",
+    "community_name": "Liwan",
+    "rows_all_procedures": 47,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 47
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__liwan1",
+    "community_kind": "master_project",
+    "community_name": "Liwan1",
+    "rows_all_procedures": 6593,
+    "residential_primary_sales": 4136,
+    "property_type_counts_all_procedures": {
+      "Building": 22,
+      "Land": 92,
+      "Unit": 6424,
+      "Villa": 55
+    },
+    "modal_area": "Wadi Al Safa 2",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__liwan2",
+    "community_kind": "master_project",
+    "community_name": "Liwan2",
+    "rows_all_procedures": 186,
+    "residential_primary_sales": 4,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 179,
+      "Unit": 6
+    },
+    "modal_area": "Wadi Al Safa 2",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__madinat-badr",
+    "community_kind": "master_project",
+    "community_name": "Madinat Badr",
+    "rows_all_procedures": 614,
+    "residential_primary_sales": 55,
+    "property_type_counts_all_procedures": {
+      "Unit": 614
+    },
+    "modal_area": "Muhaisanah First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__majan",
+    "community_kind": "master_project",
+    "community_name": "Majan",
+    "rows_all_procedures": 4840,
+    "residential_primary_sales": 3379,
+    "property_type_counts_all_procedures": {
+      "Building": 37,
+      "Land": 371,
+      "Unit": 4431,
+      "Villa": 1
+    },
+    "modal_area": "Wadi Al Safa 3",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-1",
+    "community_kind": "master_project",
+    "community_name": "Meadows 1",
+    "rows_all_procedures": 1074,
+    "residential_primary_sales": 429,
+    "property_type_counts_all_procedures": {
+      "Villa": 1074
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-2",
+    "community_kind": "master_project",
+    "community_name": "Meadows 2",
+    "rows_all_procedures": 1037,
+    "residential_primary_sales": 475,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 1035
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-3",
+    "community_kind": "master_project",
+    "community_name": "Meadows 3",
+    "rows_all_procedures": 163,
+    "residential_primary_sales": 69,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 161
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-4",
+    "community_kind": "master_project",
+    "community_name": "Meadows 4",
+    "rows_all_procedures": 337,
+    "residential_primary_sales": 135,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 335
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-5",
+    "community_kind": "master_project",
+    "community_name": "Meadows 5",
+    "rows_all_procedures": 619,
+    "residential_primary_sales": 251,
+    "property_type_counts_all_procedures": {
+      "Villa": 619
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-6",
+    "community_kind": "master_project",
+    "community_name": "Meadows 6",
+    "rows_all_procedures": 377,
+    "residential_primary_sales": 156,
+    "property_type_counts_all_procedures": {
+      "Villa": 377
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-7",
+    "community_kind": "master_project",
+    "community_name": "Meadows 7",
+    "rows_all_procedures": 343,
+    "residential_primary_sales": 141,
+    "property_type_counts_all_procedures": {
+      "Villa": 343
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-8",
+    "community_kind": "master_project",
+    "community_name": "Meadows 8",
+    "rows_all_procedures": 339,
+    "residential_primary_sales": 154,
+    "property_type_counts_all_procedures": {
+      "Villa": 339
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meadows-9",
+    "community_kind": "master_project",
+    "community_name": "Meadows 9",
+    "rows_all_procedures": 1218,
+    "residential_primary_sales": 502,
+    "property_type_counts_all_procedures": {
+      "Villa": 1218
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meydan",
+    "community_kind": "master_project",
+    "community_name": "Meydan",
+    "rows_all_procedures": 47,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 47
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__meydan-one-community",
+    "community_kind": "master_project",
+    "community_name": "Meydan One Community",
+    "rows_all_procedures": 10088,
+    "residential_primary_sales": 7904,
+    "property_type_counts_all_procedures": {
+      "Building": 23,
+      "Land": 61,
+      "Unit": 10004
+    },
+    "modal_area": "Al Merkadh",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__meydan-racecourse-community",
+    "community_kind": "master_project",
+    "community_name": "Meydan Racecourse Community",
+    "rows_all_procedures": 2916,
+    "residential_primary_sales": 1486,
+    "property_type_counts_all_procedures": {
+      "Building": 34,
+      "Land": 237,
+      "Unit": 2645
+    },
+    "modal_area": "Nad Al Shiba First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__mina-rashid",
+    "community_kind": "master_project",
+    "community_name": "Mina Rashid",
+    "rows_all_procedures": 2540,
+    "residential_primary_sales": 2509,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 2,
+      "Unit": 2537
+    },
+    "modal_area": "Madinat Dubai Almelaheyah",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__mohammed-bin-rashid-al-maktoum-city-district-1-community",
+    "community_kind": "master_project",
+    "community_name": "Mohammed Bin Rashid AL Maktoum City -District -1 Community",
+    "rows_all_procedures": 2928,
+    "residential_primary_sales": 2107,
+    "property_type_counts_all_procedures": {
+      "Land": 396,
+      "Unit": 2532
+    },
+    "modal_area": "Al Merkadh",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__mohammed-bin-rashid-al-maktoum-district-11",
+    "community_kind": "master_project",
+    "community_name": "Mohammed Bin Rashid AL Maktoum District 11",
+    "rows_all_procedures": 2127,
+    "residential_primary_sales": 1374,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 341,
+      "Unit": 423,
+      "Villa": 1362
+    },
+    "modal_area": "Wadi Al Safa 3",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__motor-city",
+    "community_kind": "master_project",
+    "community_name": "Motor City",
+    "rows_all_procedures": 13719,
+    "residential_primary_sales": 7687,
+    "property_type_counts_all_procedures": {
+      "Building": 21,
+      "Land": 115,
+      "Unit": 12456,
+      "Villa": 1127
+    },
+    "modal_area": "Al Hebiah First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__mudon",
+    "community_kind": "master_project",
+    "community_name": "Mudon",
+    "rows_all_procedures": 5403,
+    "residential_primary_sales": 1934,
+    "property_type_counts_all_procedures": {
+      "Land": 2095,
+      "Unit": 216,
+      "Villa": 3092
+    },
+    "modal_area": "Al Hebiah Sixth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__nad-al-sheba-gardens",
+    "community_kind": "master_project",
+    "community_name": "Nad Al Sheba Gardens",
+    "rows_all_procedures": 1441,
+    "residential_primary_sales": 389,
+    "property_type_counts_all_procedures": {
+      "Land": 1047,
+      "Unit": 51,
+      "Villa": 343
+    },
+    "modal_area": "Nad Al Shiba First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__nad-al-shiba-villas",
+    "community_kind": "master_project",
+    "community_name": "Nad Al Shiba Villas",
+    "rows_all_procedures": 2041,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 2041
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__palm-deira",
+    "community_kind": "master_project",
+    "community_name": "Palm Deira",
+    "rows_all_procedures": 3692,
+    "residential_primary_sales": 2975,
+    "property_type_counts_all_procedures": {
+      "Land": 697,
+      "Unit": 2995
+    },
+    "modal_area": "Palm Deira",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__palm-jabal-ali",
+    "community_kind": "master_project",
+    "community_name": "Palm Jabal Ali",
+    "rows_all_procedures": 903,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 902
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__palm-jumeirah",
+    "community_kind": "master_project",
+    "community_name": "Palm Jumeirah",
+    "rows_all_procedures": 26630,
+    "residential_primary_sales": 15601,
+    "property_type_counts_all_procedures": {
+      "Building": 74,
+      "Land": 913,
+      "Unit": 22016,
+      "Villa": 3627
+    },
+    "modal_area": "Palm Jumeirah",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__pearl-jumeira",
+    "community_kind": "master_project",
+    "community_name": "Pearl Jumeira",
+    "rows_all_procedures": 578,
+    "residential_primary_sales": 39,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 476,
+      "Unit": 87,
+      "Villa": 12
+    },
+    "modal_area": "Jumeirah First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__remraam",
+    "community_kind": "master_project",
+    "community_name": "Remraam",
+    "rows_all_procedures": 7606,
+    "residential_primary_sales": 4312,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 8,
+      "Unit": 7596
+    },
+    "modal_area": "Al Hebiah Fifth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__residential-complex",
+    "community_kind": "master_project",
+    "community_name": "Residential Complex",
+    "rows_all_procedures": 172,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 172
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__rukan",
+    "community_kind": "master_project",
+    "community_name": "Rukan",
+    "rows_all_procedures": 2199,
+    "residential_primary_sales": 1425,
+    "property_type_counts_all_procedures": {
+      "Land": 3,
+      "Unit": 809,
+      "Villa": 1387
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__sobha-hartland",
+    "community_kind": "master_project",
+    "community_name": "SOBHA HARTLAND",
+    "rows_all_procedures": 10064,
+    "residential_primary_sales": 7663,
+    "property_type_counts_all_procedures": {
+      "Building": 12,
+      "Land": 383,
+      "Unit": 9553,
+      "Villa": 116
+    },
+    "modal_area": "Al Merkadh",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__sama-al-jadaf",
+    "community_kind": "master_project",
+    "community_name": "Sama Al Jadaf",
+    "rows_all_procedures": 909,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 125,
+      "Land": 784
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__silicon-oasis",
+    "community_kind": "master_project",
+    "community_name": "Silicon Oasis",
+    "rows_all_procedures": 20785,
+    "residential_primary_sales": 4789,
+    "property_type_counts_all_procedures": {
+      "Building": 226,
+      "Land": 320,
+      "Unit": 19140,
+      "Villa": 1099
+    },
+    "modal_area": "Nadd Hessa",
+    "modal_area_share": 0.8726247650866569
+  },
+  {
+    "community_id": "master__site-a",
+    "community_kind": "master_project",
+    "community_name": "Site A",
+    "rows_all_procedures": 1174,
+    "residential_primary_sales": 959,
+    "property_type_counts_all_procedures": {
+      "Building": 93,
+      "Land": 50,
+      "Unit": 1020,
+      "Villa": 11
+    },
+    "modal_area": "Al Safouh Second",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-1",
+    "community_kind": "master_project",
+    "community_name": "Springs - 1",
+    "rows_all_procedures": 3821,
+    "residential_primary_sales": 1757,
+    "property_type_counts_all_procedures": {
+      "Villa": 3821
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-2",
+    "community_kind": "master_project",
+    "community_name": "Springs - 2",
+    "rows_all_procedures": 2427,
+    "residential_primary_sales": 1138,
+    "property_type_counts_all_procedures": {
+      "Villa": 2427
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-3",
+    "community_kind": "master_project",
+    "community_name": "Springs - 3",
+    "rows_all_procedures": 1523,
+    "residential_primary_sales": 656,
+    "property_type_counts_all_procedures": {
+      "Villa": 1523
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-4",
+    "community_kind": "master_project",
+    "community_name": "Springs - 4",
+    "rows_all_procedures": 1104,
+    "residential_primary_sales": 518,
+    "property_type_counts_all_procedures": {
+      "Villa": 1104
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-5",
+    "community_kind": "master_project",
+    "community_name": "Springs - 5",
+    "rows_all_procedures": 816,
+    "residential_primary_sales": 399,
+    "property_type_counts_all_procedures": {
+      "Villa": 816
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-6",
+    "community_kind": "master_project",
+    "community_name": "Springs - 6",
+    "rows_all_procedures": 1186,
+    "residential_primary_sales": 537,
+    "property_type_counts_all_procedures": {
+      "Land": 2,
+      "Villa": 1184
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__springs-7",
+    "community_kind": "master_project",
+    "community_name": "Springs - 7",
+    "rows_all_procedures": 1199,
+    "residential_primary_sales": 575,
+    "property_type_counts_all_procedures": {
+      "Villa": 1199
+    },
+    "modal_area": "Al Thanayah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__sufouh-gardens",
+    "community_kind": "master_project",
+    "community_name": "Sufouh Gardens",
+    "rows_all_procedures": 1150,
+    "residential_primary_sales": 521,
+    "property_type_counts_all_procedures": {
+      "Building": 38,
+      "Land": 39,
+      "Unit": 922,
+      "Villa": 151
+    },
+    "modal_area": "Al Safouh First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__tecom-site-a",
+    "community_kind": "master_project",
+    "community_name": "TECOM Site A",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__tecom-site-b",
+    "community_kind": "master_project",
+    "community_name": "TECOM Site B",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__tecom-site-c",
+    "community_kind": "master_project",
+    "community_name": "TECOM Site C",
+    "rows_all_procedures": 2,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Building": 2
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__tecom-site-d",
+    "community_kind": "master_project",
+    "community_name": "TECOM Site D",
+    "rows_all_procedures": 470,
+    "residential_primary_sales": 454,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 3,
+      "Unit": 464
+    },
+    "modal_area": "Marsa Dubai",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__the-sustainable-city",
+    "community_kind": "master_project",
+    "community_name": "THE SUSTAINABLE CITY",
+    "rows_all_procedures": 939,
+    "residential_primary_sales": 381,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 14,
+      "Villa": 921
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__tilal-al-ghaf",
+    "community_kind": "master_project",
+    "community_name": "TILAL AL GHAF",
+    "rows_all_procedures": 3835,
+    "residential_primary_sales": 1728,
+    "property_type_counts_all_procedures": {
+      "Land": 1475,
+      "Villa": 2360
+    },
+    "modal_area": "Al Hebiah Fourth",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__town-square",
+    "community_kind": "master_project",
+    "community_name": "TOWN SQUARE",
+    "rows_all_procedures": 14715,
+    "residential_primary_sales": 9861,
+    "property_type_counts_all_procedures": {
+      "Building": 3,
+      "Land": 55,
+      "Unit": 8805,
+      "Villa": 5852
+    },
+    "modal_area": "Al Yelayiss 2",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__the-gardens",
+    "community_kind": "master_project",
+    "community_name": "The Gardens",
+    "rows_all_procedures": 3,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 3
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__the-greens",
+    "community_kind": "master_project",
+    "community_name": "The Greens",
+    "rows_all_procedures": 16312,
+    "residential_primary_sales": 8458,
+    "property_type_counts_all_procedures": {
+      "Building": 18,
+      "Land": 7,
+      "Unit": 16287
+    },
+    "modal_area": "Al Thanyah Third",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__the-lagoons",
+    "community_kind": "master_project",
+    "community_name": "The Lagoons",
+    "rows_all_procedures": 13,
+    "residential_primary_sales": 0,
+    "property_type_counts_all_procedures": {
+      "Land": 13
+    },
+    "modal_area": null,
+    "modal_area_share": null
+  },
+  {
+    "community_id": "master__the-palmarosa",
+    "community_kind": "master_project",
+    "community_name": "The Palmarosa",
+    "rows_all_procedures": 53,
+    "residential_primary_sales": 47,
+    "property_type_counts_all_procedures": {
+      "Villa": 53
+    },
+    "modal_area": "Wadi Al Safa 7",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__the-villa",
+    "community_kind": "master_project",
+    "community_name": "The Villa",
+    "rows_all_procedures": 4849,
+    "residential_primary_sales": 1043,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 1897,
+      "Villa": 2950
+    },
+    "modal_area": "Wadi Al Safa 5",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__the-world",
+    "community_kind": "master_project",
+    "community_name": "The World",
+    "rows_all_procedures": 764,
+    "residential_primary_sales": 36,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 45,
+      "Unit": 679,
+      "Villa": 38
+    },
+    "modal_area": "World Islands",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__uptown-mirdif",
+    "community_kind": "master_project",
+    "community_name": "Uptown Mirdif",
+    "rows_all_procedures": 846,
+    "residential_primary_sales": 102,
+    "property_type_counts_all_procedures": {
+      "Building": 4,
+      "Land": 3,
+      "Unit": 684,
+      "Villa": 155
+    },
+    "modal_area": "Mirdif",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__veneto",
+    "community_kind": "master_project",
+    "community_name": "Veneto",
+    "rows_all_procedures": 31,
+    "residential_primary_sales": 3,
+    "property_type_counts_all_procedures": {
+      "Building": 8,
+      "Land": 1,
+      "Villa": 22
+    },
+    "modal_area": "Hessyan First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__warsan-first-development",
+    "community_kind": "master_project",
+    "community_name": "WARSAN FIRST DEVELOPMENT",
+    "rows_all_procedures": 722,
+    "residential_primary_sales": 587,
+    "property_type_counts_all_procedures": {
+      "Building": 7,
+      "Land": 79,
+      "Unit": 636
+    },
+    "modal_area": "Al Warsan First",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__wasl-1",
+    "community_kind": "master_project",
+    "community_name": "Wasl 1",
+    "rows_all_procedures": 2665,
+    "residential_primary_sales": 1293,
+    "property_type_counts_all_procedures": {
+      "Building": 1,
+      "Land": 2,
+      "Unit": 2662
+    },
+    "modal_area": "Al Kifaf",
+    "modal_area_share": 1.0
+  },
+  {
+    "community_id": "master__wasl-gate",
+    "community_kind": "master_project",
+    "community_name": "Wasl Gate",
+    "rows_all_procedures": 2615,
+    "residential_primary_sales": 1490,
+    "property_type_counts_all_procedures": {
+      "Building": 2,
+      "Land": 165,
+      "Unit": 1908,
+      "Villa": 540
+    },
+    "modal_area": "Jabal Ali First",
+    "modal_area_share": 1.0
+  }
+]

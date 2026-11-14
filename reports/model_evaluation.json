@@ -1,0 +1,599 @@
+{
+  "selection_rule": "Candidates are ranked by validation-selection MAE in AED after a precommitted median residual correction fit on the earlier validation slice. A raw-target or separate-segment model replaces the unified log model only if it reduces that MAE by more than 2%. The final calibration menu is searched only for the frozen winner. Conformal quantiles use the later validation slice. Test metrics are not used to choose the model.",
+  "selected_model": "residential-sales-hist_gradient_boosting-log-unified",
+  "candidate_name": "hist_gradient_boosting_log_unified",
+  "validation_selection_mae_aed": 309189.637141132,
+  "deployed_calibration": {
+    "name": "mean_log_shift",
+    "kind": "log_affine",
+    "a": 1.0,
+    "b": 0.0034009780550412895
+  },
+  "test_metrics": {
+    "n": 81676,
+    "mae_aed": 414755.78820967185,
+    "rmse_aed": 2242269.7260292126,
+    "r2": 0.7076667921798101,
+    "median_absolute_error_aed": 148401.79803393316,
+    "wape": 0.18678358506275564,
+    "wape_denominator": "sum of absolute actual worth in AED",
+    "median_absolute_percentage_error": 0.11125264897429837,
+    "within_10pct": 0.4572701895293599,
+    "within_20pct": 0.7599417209461776,
+    "within_30pct": 0.8993094666731966,
+    "mae_log": 0.1581344730588621,
+    "rmse_log": 0.2516507960642142
+  },
+  "interval": {
+    "overall": {
+      "n": 81676,
+      "empirical_coverage": 0.8713698026348009,
+      "mean_width_aed": 1203491.618525282,
+      "median_width_aed": 763192.7220971838,
+      "median_width_over_predicted": 0.5387439687751278
+    },
+    "segments": {
+      "property_type": {
+        "Unit": {
+          "n": 75073,
+          "empirical_coverage": 0.8776390979446672,
+          "mean_width_aed": 1051603.7633289627,
+          "median_width_aed": 720213.0779374612,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "Villa": {
+          "n": 6603,
+          "empirical_coverage": 0.8000908677873694,
+          "mean_width_aed": 2930384.9932266716,
+          "median_width_aed": 2000904.4603029718,
+          "median_width_over_predicted": 0.5387439687751279
+        }
+      },
+      "reg_type": {
+        "Existing Properties": {
+          "n": 20390,
+          "empirical_coverage": 0.8695929377145659,
+          "mean_width_aed": 1591484.700087798,
+          "median_width_aed": 892242.1225364781,
+          "median_width_over_predicted": 0.7536563718838454
+        },
+        "Off-Plan Properties": {
+          "n": 61286,
+          "empirical_coverage": 0.8719609698789283,
+          "mean_width_aed": 1074405.3845883354,
+          "median_width_aed": 742217.9383366591,
+          "median_width_over_predicted": 0.5387439687751278
+        }
+      },
+      "bedrooms": {
+        "0": {
+          "n": 18762,
+          "empirical_coverage": 0.8786376718899904,
+          "mean_width_aed": 423507.4819863476,
+          "median_width_aed": 372267.9284936006,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "1": {
+          "n": 33905,
+          "empirical_coverage": 0.8910485179177112,
+          "mean_width_aed": 803001.7249941921,
+          "median_width_aed": 699431.2783902227,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "2": {
+          "n": 18248,
+          "empirical_coverage": 0.8671087242437527,
+          "mean_width_aed": 1497136.372047798,
+          "median_width_aed": 1313484.954175783,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "3": {
+          "n": 6507,
+          "empirical_coverage": 0.8392500384201629,
+          "mean_width_aed": 2521233.479106831,
+          "median_width_aed": 1990873.2849445227,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "4": {
+          "n": 2513,
+          "empirical_coverage": 0.7719856744926383,
+          "mean_width_aed": 3224926.6366282427,
+          "median_width_aed": 2232090.1496149,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "5": {
+          "n": 341,
+          "empirical_coverage": 0.7947214076246334,
+          "mean_width_aed": 6780485.358863964,
+          "median_width_aed": 2954569.016180392,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "6": {
+          "n": 34,
+          "empirical_coverage": 0.5588235294117647,
+          "mean_width_aed": 17935461.622080974,
+          "median_width_aed": 15220808.973098008,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "7": {
+          "n": 7,
+          "empirical_coverage": 0.2857142857142857,
+          "mean_width_aed": 30191205.49909094,
+          "median_width_aed": 19305118.596103966,
+          "median_width_over_predicted": 0.5387439687751279
+        },
+        "missing": {
+          "n": 1359,
+          "empirical_coverage": 0.7049300956585725,
+          "mean_width_aed": 6005753.883130863,
+          "median_width_aed": 4206972.221502557,
+          "median_width_over_predicted": 0.7536563718838454
+        }
+      },
+      "size_band": {
+        "120-200": {
+          "n": 12617,
+          "empirical_coverage": 0.8705714512166125,
+          "mean_width_aed": 1865353.5183771388,
+          "median_width_aed": 1702980.4490923416,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "200-400": {
+          "n": 4534,
+          "empirical_coverage": 0.7759153065725629,
+          "mean_width_aed": 3064807.9074828844,
+          "median_width_aed": 2441007.583449931,
+          "median_width_over_predicted": 0.5387439687751279
+        },
+        "400+": {
+          "n": 1594,
+          "empirical_coverage": 0.6336260978670013,
+          "mean_width_aed": 8579496.670533078,
+          "median_width_aed": 5629803.931940426,
+          "median_width_over_predicted": 0.7536563718838454
+        },
+        "50-80": {
+          "n": 26383,
+          "empirical_coverage": 0.8931887958154873,
+          "mean_width_aed": 744241.7152200319,
+          "median_width_aed": 657457.1540167549,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "80-120": {
+          "n": 17821,
+          "empirical_coverage": 0.8800291790584143,
+          "mean_width_aed": 1099668.5889526694,
+          "median_width_aed": 1003734.0116466638,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "<50": {
+          "n": 18727,
+          "empirical_coverage": 0.8762748972072408,
+          "mean_width_aed": 424901.81297451933,
+          "median_width_aed": 372226.86518617684,
+          "median_width_over_predicted": 0.5387439687751278
+        }
+      },
+      "quarter": {
+        "2025Q1": {
+          "n": 12622,
+          "empirical_coverage": 0.8929646648708603,
+          "mean_width_aed": 1267238.8739053537,
+          "median_width_aed": 829920.7352343751,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "2025Q2": {
+          "n": 25442,
+          "empirical_coverage": 0.8939548777611823,
+          "mean_width_aed": 1289270.255679611,
+          "median_width_aed": 785615.6668130404,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "2025Q3": {
+          "n": 30771,
+          "empirical_coverage": 0.8507685808066037,
+          "mean_width_aed": 1117406.4735444537,
+          "median_width_aed": 743605.3090577835,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "2025Q4": {
+          "n": 12841,
+          "empirical_coverage": 0.8547620901798926,
+          "mean_width_aed": 1177164.0780157705,
+          "median_width_aed": 748078.8023117173,
+          "median_width_over_predicted": 0.5387439687751278
+        }
+      },
+      "price_band": {
+        "0.5-1m": {
+          "n": 20564,
+          "empirical_coverage": 0.8994845360824743,
+          "mean_width_aed": 439997.59251935926,
+          "median_width_aed": 394132.54840372753,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "1-2m": {
+          "n": 31252,
+          "empirical_coverage": 0.8906629975681556,
+          "mean_width_aed": 784627.1158027177,
+          "median_width_aed": 727994.7307441629,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "10m+": {
+          "n": 1449,
+          "empirical_coverage": 0.4893029675638371,
+          "mean_width_aed": 10029931.029650457,
+          "median_width_aed": 7403687.147372443,
+          "median_width_over_predicted": 0.5387439687751279
+        },
+        "2-5m": {
+          "n": 22334,
+          "empirical_coverage": 0.8814811498164233,
+          "mean_width_aed": 1680502.233331326,
+          "median_width_aed": 1581545.184722059,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "5-10m": {
+          "n": 3376,
+          "empirical_coverage": 0.6501777251184834,
+          "mean_width_aed": 3467749.8241878254,
+          "median_width_aed": 3290911.485175486,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "<0.5m": {
+          "n": 2701,
+          "empirical_coverage": 0.8319141058867087,
+          "mean_width_aed": 353303.9509044223,
+          "median_width_aed": 299087.54327130096,
+          "median_width_over_predicted": 0.7536563718838454
+        }
+      },
+      "community_volume": {
+        "other_areas": {
+          "n": 35024,
+          "empirical_coverage": 0.8676621745089081,
+          "mean_width_aed": 1214026.2012926552,
+          "median_width_aed": 842354.7421395651,
+          "median_width_over_predicted": 0.5387439687751278
+        },
+        "top_20_train_areas": {
+          "n": 46652,
+          "empirical_coverage": 0.8741533053245306,
+          "mean_width_aed": 1195582.778028744,
+          "median_width_aed": 707284.4594522172,
+          "median_width_over_predicted": 0.5387439687751278
+        }
+      }
+    },
+    "nominal_coverage": 0.9,
+    "method": "absolute percentage residual |y-pred|/pred",
+    "interpretation": "This is a prediction interval for an individual property's potential transaction price. It is not a confidence interval for a mean price. Overall coverage near the nominal level does not guarantee the same coverage in every community.",
+    "calibration_window": {
+      "start": "2024-10-24",
+      "end_exclusive": "2025-02-12",
+      "n": 27436
+    }
+  },
+  "iqr_sensitivity": {
+    "rows_removed": 166,
+    "rows_remaining": 380038,
+    "by_property_type": [
+      {
+        "property_type": "Unit",
+        "rows_removed": 119,
+        "lower_psm": -65674.91185517173,
+        "upper_psm": 90520.96397496946,
+        "removed_psm_min": 90613.68549535499,
+        "removed_psm_max": 161236.23153305886
+      },
+      {
+        "property_type": "Villa",
+        "rows_removed": 47,
+        "lower_psm": -39531.06515081543,
+        "upper_psm": 54651.32441007469,
+        "removed_psm_min": 54664.33992809537,
+        "removed_psm_max": 105024.71169686985
+      }
+    ],
+    "validation_mae_aed": 309604.26449365827,
+    "production_uses_iqr_filter": false,
+    "reason": "The MAD fence changes which high and low prices the model sees. It is reported as a sensitivity check and is not the production training set, because a lower error can come from deleting legitimate tail transactions."
+  },
+  "backtests": [
+    {
+      "year": 2023,
+      "status": "scored",
+      "n_train": 268185,
+      "n_calibration": 29926,
+      "n_test": 61970,
+      "metrics": {
+        "n": 61970,
+        "mae_aed": 527885.050424448,
+        "rmse_aed": 2423762.412423559,
+        "r2": 0.7038948101883276,
+        "median_absolute_error_aed": 166620.95584275387,
+        "wape": 0.2293774020549731,
+        "wape_denominator": "sum of absolute actual worth in AED",
+        "median_absolute_percentage_error": 0.13418355663773063,
+        "within_10pct": 0.38307245441342586,
+        "within_20pct": 0.6786993706632242,
+        "within_30pct": 0.8504921736324028,
+        "mae_log": 0.18877056613893015,
+        "rmse_log": 0.2682989691191313
+      },
+      "interval_coverage": 0.7961594319832177,
+      "note": "Frozen hyperparameters from the official run. This overlap with the official test is descriptive and was not used to select the model."
+    },
+    {
+      "year": 2024,
+      "status": "scored",
+      "n_train": 323874,
+      "n_calibration": 36207,
+      "n_test": 91925,
+      "metrics": {
+        "n": 91925,
+        "mae_aed": 406760.24682185624,
+        "rmse_aed": 1442677.3202376394,
+        "r2": 0.8326234423638287,
+        "median_absolute_error_aed": 167230.21652185207,
+        "wape": 0.18763576731660125,
+        "wape_denominator": "sum of absolute actual worth in AED",
+        "median_absolute_percentage_error": 0.12518146497097432,
+        "within_10pct": 0.410345390263802,
+        "within_20pct": 0.7171933641555616,
+        "within_30pct": 0.888245852597226,
+        "mae_log": 0.16710891003680126,
+        "rmse_log": 0.23967712413540437
+      },
+      "interval_coverage": 0.8378787054664129,
+      "note": "Frozen hyperparameters from the official run. This overlap with the official test is descriptive and was not used to select the model."
+    },
+    {
+      "year": 2025,
+      "status": "scored",
+      "n_train": 406493,
+      "n_calibration": 45513,
+      "n_test": 91186,
+      "metrics": {
+        "n": 91186,
+        "mae_aed": 391346.46094705246,
+        "rmse_aed": 2142542.9620026387,
+        "r2": 0.725966159678819,
+        "median_absolute_error_aed": 136063.13706552115,
+        "wape": 0.17585252670012272,
+        "wape_denominator": "sum of absolute actual worth in AED",
+        "median_absolute_percentage_error": 0.1019958022828081,
+        "within_10pct": 0.4925098151031957,
+        "within_20pct": 0.7918101462943873,
+        "within_30pct": 0.9116202048560086,
+        "mae_log": 0.1468821867774078,
+        "rmse_log": 0.2412248440842367
+      },
+      "interval_coverage": 0.8438795429122892,
+      "note": "Frozen hyperparameters from the official run. This overlap with the official test is descriptive and was not used to select the model."
+    }
+  ],
+  "splits": {
+    "validation_start": "2024-04-16",
+    "validation_selection_start": "2024-07-29",
+    "validation_conformal_start": "2024-10-24",
+    "test_start": "2025-02-12",
+    "train_inner_tail_start": "2023-09-22",
+    "counts": {
+      "train": 380204,
+      "test": 81676,
+      "val_conf": 27436,
+      "val_sel": 27249,
+      "val_fit": 26627
+    },
+    "rule": "Rows are assigned by instance_date. A boundary date belongs entirely to the later slice. Hyperparameters use only the training period, with early stopping on the inner training tail. Calibration is fit on val_fit and chosen on val_sel. Conformal scores use val_conf. The test period is not used to fit, stop, calibrate, or select."
+  },
+  "dataset_sha256": "8ce249a9c9ccd24d0ec90464ef019bbf805248554ca9bde92360e5c6c2c0d127",
+  "seed": 42,
+  "optuna_trials": {
+    "lightgbm": [
+      {
+        "number": 0,
+        "mae_aed": 402622.11645297735,
+        "params": {
+          "num_leaves": 115,
+          "learning_rate": 0.11207488496994687,
+          "min_child_samples": 152,
+          "subsample": 0.8795975452591109,
+          "colsample_bytree": 0.7468055921327309,
+          "reg_lambda": 0.029375384576328302
+        }
+      },
+      {
+        "number": 1,
+        "mae_aed": 411099.5381902885,
+        "params": {
+          "num_leaves": 44,
+          "learning_rate": 0.0996807409488512,
+          "min_child_samples": 128,
+          "subsample": 0.9124217733388136,
+          "colsample_bytree": 0.7061753482887407,
+          "reg_lambda": 8.123245085588687
+        }
+      },
+      {
+        "number": 2,
+        "mae_aed": 400058.2913779321,
+        "params": {
+          "num_leaves": 218,
+          "learning_rate": 0.040268192665666,
+          "min_child_samples": 52,
+          "subsample": 0.7550213529560301,
+          "colsample_bytree": 0.7912726728878613,
+          "reg_lambda": 0.37520558551242816
+        }
+      },
+      {
+        "number": 3,
+        "mae_aed": 395030.0650535314,
+        "params": {
+          "num_leaves": 128,
+          "learning_rate": 0.04492195705620086,
+          "min_child_samples": 130,
+          "subsample": 0.7418481581956126,
+          "colsample_bytree": 0.7876433945605654,
+          "reg_lambda": 0.1256277350380703
+        }
+      },
+      {
+        "number": 4,
+        "mae_aed": 409978.5773324384,
+        "params": {
+          "num_leaves": 133,
+          "learning_rate": 0.08909314445992443,
+          "min_child_samples": 56,
+          "subsample": 0.8542703315240835,
+          "colsample_bytree": 0.8777243706586128,
+          "reg_lambda": 0.013783237455007183
+        }
+      },
+      {
+        "number": 5,
+        "mae_aed": 415828.26773244486,
+        "params": {
+          "num_leaves": 167,
+          "learning_rate": 0.0380002984166299,
+          "min_child_samples": 31,
+          "subsample": 0.984665661176,
+          "colsample_bytree": 0.9896896099223678,
+          "reg_lambda": 2.661901888489056
+        }
+      }
+    ],
+    "xgboost": [
+      {
+        "number": 0,
+        "mae_aed": 462311.8694677131,
+        "params": {
+          "max_depth": 6,
+          "learning_rate": 0.1385613281701473,
+          "min_child_weight": 14.907884894416696,
+          "subsample": 0.8795975452591109,
+          "colsample_bytree": 0.7468055921327309,
+          "reg_lambda": 0.029375384576328302
+        }
+      },
+      {
+        "number": 1,
+        "mae_aed": 450095.2439807607,
+        "params": {
+          "max_depth": 4,
+          "learning_rate": 0.12093510864110771,
+          "min_child_weight": 12.421185223120967,
+          "subsample": 0.9124217733388136,
+          "colsample_bytree": 0.7061753482887407,
+          "reg_lambda": 8.123245085588687
+        }
+      },
+      {
+        "number": 2,
+        "mae_aed": 497976.08628666657,
+        "params": {
+          "max_depth": 9,
+          "learning_rate": 0.04222210912154243,
+          "min_child_weight": 4.4546743769349115,
+          "subsample": 0.7550213529560301,
+          "colsample_bytree": 0.7912726728878613,
+          "reg_lambda": 0.37520558551242816
+        }
+      },
+      {
+        "number": 3,
+        "mae_aed": 470591.0598223748,
+        "params": {
+          "max_depth": 7,
+          "learning_rate": 0.04793819615223105,
+          "min_child_weight": 12.62520499972521,
+          "subsample": 0.7418481581956126,
+          "colsample_bytree": 0.7876433945605654,
+          "reg_lambda": 0.1256277350380703
+        }
+      }
+    ],
+    "catboost": [
+      {
+        "number": 0,
+        "mae_aed": 365961.5829958049,
+        "params": {
+          "depth": 7,
+          "learning_rate": 0.1385613281701473,
+          "l2_leaf_reg": 7.587945476302646
+        }
+      },
+      {
+        "number": 1,
+        "mae_aed": 355575.351401053,
+        "params": {
+          "depth": 8,
+          "learning_rate": 0.03856324792582333,
+          "l2_leaf_reg": 2.403950683025824
+        }
+      },
+      {
+        "number": 2,
+        "mae_aed": 368294.93111153546,
+        "params": {
+          "depth": 6,
+          "learning_rate": 0.12093510864110771,
+          "l2_leaf_reg": 6.41003510568888
+        }
+      }
+    ],
+    "hist_gradient_boosting": [
+      {
+        "number": 0,
+        "mae_aed": 373723.6917056298,
+        "params": {
+          "learning_rate": 0.054816785328198704,
+          "max_leaf_nodes": 244,
+          "min_samples_leaf": 93,
+          "l2_regularization": 0.5986584841970366,
+          "max_iter": 278
+        }
+      },
+      {
+        "number": 1,
+        "mae_aed": 387065.88845102245,
+        "params": {
+          "learning_rate": 0.03856175093679041,
+          "max_leaf_nodes": 44,
+          "min_samples_leaf": 107,
+          "l2_regularization": 0.6011150117432088,
+          "max_iter": 554
+        }
+      },
+      {
+        "number": 2,
+        "mae_aed": 379568.8407507346,
+        "params": {
+          "learning_rate": 0.031010530712092203,
+          "max_leaf_nodes": 249,
+          "min_samples_leaf": 104,
+          "l2_regularization": 0.21233911067827616,
+          "max_iter": 291
+        }
+      },
+      {
+        "number": 3,
+        "mae_aed": 382572.24076016754,
+        "params": {
+          "learning_rate": 0.040300970604102884,
+          "max_leaf_nodes": 99,
+          "min_samples_leaf": 73,
+          "l2_regularization": 0.43194501864211576,
+          "max_iter": 345
+        }
+      }
+    ]
+  },
+  "n_train": 380204,
+  "n_val_fit": 26627,
+  "n_val_sel": 27249,
+  "n_val_conf": 27436,
+  "n_test": 81676
+}

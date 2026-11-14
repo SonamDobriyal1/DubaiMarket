@@ -1,0 +1,12 @@
+metric,value
+n_rows,1593464
+n_unique_transaction_id,1001280
+n_exact_duplicate_extra_rows,592184
+n_extra_rows_by_transaction_id,592184
+max_copies_of_one_id,7
+conclusion,Extra rows are exact copies of the same transaction_id. Economic fields do not conflict inside an id. Deduplication keeps one copy and is recorded in the filter log.
+conflicting_ids__actual_worth,0
+conflicting_ids__procedure_area,0
+conflicting_ids__procedure_name_en,0
+conflicting_ids__instance_date,0
+conflicting_ids__area_name_en,0

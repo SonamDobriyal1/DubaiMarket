@@ -1,0 +1,964 @@
+{
+  "source_path": "/Users/sonamdobriyal/Test/DubaiMarket/data/dld_transactions_extracted.csv",
+  "n_rows": 1593464,
+  "n_columns": 47,
+  "memory_bytes": 4091924439,
+  "memory_mebibytes": 3902.36,
+  "columns": [
+    {
+      "column": "meter_rent_price",
+      "dtype": "float64",
+      "n_unique": 19379,
+      "missing_count": 1557143,
+      "missing_pct": 97.720626
+    },
+    {
+      "column": "rent_value",
+      "dtype": "float64",
+      "n_unique": 11045,
+      "missing_count": 1557143,
+      "missing_pct": 97.720626
+    },
+    {
+      "column": "nearest_mall_ar",
+      "dtype": "object",
+      "n_unique": 5,
+      "missing_count": 477516,
+      "missing_pct": 29.967166
+    },
+    {
+      "column": "nearest_mall_en",
+      "dtype": "object",
+      "n_unique": 5,
+      "missing_count": 477516,
+      "missing_pct": 29.967166
+    },
+    {
+      "column": "nearest_metro_ar",
+      "dtype": "object",
+      "n_unique": 56,
+      "missing_count": 468612,
+      "missing_pct": 29.408383
+    },
+    {
+      "column": "nearest_metro_en",
+      "dtype": "object",
+      "n_unique": 56,
+      "missing_count": 468612,
+      "missing_pct": 29.408383
+    },
+    {
+      "column": "building_name_ar",
+      "dtype": "object",
+      "n_unique": 4503,
+      "missing_count": 465116,
+      "missing_pct": 29.188987
+    },
+    {
+      "column": "building_name_en",
+      "dtype": "object",
+      "n_unique": 4505,
+      "missing_count": 464693,
+      "missing_pct": 29.162441
+    },
+    {
+      "column": "project_name_ar",
+      "dtype": "object",
+      "n_unique": 3002,
+      "missing_count": 447321,
+      "missing_pct": 28.072238
+    },
+    {
+      "column": "project_name_en",
+      "dtype": "object",
+      "n_unique": 3002,
+      "missing_count": 447321,
+      "missing_pct": 28.072238
+    },
+    {
+      "column": "project_number",
+      "dtype": "float64",
+      "n_unique": 3007,
+      "missing_count": 447321,
+      "missing_pct": 28.072238
+    },
+    {
+      "column": "rooms_ar",
+      "dtype": "object",
+      "n_unique": 17,
+      "missing_count": 347317,
+      "missing_pct": 21.796351
+    },
+    {
+      "column": "rooms_en",
+      "dtype": "object",
+      "n_unique": 17,
+      "missing_count": 347317,
+      "missing_pct": 21.796351
+    },
+    {
+      "column": "property_sub_type_ar",
+      "dtype": "object",
+      "n_unique": 17,
+      "missing_count": 326563,
+      "missing_pct": 20.493905
+    },
+    {
+      "column": "property_sub_type_en",
+      "dtype": "object",
+      "n_unique": 17,
+      "missing_count": 326563,
+      "missing_pct": 20.493905
+    },
+    {
+      "column": "property_sub_type_id",
+      "dtype": "float64",
+      "n_unique": 17,
+      "missing_count": 326563,
+      "missing_pct": 20.493905
+    },
+    {
+      "column": "nearest_landmark_ar",
+      "dtype": "object",
+      "n_unique": 14,
+      "missing_count": 296650,
+      "missing_pct": 18.616674
+    },
+    {
+      "column": "nearest_landmark_en",
+      "dtype": "object",
+      "n_unique": 14,
+      "missing_count": 296650,
+      "missing_pct": 18.616674
+    },
+    {
+      "column": "master_project_ar",
+      "dtype": "object",
+      "n_unique": 182,
+      "missing_count": 228344,
+      "missing_pct": 14.330038
+    },
+    {
+      "column": "master_project_en",
+      "dtype": "object",
+      "n_unique": 183,
+      "missing_count": 228296,
+      "missing_pct": 14.327026
+    },
+    {
+      "column": "no_of_parties_role_1",
+      "dtype": "float64",
+      "n_unique": 180,
+      "missing_count": 950,
+      "missing_pct": 0.059619
+    },
+    {
+      "column": "no_of_parties_role_2",
+      "dtype": "float64",
+      "n_unique": 26,
+      "missing_count": 950,
+      "missing_pct": 0.059619
+    },
+    {
+      "column": "no_of_parties_role_3",
+      "dtype": "float64",
+      "n_unique": 14,
+      "missing_count": 950,
+      "missing_pct": 0.059619
+    },
+    {
+      "column": "actual_worth",
+      "dtype": "float64",
+      "n_unique": 258885,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "area_id",
+      "dtype": "int64",
+      "n_unique": 253,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "area_name_ar",
+      "dtype": "object",
+      "n_unique": 251,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "area_name_en",
+      "dtype": "object",
+      "n_unique": 252,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "has_parking",
+      "dtype": "int64",
+      "n_unique": 2,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "instance_date",
+      "dtype": "object",
+      "n_unique": 6292,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "load_timestamp",
+      "dtype": "object",
+      "n_unique": 1,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "meter_sale_price",
+      "dtype": "float64",
+      "n_unique": 629922,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "procedure_area",
+      "dtype": "float64",
+      "n_unique": 79974,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "procedure_id",
+      "dtype": "int64",
+      "n_unique": 51,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "procedure_name_ar",
+      "dtype": "object",
+      "n_unique": 51,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "procedure_name_en",
+      "dtype": "object",
+      "n_unique": 51,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "property_type_ar",
+      "dtype": "object",
+      "n_unique": 4,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "property_type_en",
+      "dtype": "object",
+      "n_unique": 4,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "property_type_id",
+      "dtype": "int64",
+      "n_unique": 4,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "property_usage_ar",
+      "dtype": "object",
+      "n_unique": 11,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "property_usage_en",
+      "dtype": "object",
+      "n_unique": 11,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "reg_type_ar",
+      "dtype": "object",
+      "n_unique": 2,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "reg_type_en",
+      "dtype": "object",
+      "n_unique": 2,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "reg_type_id",
+      "dtype": "int64",
+      "n_unique": 2,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "trans_group_ar",
+      "dtype": "object",
+      "n_unique": 3,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "trans_group_en",
+      "dtype": "object",
+      "n_unique": 3,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "trans_group_id",
+      "dtype": "int64",
+      "n_unique": 3,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "transaction_id",
+      "dtype": "object",
+      "n_unique": 1001280,
+      "missing_count": 0,
+      "missing_pct": 0.0
+    }
+  ],
+  "date_min_parsed": "1975-07-28",
+  "date_max_parsed": "2025-11-07",
+  "n_unparsed_dates": 3,
+  "unparsed_date_examples": [
+    "1420-01-30",
+    "1422-11-23",
+    "1417-02-04"
+  ],
+  "rows_by_year": {
+    "1975": 3,
+    "1976": 5,
+    "1977": 5,
+    "1978": 4,
+    "1979": 1,
+    "1980": 5,
+    "1982": 3,
+    "1983": 7,
+    "1984": 14,
+    "1985": 10,
+    "1986": 12,
+    "1987": 15,
+    "1988": 25,
+    "1989": 41,
+    "1990": 41,
+    "1991": 19,
+    "1992": 45,
+    "1993": 77,
+    "1994": 107,
+    "1995": 127,
+    "1996": 168,
+    "1997": 291,
+    "1998": 1788,
+    "1999": 3042,
+    "2000": 2373,
+    "2001": 2822,
+    "2002": 3583,
+    "2003": 3687,
+    "2004": 4564,
+    "2005": 4446,
+    "2006": 5074,
+    "2007": 14839,
+    "2008": 31907,
+    "2009": 77631,
+    "2010": 46732,
+    "2011": 38961,
+    "2012": 46482,
+    "2013": 78061,
+    "2014": 70822,
+    "2015": 58301,
+    "2016": 59157,
+    "2017": 64834,
+    "2018": 50052,
+    "2019": 53015,
+    "2020": 49115,
+    "2021": 82970,
+    "2022": 119889,
+    "2023": 166507,
+    "2024": 225471,
+    "2025": 226311,
+    "unparsed": 3
+  },
+  "duplicates": {
+    "n_rows": 1593464,
+    "n_unique_transaction_id": 1001280,
+    "n_exact_duplicate_extra_rows": 592184,
+    "n_extra_rows_by_transaction_id": 592184,
+    "ids_with_conflicting_values": {
+      "actual_worth": 0,
+      "procedure_area": 0,
+      "procedure_name_en": 0,
+      "instance_date": 0,
+      "area_name_en": 0
+    },
+    "max_copies_of_one_id": 7,
+    "conclusion": "Extra rows are exact copies of the same transaction_id. Economic fields do not conflict inside an id. Deduplication keeps one copy and is recorded in the filter log."
+  },
+  "trans_group_counts": {
+    "Sales": 1216962,
+    "Mortgages": 317513,
+    "Gifts": 58989
+  },
+  "reg_type_counts": {
+    "Existing Properties": 1045583,
+    "Off-Plan Properties": 547881
+  },
+  "property_type_counts": {
+    "Unit": 1128771,
+    "Villa": 287072,
+    "Land": 142253,
+    "Building": 35368
+  },
+  "property_usage_counts": {
+    "Residential": 1345449,
+    "Commercial": 158482,
+    "Hospitality ": 42375,
+    "Other": 19002,
+    "Residential / Commercial": 14526,
+    "Multi-Use": 6049,
+    "Industrial": 5238,
+    "Agricultural": 1103,
+    "Industrial / Commercial": 689,
+    "Storage": 479,
+    "Industrial / Commercial / Residential": 72
+  },
+  "procedure_counts": {
+    "Sell - Pre registration": 527328,
+    "Sell": 477316,
+    "Mortgage Registration": 216689,
+    "Delayed Sell": 144594,
+    "Lease to Own Registration": 58468,
+    "Grant": 53152,
+    "Modify Mortgage": 20869,
+    "Delayed Mortgage": 16915,
+    "Development Registration": 12447,
+    "Sell Development": 11893,
+    "Lease Finance Registration": 7745,
+    "Lease to Own Registration Pre-Registration": 7246,
+    "Development Mortgage": 6053,
+    "Mortgage Pre-Registration": 6011,
+    "Development Registration Pre-Registration": 4187,
+    "Mortgage Transfer": 3342,
+    "Grant Pre-Registration": 2692,
+    "Delayed Lease to Own Registration": 2153,
+    "Sale On Payment Plan": 1983,
+    "Grant on Delayed Sell": 1948,
+    "Portfolio Mortgage Registration": 1592,
+    "Delayed Development": 1366,
+    "Grant Development": 1197,
+    "Lease Development Registration": 924,
+    "Lease to Own Transfer": 839,
+    "Modify Development Mortgage": 704,
+    "Delayed Sell Lease to Own Registration": 654,
+    "Lease to Own on Development Registration": 625,
+    "Portfolio Mortgage Modification": 567,
+    "Adding Land By Sell": 436,
+    "Lease to Own Modify": 377,
+    "Lease Finance Modification": 357,
+    "Sell Development - Pre Registration": 253,
+    "Delayed Sell Development": 169,
+    "Modify Delayed Mortgage ": 98,
+    "Portfolio Mortgage Registration Pre-Registration": 69,
+    "Portfolio Mortgage Development Registration": 52,
+    "Mortgage Transfer Pre-Registration": 42,
+    "Modify Mortgage Pre-Registration": 25,
+    "Delayed Portfolio Mortgage": 16,
+    "Development Mortgage Pre-Registration": 12,
+    "Lease to Own on Development Modification": 11,
+    "Transfer Development Mortgage": 10,
+    "Portfolio Mortgage Modification Pre-Registration": 10,
+    "Portfolio Mortgage Development Modification": 8,
+    "Portfolio Mortgage Transfer": 6,
+    "Lease to Own Transfer Pre-Registration": 6,
+    "Portfolio Development Registration": 4,
+    "Lease Development Modify": 2,
+    "Delayed Sell Lease To Own Modification": 1,
+    "Delayed Lease to Own Modify": 1
+  },
+  "rooms_counts": {
+    "1 B/R": 428856,
+    "nan": 347317,
+    "2 B/R": 301477,
+    "Studio": 219422,
+    "3 B/R": 170031,
+    "Office": 58627,
+    "4 B/R": 52660,
+    "Shop": 6501,
+    "5 B/R": 5424,
+    "PENTHOUSE": 1637,
+    "Single Room": 799,
+    "6 B/R": 315,
+    "Store": 309,
+    "7 B/R": 60,
+    "GYM": 20,
+    "9 B/R": 5,
+    "8 B/R": 3,
+    "10 B/R": 1
+  },
+  "has_parking_counts": {
+    "1": 1050711,
+    "0": 542753
+  },
+  "financial_profiles": {
+    "procedure_area": {
+      "non_null": 1593464,
+      "missing": 0,
+      "min": 0.01,
+      "max": 342103430.8,
+      "mean": 1216.1159808128705,
+      "median": 112.24,
+      "zero": 0,
+      "negative": 0,
+      "quantiles": {
+        "0.01": 29.46,
+        "0.05": 37.84,
+        "0.25": 69.59,
+        "0.5": 112.24,
+        "0.75": 220.0,
+        "0.95": 1219.22,
+        "0.99": 4051.87
+      }
+    },
+    "actual_worth": {
+      "non_null": 1593464,
+      "missing": 0,
+      "min": 1.0,
+      "max": 13786936424.0,
+      "mean": 3872331.3781786095,
+      "median": 1348867.0,
+      "zero": 0,
+      "negative": 0,
+      "quantiles": {
+        "0.01": 210443.61000000004,
+        "0.05": 352979.0,
+        "0.25": 750000.0,
+        "0.5": 1348867.0,
+        "0.75": 2500000.0,
+        "0.95": 8100000.0,
+        "0.99": 36363699.99999879
+      }
+    },
+    "meter_sale_price": {
+      "non_null": 1593464,
+      "missing": 0,
+      "min": 0.0,
+      "max": 81250000.0,
+      "mean": 15144.119018885898,
+      "median": 11301.87,
+      "zero": 5,
+      "negative": 0,
+      "quantiles": {
+        "0.01": 466.4,
+        "0.05": 2228.2125000000015,
+        "0.25": 7246.38,
+        "0.5": 11301.87,
+        "0.75": 17222.33,
+        "0.95": 30195.620999999963,
+        "0.99": 48661.19749999979
+      }
+    },
+    "rent_value": {
+      "non_null": 36321,
+      "missing": 1557143,
+      "min": 7499.0,
+      "max": 262080000.0,
+      "mean": 1501601.9175022715,
+      "median": 1020000.0,
+      "zero": 0,
+      "negative": 0,
+      "quantiles": {
+        "0.01": 209300.0,
+        "0.05": 305166.85,
+        "0.25": 600000.0,
+        "0.5": 1020000.0,
+        "0.75": 1801002.04,
+        "0.95": 3640000.0,
+        "0.99": 7196000.0
+      }
+    },
+    "meter_rent_price": {
+      "non_null": 36321,
+      "missing": 1557143,
+      "min": 18.99,
+      "max": 10856666.67,
+      "mean": 22830.609960904163,
+      "median": 7241.52,
+      "zero": 0,
+      "negative": 0,
+      "quantiles": {
+        "0.01": 1027.2160000000001,
+        "0.05": 1979.36,
+        "0.25": 5055.73,
+        "0.5": 7241.52,
+        "0.75": 10240.56,
+        "0.95": 18037.0,
+        "0.99": 31917.09
+      }
+    }
+  },
+  "meter_sale_price_identity": {
+    "definition_tested": "meter_sale_price ?= actual_worth / procedure_area",
+    "n_rows": 1593464,
+    "n_zero_meter_sale_price": 5,
+    "n_zero_procedure_area": 0,
+    "abs_diff_median": 0.0025784559611565783,
+    "abs_diff_p99": 0.012633079051056484,
+    "abs_diff_max": 8.663333333097398,
+    "n_relative_diff_gt_0.1pct": 48,
+    "n_relative_diff_gt_1pct": 25,
+    "n_allclose_rtol_1e-3_atol_0.05": 1593464,
+    "conclusion": "meter_sale_price matches actual_worth / procedure_area within rounding for virtually every row. It is a derived field, not an independent measurement. Using it as a feature to predict actual_worth would leak the target."
+  },
+  "units_interpretation": {
+    "procedure_area": "square meters",
+    "actual_worth": "AED",
+    "meter_sale_price": "AED per square meter",
+    "evidence": "The file has no separate unit-of-measure column. meter_sale_price matches actual_worth / procedure_area, and the joint magnitudes (median area near a typical dwelling size, median worth in the low millions, median meter price in the thousands) are the Dubai Land Department convention of square meters and AED. This is an interpretation of the supplied fields, not a second measurement."
+  },
+  "target_assessment": {
+    "candidate": "actual_worth",
+    "suitable_for_arm_length_sale_model": false,
+    "reason": "actual_worth is populated for sales, mortgages, and gifts. On mortgages it is a financing amount. On gifts and grants it is not an arm's-length market price. It is an appropriate transaction-price target only after the eligibility policy restricts rows to residential dwelling sales. meter_sale_price is the same information divided by area."
+  },
+  "unavailable_at_prediction_time": [
+    "actual_worth",
+    "meter_sale_price",
+    "rent_value",
+    "meter_rent_price",
+    "no_of_parties_role_1",
+    "no_of_parties_role_2",
+    "no_of_parties_role_3",
+    "transaction_id",
+    "procedure_id",
+    "load_timestamp",
+    "procedure_name_en",
+    "trans_group_en",
+    "asking price (not in the file; must not be used as a model input)"
+  ],
+  "leakage_columns_if_predicting_actual_worth": [
+    "actual_worth",
+    "meter_sale_price",
+    "rent_value",
+    "meter_rent_price"
+  ],
+  "arabic_parallel_columns": {
+    "trans_group_ar": {
+      "english_column": "trans_group_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "procedure_name_ar": {
+      "english_column": "procedure_name_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "property_type_ar": {
+      "english_column": "property_type_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "property_sub_type_ar": {
+      "english_column": "property_sub_type_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "property_usage_ar": {
+      "english_column": "property_usage_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "reg_type_ar": {
+      "english_column": "reg_type_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "area_name_ar": {
+      "english_column": "area_name_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 2,
+      "one_to_one": false
+    },
+    "building_name_ar": {
+      "english_column": "building_name_en",
+      "max_arabic_values_per_english": 2,
+      "max_english_values_per_arabic": 4,
+      "one_to_one": false
+    },
+    "project_name_ar": {
+      "english_column": "project_name_en",
+      "max_arabic_values_per_english": 2,
+      "max_english_values_per_arabic": 2,
+      "one_to_one": false
+    },
+    "master_project_ar": {
+      "english_column": "master_project_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 2,
+      "one_to_one": false
+    },
+    "nearest_landmark_ar": {
+      "english_column": "nearest_landmark_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "nearest_metro_ar": {
+      "english_column": "nearest_metro_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "nearest_mall_ar": {
+      "english_column": "nearest_mall_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    },
+    "rooms_ar": {
+      "english_column": "rooms_en",
+      "max_arabic_values_per_english": 1,
+      "max_english_values_per_arabic": 1,
+      "one_to_one": true
+    }
+  },
+  "whitespace_normalization": {
+    "area_name_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 6,
+      "n_unique_raw": 252,
+      "n_unique_normalized": 252
+    },
+    "building_name_en": {
+      "n_non_null": 1128771,
+      "n_changed_by_whitespace_normalization": 15775,
+      "n_unique_raw": 4505,
+      "n_unique_normalized": 4505
+    },
+    "project_name_en": {
+      "n_non_null": 1146143,
+      "n_changed_by_whitespace_normalization": 108404,
+      "n_unique_raw": 3002,
+      "n_unique_normalized": 3002
+    },
+    "master_project_en": {
+      "n_non_null": 1365168,
+      "n_changed_by_whitespace_normalization": 22081,
+      "n_unique_raw": 183,
+      "n_unique_normalized": 183
+    },
+    "nearest_landmark_en": {
+      "n_non_null": 1296814,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 14,
+      "n_unique_normalized": 14
+    },
+    "nearest_metro_en": {
+      "n_non_null": 1124852,
+      "n_changed_by_whitespace_normalization": 155,
+      "n_unique_raw": 56,
+      "n_unique_normalized": 56
+    },
+    "nearest_mall_en": {
+      "n_non_null": 1115948,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 5,
+      "n_unique_normalized": 5
+    },
+    "property_type_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 4,
+      "n_unique_normalized": 4
+    },
+    "property_sub_type_en": {
+      "n_non_null": 1266901,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 17,
+      "n_unique_normalized": 17
+    },
+    "property_usage_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 42375,
+      "n_unique_raw": 11,
+      "n_unique_normalized": 11
+    },
+    "reg_type_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 2,
+      "n_unique_normalized": 2
+    },
+    "procedure_name_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 98,
+      "n_unique_raw": 51,
+      "n_unique_normalized": 51
+    },
+    "trans_group_en": {
+      "n_non_null": 1593464,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 3,
+      "n_unique_normalized": 3
+    },
+    "rooms_en": {
+      "n_non_null": 1246147,
+      "n_changed_by_whitespace_normalization": 0,
+      "n_unique_raw": 17,
+      "n_unique_normalized": 17
+    }
+  },
+  "area_names_with_multiple_area_ids": {
+    "Mushrif": {
+      "404": 246,
+      "420": 1
+    }
+  },
+  "n_area_name": 252,
+  "n_building_name": 4505,
+  "n_project_name": 3002,
+  "n_master_project": 183,
+  "rental_fields": {
+    "n_rent_value_non_null": 36321,
+    "n_meter_rent_price_non_null": 36321,
+    "trans_group_counts": {
+      "Mortgages": 36321
+    },
+    "procedure_counts": {
+      "Lease to Own Registration": 29294,
+      "Lease to Own Registration Pre-Registration": 3635,
+      "Delayed Lease to Own Registration": 1038,
+      "Lease to Own Transfer": 839,
+      "Lease Development Registration": 466,
+      "Lease to Own Modify": 377,
+      "Delayed Sell Lease to Own Registration": 343,
+      "Lease to Own on Development Registration": 308,
+      "Lease to Own on Development Modification": 11,
+      "Lease to Own Transfer Pre-Registration": 6,
+      "Lease Development Modify": 2,
+      "Delayed Sell Lease To Own Modification": 1,
+      "Delayed Lease to Own Modify": 1
+    },
+    "note": "Non-null rent fields sit on lease-to-own and related mortgage procedures, not on a general rental-contract population."
+  },
+  "named_master_projects_requested_by_product": {
+    "Dubai Marina": {
+      "n_rows": 94981,
+      "property_types": {
+        "Unit": 94334,
+        "Building": 268,
+        "Land": 190,
+        "Villa": 189
+      },
+      "areas": {
+        "Marsa Dubai": 94972,
+        "Palm Jumeirah": 9
+      },
+      "usages": {
+        "Residential": 88597,
+        "Hospitality ": 3786,
+        "Commercial": 2030,
+        "Residential / Commercial": 298,
+        "Storage": 259,
+        "Other": 11
+      }
+    },
+    "DownTown Dubai": {
+      "n_rows": 69230,
+      "property_types": {
+        "Unit": 68987,
+        "Land": 157,
+        "Building": 86
+      },
+      "areas": {
+        "Burj Khalifa": 66900,
+        "Business Bay": 2329,
+        "Nadd Hessa": 1
+      },
+      "usages": {
+        "Residential": 58466,
+        "Hospitality ": 9614,
+        "Commercial": 954,
+        "Residential / Commercial": 171,
+        "Multi-Use": 20,
+        "Other": 5
+      }
+    },
+    "The Greens": {
+      "n_rows": 25852,
+      "property_types": {
+        "Unit": 25809,
+        "Building": 33,
+        "Land": 10
+      },
+      "areas": {
+        "Al Thanyah Third": 25852
+      },
+      "usages": {
+        "Residential": 25224,
+        "Commercial": 609,
+        "Hospitality ": 10,
+        "Residential / Commercial": 9
+      }
+    },
+    "Al Furjan": {
+      "n_rows": 31478,
+      "property_types": {
+        "Unit": 19543,
+        "Villa": 5961,
+        "Land": 5913,
+        "Building": 61
+      },
+      "areas": {
+        "Jabal Ali First": 31478
+      },
+      "usages": {
+        "Residential": 23560,
+        "Hospitality ": 4145,
+        "Commercial": 3485,
+        "Multi-Use": 278,
+        "Other": 8,
+        "Residential / Commercial": 2
+      }
+    },
+    "The Gardens": {
+      "n_rows": 5,
+      "property_types": {
+        "Land": 5
+      },
+      "areas": {
+        "Jabal Ali First": 5
+      },
+      "usages": {
+        "Residential / Commercial": 4,
+        "Residential": 1
+      }
+    }
+  },
+  "load_timestamp_unique_values": [
+    "2025-11-12 11:59:58"
+  ],
+  "n_load_timestamp_unique": 1
+}

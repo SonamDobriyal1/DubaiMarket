@@ -1,0 +1,14 @@
+{
+  "population": "Primary rows are residential Unit/Villa sales with procedure Sell or Sell - Pre registration after domain screens.",
+  "actual_worth": "Transaction consideration in AED. Target only after eligibility filtering.",
+  "procedure_area": "Property area in square meters.",
+  "price_per_sqm": "actual_worth / procedure_area. Not a model input.",
+  "meter_sale_price": "Source field that matches actual_worth / procedure_area within rounding. Not a model input.",
+  "area_name_en": "Official Dubai Land Department area name.",
+  "master_project_en": "Developer master-project name such as Dubai Marina or DownTown Dubai. Missing values are preserved.",
+  "reg_type_en": "Existing Properties or Off-Plan Properties.",
+  "eligibility_tier": "primary, extended_delayed_sell, or excluded.",
+  "asking_price": "Not present in the source file and not used to predict market value.",
+  "rent_value": "Populated on lease-to-own style mortgage procedures. Not a rental-contract sample.",
+  "scores": "Percentile descriptions of observed activity, growth, and quarterly-median variability. Not investment advice."
+}

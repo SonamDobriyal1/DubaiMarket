@@ -1,0 +1,3209 @@
+{
+  "population": "Primary residential dwelling sales after the documented eligibility and domain screens.",
+  "transactions": 543192,
+  "total_value_aed": 1048707555928.0,
+  "median_price_aed": 1268439.5,
+  "mean_price_aed": 1930638.8089809865,
+  "median_psm": 13551.670658463423,
+  "date_min": "1993-01-27",
+  "date_max": "2025-11-07",
+  "latest_complete_quarter": "2025Q3",
+  "hhi_transaction_count_by_official_area": 0.03974192856663668,
+  "top_10_area_transaction_share": 0.5271671895020544,
+  "registration_mix": [
+    {
+      "reg_type_en": "Existing Properties",
+      "transactions": 236572,
+      "total_value_aed": 456678827025.0,
+      "median_psm": 9823.93736482094
+    },
+    {
+      "reg_type_en": "Off-Plan Properties",
+      "transactions": 306620,
+      "total_value_aed": 592028728903.0,
+      "median_psm": 16294.392602536931
+    }
+  ],
+  "property_type_mix": [
+    {
+      "property_type_en": "Unit",
+      "transactions": 459033,
+      "median_price_aed": 1113780.0,
+      "median_psm": 14506.781750924785
+    },
+    {
+      "property_type_en": "Villa",
+      "transactions": 84159,
+      "median_price_aed": 2500000.0,
+      "median_psm": 8652.65760197775
+    }
+  ],
+  "monthly": [
+    {
+      "year_month": "1993-01",
+      "transactions": 1,
+      "total_value_aed": 2175000.0,
+      "median_psm": 1829.022166907733,
+      "median_price_aed": 2175000.0
+    },
+    {
+      "year_month": "1997-11",
+      "transactions": 1,
+      "total_value_aed": 1405000.0,
+      "median_psm": 1512.3300646911296,
+      "median_price_aed": 1405000.0
+    },
+    {
+      "year_month": "1997-12",
+      "transactions": 3,
+      "total_value_aed": 1420000.0,
+      "median_psm": 645.8372203166037,
+      "median_price_aed": 450000.0
+    },
+    {
+      "year_month": "1998-01",
+      "transactions": 2,
+      "total_value_aed": 1700000.0,
+      "median_psm": 1790.4561473188146,
+      "median_price_aed": 850000.0
+    },
+    {
+      "year_month": "1998-02",
+      "transactions": 3,
+      "total_value_aed": 5557500.0,
+      "median_psm": 365.97311174020217,
+      "median_price_aed": 340000.0
+    },
+    {
+      "year_month": "1998-03",
+      "transactions": 9,
+      "total_value_aed": 9740940.0,
+      "median_psm": 430.55505722794305,
+      "median_price_aed": 570000.0
+    },
+    {
+      "year_month": "1998-04",
+      "transactions": 8,
+      "total_value_aed": 2766455.0,
+      "median_psm": 322.9174515396296,
+      "median_price_aed": 376977.5
+    },
+    {
+      "year_month": "1998-05",
+      "transactions": 53,
+      "total_value_aed": 31211713.0,
+      "median_psm": 355.20919668901973,
+      "median_price_aed": 368224.0
+    },
+    {
+      "year_month": "1998-06",
+      "transactions": 27,
+      "total_value_aed": 22404094.0,
+      "median_psm": 398.2648568937494,
+      "median_price_aed": 450000.0
+    },
+    {
+      "year_month": "1998-07",
+      "transactions": 27,
+      "total_value_aed": 23674920.0,
+      "median_psm": 484.37466254886294,
+      "median_price_aed": 585080.0
+    },
+    {
+      "year_month": "1998-08",
+      "transactions": 17,
+      "total_value_aed": 11415708.0,
+      "median_psm": 462.84668652003876,
+      "median_price_aed": 525000.0
+    },
+    {
+      "year_month": "1998-09",
+      "transactions": 30,
+      "total_value_aed": 20452445.0,
+      "median_psm": 419.7924570546427,
+      "median_price_aed": 384740.0
+    },
+    {
+      "year_month": "1998-10",
+      "transactions": 23,
+      "total_value_aed": 13773616.0,
+      "median_psm": 398.26628586190566,
+      "median_price_aed": 447345.0
+    },
+    {
+      "year_month": "1998-11",
+      "transactions": 24,
+      "total_value_aed": 28186236.0,
+      "median_psm": 406.33845974811175,
+      "median_price_aed": 487500.0
+    },
+    {
+      "year_month": "1998-12",
+      "transactions": 18,
+      "total_value_aed": 9348475.0,
+      "median_psm": 478.99250116608664,
+      "median_price_aed": 478896.0
+    },
+    {
+      "year_month": "1999-01",
+      "transactions": 9,
+      "total_value_aed": 5616648.0,
+      "median_psm": 468.2303047264351,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "1999-02",
+      "transactions": 16,
+      "total_value_aed": 8795366.0,
+      "median_psm": 437.3262752699634,
+      "median_price_aed": 485000.0
+    },
+    {
+      "year_month": "1999-03",
+      "transactions": 16,
+      "total_value_aed": 9093830.0,
+      "median_psm": 452.08281008934017,
+      "median_price_aed": 417375.0
+    },
+    {
+      "year_month": "1999-04",
+      "transactions": 18,
+      "total_value_aed": 17167357.0,
+      "median_psm": 914.3657167012389,
+      "median_price_aed": 840000.0
+    },
+    {
+      "year_month": "1999-05",
+      "transactions": 20,
+      "total_value_aed": 24279944.0,
+      "median_psm": 470.92128348923075,
+      "median_price_aed": 495000.0
+    },
+    {
+      "year_month": "1999-06",
+      "transactions": 20,
+      "total_value_aed": 20395673.0,
+      "median_psm": 462.84750608537513,
+      "median_price_aed": 493824.0
+    },
+    {
+      "year_month": "1999-07",
+      "transactions": 14,
+      "total_value_aed": 9645205.0,
+      "median_psm": 468.23117369355714,
+      "median_price_aed": 457500.0
+    },
+    {
+      "year_month": "1999-08",
+      "transactions": 21,
+      "total_value_aed": 17266240.0,
+      "median_psm": 500.5208164149207,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "1999-09",
+      "transactions": 12,
+      "total_value_aed": 9265301.0,
+      "median_psm": 500.5220518142279,
+      "median_price_aed": 532500.0
+    },
+    {
+      "year_month": "1999-10",
+      "transactions": 25,
+      "total_value_aed": 24511205.0,
+      "median_psm": 452.08649304502325,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "1999-11",
+      "transactions": 24,
+      "total_value_aed": 25087010.0,
+      "median_psm": 931.0772422796188,
+      "median_price_aed": 750000.0
+    },
+    {
+      "year_month": "1999-12",
+      "transactions": 19,
+      "total_value_aed": 18105436.0,
+      "median_psm": 516.669776253283,
+      "median_price_aed": 520000.0
+    },
+    {
+      "year_month": "2000-01",
+      "transactions": 13,
+      "total_value_aed": 9226078.0,
+      "median_psm": 645.8325858419146,
+      "median_price_aed": 660000.0
+    },
+    {
+      "year_month": "2000-02",
+      "transactions": 20,
+      "total_value_aed": 28456606.0,
+      "median_psm": 554.3408141703836,
+      "median_price_aed": 643896.0
+    },
+    {
+      "year_month": "2000-03",
+      "transactions": 20,
+      "total_value_aed": 16392832.0,
+      "median_psm": 538.1949727968292,
+      "median_price_aed": 646650.0
+    },
+    {
+      "year_month": "2000-04",
+      "transactions": 30,
+      "total_value_aed": 25587116.0,
+      "median_psm": 495.14056975850906,
+      "median_price_aed": 488848.0
+    },
+    {
+      "year_month": "2000-05",
+      "transactions": 22,
+      "total_value_aed": 17304293.0,
+      "median_psm": 733.7395811374051,
+      "median_price_aed": 612500.0
+    },
+    {
+      "year_month": "2000-06",
+      "transactions": 21,
+      "total_value_aed": 14695049.0,
+      "median_psm": 516.6660686735316,
+      "median_price_aed": 500000.0
+    },
+    {
+      "year_month": "2000-07",
+      "transactions": 27,
+      "total_value_aed": 26776495.0,
+      "median_psm": 795.6007956007955,
+      "median_price_aed": 500000.0
+    },
+    {
+      "year_month": "2000-08",
+      "transactions": 11,
+      "total_value_aed": 8700000.0,
+      "median_psm": 398.26628586190566,
+      "median_price_aed": 560000.0
+    },
+    {
+      "year_month": "2000-09",
+      "transactions": 13,
+      "total_value_aed": 11086500.0,
+      "median_psm": 912.6009126009126,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "2000-10",
+      "transactions": 18,
+      "total_value_aed": 17567500.0,
+      "median_psm": 530.414663854015,
+      "median_price_aed": 502500.0
+    },
+    {
+      "year_month": "2000-11",
+      "transactions": 27,
+      "total_value_aed": 24925203.0,
+      "median_psm": 538.1938215349288,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "2000-12",
+      "transactions": 16,
+      "total_value_aed": 13395100.0,
+      "median_psm": 957.7845893916857,
+      "median_price_aed": 760000.0
+    },
+    {
+      "year_month": "2001-01",
+      "transactions": 30,
+      "total_value_aed": 20923421.0,
+      "median_psm": 505.9051160474389,
+      "median_price_aed": 600000.0
+    },
+    {
+      "year_month": "2001-02",
+      "transactions": 24,
+      "total_value_aed": 23871881.0,
+      "median_psm": 602.7770801191202,
+      "median_price_aed": 744992.5
+    },
+    {
+      "year_month": "2001-03",
+      "transactions": 34,
+      "total_value_aed": 32991650.0,
+      "median_psm": 521.3759543228488,
+      "median_price_aed": 547500.0
+    },
+    {
+      "year_month": "2001-04",
+      "transactions": 41,
+      "total_value_aed": 51481843.0,
+      "median_psm": 968.7523546064175,
+      "median_price_aed": 800000.0
+    },
+    {
+      "year_month": "2001-05",
+      "transactions": 59,
+      "total_value_aed": 63234271.0,
+      "median_psm": 672.742276918661,
+      "median_price_aed": 645000.0
+    },
+    {
+      "year_month": "2001-06",
+      "transactions": 28,
+      "total_value_aed": 26990539.0,
+      "median_psm": 780.3810412256468,
+      "median_price_aed": 882780.0
+    },
+    {
+      "year_month": "2001-07",
+      "transactions": 46,
+      "total_value_aed": 32484536.0,
+      "median_psm": 532.8142223482973,
+      "median_price_aed": 550000.0
+    },
+    {
+      "year_month": "2001-08",
+      "transactions": 23,
+      "total_value_aed": 15361216.0,
+      "median_psm": 613.5409565498188,
+      "median_price_aed": 450000.0
+    },
+    {
+      "year_month": "2001-09",
+      "transactions": 25,
+      "total_value_aed": 31932966.0,
+      "median_psm": 753.4713501489003,
+      "median_price_aed": 1005000.0
+    },
+    {
+      "year_month": "2001-10",
+      "transactions": 49,
+      "total_value_aed": 43109000.0,
+      "median_psm": 914.9294966093789,
+      "median_price_aed": 597120.0
+    },
+    {
+      "year_month": "2001-11",
+      "transactions": 32,
+      "total_value_aed": 35633527.0,
+      "median_psm": 1016.4372266788635,
+      "median_price_aed": 690000.0
+    },
+    {
+      "year_month": "2001-12",
+      "transactions": 35,
+      "total_value_aed": 45813531.0,
+      "median_psm": 893.4017437479818,
+      "median_price_aed": 800000.0
+    },
+    {
+      "year_month": "2002-01",
+      "transactions": 74,
+      "total_value_aed": 83937915.0,
+      "median_psm": 699.6573925144107,
+      "median_price_aed": 723216.0
+    },
+    {
+      "year_month": "2002-02",
+      "transactions": 71,
+      "total_value_aed": 84395983.0,
+      "median_psm": 699.6544783268571,
+      "median_price_aed": 800000.0
+    },
+    {
+      "year_month": "2002-03",
+      "transactions": 68,
+      "total_value_aed": 105849412.0,
+      "median_psm": 753.4730450057046,
+      "median_price_aed": 915540.0
+    },
+    {
+      "year_month": "2002-04",
+      "transactions": 73,
+      "total_value_aed": 102641395.0,
+      "median_psm": 789.3509382512289,
+      "median_price_aed": 855000.0
+    },
+    {
+      "year_month": "2002-05",
+      "transactions": 53,
+      "total_value_aed": 56205140.0,
+      "median_psm": 1004.6356760480503,
+      "median_price_aed": 825000.0
+    },
+    {
+      "year_month": "2002-06",
+      "transactions": 54,
+      "total_value_aed": 78886712.0,
+      "median_psm": 879.0541353108638,
+      "median_price_aed": 855000.0
+    },
+    {
+      "year_month": "2002-07",
+      "transactions": 62,
+      "total_value_aed": 76903378.0,
+      "median_psm": 731.948095122058,
+      "median_price_aed": 705000.0
+    },
+    {
+      "year_month": "2002-08",
+      "transactions": 24,
+      "total_value_aed": 32713518.0,
+      "median_psm": 986.691891199237,
+      "median_price_aed": 1124750.0
+    },
+    {
+      "year_month": "2002-09",
+      "transactions": 35,
+      "total_value_aed": 41442666.0,
+      "median_psm": 1155.5517037165432,
+      "median_price_aed": 700000.0
+    },
+    {
+      "year_month": "2002-10",
+      "transactions": 35,
+      "total_value_aed": 44936171.0,
+      "median_psm": 1017.5249756130377,
+      "median_price_aed": 825000.0
+    },
+    {
+      "year_month": "2002-11",
+      "transactions": 35,
+      "total_value_aed": 54300127.0,
+      "median_psm": 897.0196447793327,
+      "median_price_aed": 830000.0
+    },
+    {
+      "year_month": "2002-12",
+      "transactions": 48,
+      "total_value_aed": 57145257.0,
+      "median_psm": 995.6634941225511,
+      "median_price_aed": 850195.0
+    },
+    {
+      "year_month": "2003-01",
+      "transactions": 44,
+      "total_value_aed": 57914432.0,
+      "median_psm": 1079.0183471545593,
+      "median_price_aed": 905000.0
+    },
+    {
+      "year_month": "2003-02",
+      "transactions": 36,
+      "total_value_aed": 33539388.0,
+      "median_psm": 946.7314598208047,
+      "median_price_aed": 812500.0
+    },
+    {
+      "year_month": "2003-03",
+      "transactions": 75,
+      "total_value_aed": 120882236.0,
+      "median_psm": 1237.8541921219526,
+      "median_price_aed": 1080000.0
+    },
+    {
+      "year_month": "2003-04",
+      "transactions": 50,
+      "total_value_aed": 63662197.0,
+      "median_psm": 1140.9748411196845,
+      "median_price_aed": 855000.0
+    },
+    {
+      "year_month": "2003-05",
+      "transactions": 67,
+      "total_value_aed": 96814441.0,
+      "median_psm": 861.1039352449841,
+      "median_price_aed": 780000.0
+    },
+    {
+      "year_month": "2003-06",
+      "transactions": 77,
+      "total_value_aed": 103417709.0,
+      "median_psm": 978.5419724610331,
+      "median_price_aed": 900000.0
+    },
+    {
+      "year_month": "2003-07",
+      "transactions": 62,
+      "total_value_aed": 87576754.0,
+      "median_psm": 1076.3880145694666,
+      "median_price_aed": 825000.0
+    },
+    {
+      "year_month": "2003-08",
+      "transactions": 27,
+      "total_value_aed": 36669835.0,
+      "median_psm": 1076.3924345053724,
+      "median_price_aed": 810000.0
+    },
+    {
+      "year_month": "2003-09",
+      "transactions": 60,
+      "total_value_aed": 72967535.0,
+      "median_psm": 968.7506166846447,
+      "median_price_aed": 915000.0
+    },
+    {
+      "year_month": "2003-10",
+      "transactions": 70,
+      "total_value_aed": 76130808.0,
+      "median_psm": 931.0822010894652,
+      "median_price_aed": 851915.5
+    },
+    {
+      "year_month": "2003-11",
+      "transactions": 43,
+      "total_value_aed": 45963943.0,
+      "median_psm": 667.3606528295193,
+      "median_price_aed": 870000.0
+    },
+    {
+      "year_month": "2003-12",
+      "transactions": 65,
+      "total_value_aed": 106590194.0,
+      "median_psm": 1291.66980614189,
+      "median_price_aed": 960000.0
+    },
+    {
+      "year_month": "2004-01",
+      "transactions": 63,
+      "total_value_aed": 111617343.0,
+      "median_psm": 1399.3089566537142,
+      "median_price_aed": 945000.0
+    },
+    {
+      "year_month": "2004-02",
+      "transactions": 45,
+      "total_value_aed": 68992295.0,
+      "median_psm": 1044.0960137777618,
+      "median_price_aed": 840000.0
+    },
+    {
+      "year_month": "2004-03",
+      "transactions": 79,
+      "total_value_aed": 110665808.0,
+      "median_psm": 1435.1835240931434,
+      "median_price_aed": 900000.0
+    },
+    {
+      "year_month": "2004-04",
+      "transactions": 99,
+      "total_value_aed": 134150226.0,
+      "median_psm": 1108.6840369036415,
+      "median_price_aed": 990000.0
+    },
+    {
+      "year_month": "2004-05",
+      "transactions": 76,
+      "total_value_aed": 132339146.0,
+      "median_psm": 1381.3409707090104,
+      "median_price_aed": 1112500.0
+    },
+    {
+      "year_month": "2004-06",
+      "transactions": 78,
+      "total_value_aed": 106301691.0,
+      "median_psm": 1350.8735089917968,
+      "median_price_aed": 1068035.0
+    },
+    {
+      "year_month": "2004-07",
+      "transactions": 66,
+      "total_value_aed": 147327678.0,
+      "median_psm": 2063.0783501790465,
+      "median_price_aed": 1350000.0
+    },
+    {
+      "year_month": "2004-08",
+      "transactions": 50,
+      "total_value_aed": 75449382.0,
+      "median_psm": 1790.0172433563275,
+      "median_price_aed": 1071000.0
+    },
+    {
+      "year_month": "2004-09",
+      "transactions": 72,
+      "total_value_aed": 115021679.0,
+      "median_psm": 1873.146620436149,
+      "median_price_aed": 1075315.0
+    },
+    {
+      "year_month": "2004-10",
+      "transactions": 67,
+      "total_value_aed": 103614035.0,
+      "median_psm": 1377.7772577833416,
+      "median_price_aed": 1200000.0
+    },
+    {
+      "year_month": "2004-11",
+      "transactions": 37,
+      "total_value_aed": 73709053.0,
+      "median_psm": 1901.618169423415,
+      "median_price_aed": 1375830.0
+    },
+    {
+      "year_month": "2004-12",
+      "transactions": 110,
+      "total_value_aed": 247315824.0,
+      "median_psm": 1887.2449109536135,
+      "median_price_aed": 1425000.0
+    },
+    {
+      "year_month": "2005-01",
+      "transactions": 81,
+      "total_value_aed": 205577786.0,
+      "median_psm": 1829.867493182446,
+      "median_price_aed": 1550000.0
+    },
+    {
+      "year_month": "2005-02",
+      "transactions": 66,
+      "total_value_aed": 157693963.0,
+      "median_psm": 1668.408329517295,
+      "median_price_aed": 1556960.0
+    },
+    {
+      "year_month": "2005-03",
+      "transactions": 82,
+      "total_value_aed": 194753716.0,
+      "median_psm": 2182.6839722303152,
+      "median_price_aed": 1550857.5
+    },
+    {
+      "year_month": "2005-04",
+      "transactions": 66,
+      "total_value_aed": 170137485.0,
+      "median_psm": 1903.6463306518451,
+      "median_price_aed": 1700000.0
+    },
+    {
+      "year_month": "2005-05",
+      "transactions": 70,
+      "total_value_aed": 162709035.0,
+      "median_psm": 2576.900931856751,
+      "median_price_aed": 1935320.0
+    },
+    {
+      "year_month": "2005-06",
+      "transactions": 56,
+      "total_value_aed": 159382519.0,
+      "median_psm": 2726.1813086476695,
+      "median_price_aed": 2254799.5
+    },
+    {
+      "year_month": "2005-07",
+      "transactions": 45,
+      "total_value_aed": 115437878.0,
+      "median_psm": 3440.23546500516,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "year_month": "2005-08",
+      "transactions": 35,
+      "total_value_aed": 82302610.0,
+      "median_psm": 2260.4221607483073,
+      "median_price_aed": 1750000.0
+    },
+    {
+      "year_month": "2005-09",
+      "transactions": 44,
+      "total_value_aed": 106320181.0,
+      "median_psm": 2264.8519633748947,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "year_month": "2005-10",
+      "transactions": 41,
+      "total_value_aed": 122050010.0,
+      "median_psm": 3355.772946368647,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "year_month": "2005-11",
+      "transactions": 39,
+      "total_value_aed": 119126505.0,
+      "median_psm": 2644.851765284783,
+      "median_price_aed": 2306850.0
+    },
+    {
+      "year_month": "2005-12",
+      "transactions": 27,
+      "total_value_aed": 86091023.0,
+      "median_psm": 2762.728283879301,
+      "median_price_aed": 2250000.0
+    },
+    {
+      "year_month": "2006-01",
+      "transactions": 56,
+      "total_value_aed": 166264822.0,
+      "median_psm": 2376.677104191021,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "year_month": "2006-02",
+      "transactions": 36,
+      "total_value_aed": 92035974.0,
+      "median_psm": 2637.1433312755953,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "year_month": "2006-03",
+      "transactions": 61,
+      "total_value_aed": 179939978.0,
+      "median_psm": 2475.700461771956,
+      "median_price_aed": 2142000.0
+    },
+    {
+      "year_month": "2006-04",
+      "transactions": 56,
+      "total_value_aed": 190170140.0,
+      "median_psm": 2583.3396122837803,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2006-05",
+      "transactions": 74,
+      "total_value_aed": 234087534.0,
+      "median_psm": 2419.879297382059,
+      "median_price_aed": 2137500.0
+    },
+    {
+      "year_month": "2006-06",
+      "transactions": 74,
+      "total_value_aed": 201299253.0,
+      "median_psm": 2196.6955995629737,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2006-07",
+      "transactions": 63,
+      "total_value_aed": 158517779.0,
+      "median_psm": 2200.773414657151,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2006-08",
+      "transactions": 53,
+      "total_value_aed": 134032083.0,
+      "median_psm": 2198.084985471194,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2006-09",
+      "transactions": 87,
+      "total_value_aed": 217673992.0,
+      "median_psm": 2152.7752861397153,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2006-10",
+      "transactions": 112,
+      "total_value_aed": 267924533.0,
+      "median_psm": 2629.978620770707,
+      "median_price_aed": 1829944.0
+    },
+    {
+      "year_month": "2006-11",
+      "transactions": 122,
+      "total_value_aed": 345236765.0,
+      "median_psm": 2615.4322633587435,
+      "median_price_aed": 1993944.0
+    },
+    {
+      "year_month": "2006-12",
+      "transactions": 151,
+      "total_value_aed": 489250758.0,
+      "median_psm": 2747.5315758460792,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "year_month": "2007-01",
+      "transactions": 138,
+      "total_value_aed": 372708367.0,
+      "median_psm": 2584.5560865141388,
+      "median_price_aed": 1990000.0
+    },
+    {
+      "year_month": "2007-02",
+      "transactions": 90,
+      "total_value_aed": 268430582.0,
+      "median_psm": 3067.7229045828803,
+      "median_price_aed": 2370000.0
+    },
+    {
+      "year_month": "2007-03",
+      "transactions": 102,
+      "total_value_aed": 376704878.0,
+      "median_psm": 3633.2777088398843,
+      "median_price_aed": 2675000.0
+    },
+    {
+      "year_month": "2007-04",
+      "transactions": 123,
+      "total_value_aed": 440737882.0,
+      "median_psm": 4175.432398143538,
+      "median_price_aed": 2600000.0
+    },
+    {
+      "year_month": "2007-05",
+      "transactions": 164,
+      "total_value_aed": 529796892.0,
+      "median_psm": 3514.7840604542857,
+      "median_price_aed": 2435400.0
+    },
+    {
+      "year_month": "2007-06",
+      "transactions": 356,
+      "total_value_aed": 577543144.0,
+      "median_psm": 2776.6152966211157,
+      "median_price_aed": 962500.0
+    },
+    {
+      "year_month": "2007-07",
+      "transactions": 296,
+      "total_value_aed": 524588830.0,
+      "median_psm": 3261.7584461275897,
+      "median_price_aed": 985000.0
+    },
+    {
+      "year_month": "2007-08",
+      "transactions": 280,
+      "total_value_aed": 442096236.0,
+      "median_psm": 4038.623849555152,
+      "median_price_aed": 949000.0
+    },
+    {
+      "year_month": "2007-09",
+      "transactions": 375,
+      "total_value_aed": 575395095.0,
+      "median_psm": 4371.031563448974,
+      "median_price_aed": 852109.0
+    },
+    {
+      "year_month": "2007-10",
+      "transactions": 652,
+      "total_value_aed": 1073688274.0,
+      "median_psm": 5795.803265997243,
+      "median_price_aed": 804283.0
+    },
+    {
+      "year_month": "2007-11",
+      "transactions": 488,
+      "total_value_aed": 996783092.0,
+      "median_psm": 5575.2188958342595,
+      "median_price_aed": 1078900.0
+    },
+    {
+      "year_month": "2007-12",
+      "transactions": 331,
+      "total_value_aed": 760376164.0,
+      "median_psm": 4690.681284259984,
+      "median_price_aed": 1105000.0
+    },
+    {
+      "year_month": "2008-01",
+      "transactions": 469,
+      "total_value_aed": 1194688671.0,
+      "median_psm": 5330.611319042759,
+      "median_price_aed": 1560000.0
+    },
+    {
+      "year_month": "2008-02",
+      "transactions": 420,
+      "total_value_aed": 1135489438.0,
+      "median_psm": 5618.9123995455375,
+      "median_price_aed": 1661733.0
+    },
+    {
+      "year_month": "2008-03",
+      "transactions": 650,
+      "total_value_aed": 1491563378.0,
+      "median_psm": 5083.1636116768495,
+      "median_price_aed": 1248199.5
+    },
+    {
+      "year_month": "2008-04",
+      "transactions": 946,
+      "total_value_aed": 2267933534.0,
+      "median_psm": 5083.1636116768495,
+      "median_price_aed": 1377412.5
+    },
+    {
+      "year_month": "2008-05",
+      "transactions": 764,
+      "total_value_aed": 2156021351.0,
+      "median_psm": 7195.107493027541,
+      "median_price_aed": 1718841.0
+    },
+    {
+      "year_month": "2008-06",
+      "transactions": 885,
+      "total_value_aed": 2121276905.0,
+      "median_psm": 7454.545454545455,
+      "median_price_aed": 1549888.0
+    },
+    {
+      "year_month": "2008-07",
+      "transactions": 996,
+      "total_value_aed": 2052825883.0,
+      "median_psm": 7162.653658725747,
+      "median_price_aed": 1144352.0
+    },
+    {
+      "year_month": "2008-08",
+      "transactions": 920,
+      "total_value_aed": 1715331418.0,
+      "median_psm": 7055.265062735518,
+      "median_price_aed": 960250.0
+    },
+    {
+      "year_month": "2008-09",
+      "transactions": 820,
+      "total_value_aed": 1302370987.0,
+      "median_psm": 6459.268270746501,
+      "median_price_aed": 588246.5
+    },
+    {
+      "year_month": "2008-10",
+      "transactions": 846,
+      "total_value_aed": 1473801052.0,
+      "median_psm": 7064.7045812716215,
+      "median_price_aed": 933844.0
+    },
+    {
+      "year_month": "2008-11",
+      "transactions": 1482,
+      "total_value_aed": 1553489395.0,
+      "median_psm": 6128.441263404744,
+      "median_price_aed": 406000.0
+    },
+    {
+      "year_month": "2008-12",
+      "transactions": 871,
+      "total_value_aed": 907897404.0,
+      "median_psm": 6540.304806565065,
+      "median_price_aed": 553133.0
+    },
+    {
+      "year_month": "2009-01",
+      "transactions": 2009,
+      "total_value_aed": 1727089409.0,
+      "median_psm": 5955.555555555556,
+      "median_price_aed": 407000.0
+    },
+    {
+      "year_month": "2009-02",
+      "transactions": 1341,
+      "total_value_aed": 1440073017.0,
+      "median_psm": 6111.111111111111,
+      "median_price_aed": 430000.0
+    },
+    {
+      "year_month": "2009-03",
+      "transactions": 1856,
+      "total_value_aed": 2261739163.0,
+      "median_psm": 7116.0044136963015,
+      "median_price_aed": 772416.5
+    },
+    {
+      "year_month": "2009-04",
+      "transactions": 3939,
+      "total_value_aed": 4402094192.0,
+      "median_psm": 9227.711167991378,
+      "median_price_aed": 863486.0
+    },
+    {
+      "year_month": "2009-05",
+      "transactions": 3528,
+      "total_value_aed": 4477135346.0,
+      "median_psm": 9082.784100540472,
+      "median_price_aed": 810477.5
+    },
+    {
+      "year_month": "2009-06",
+      "transactions": 4099,
+      "total_value_aed": 4883353426.0,
+      "median_psm": 9498.416930511581,
+      "median_price_aed": 805000.0
+    },
+    {
+      "year_month": "2009-07",
+      "transactions": 3056,
+      "total_value_aed": 3408085044.0,
+      "median_psm": 9488.944918541505,
+      "median_price_aed": 755944.0
+    },
+    {
+      "year_month": "2009-08",
+      "transactions": 2716,
+      "total_value_aed": 3593220313.0,
+      "median_psm": 9555.4705040132,
+      "median_price_aed": 839612.0
+    },
+    {
+      "year_month": "2009-09",
+      "transactions": 1274,
+      "total_value_aed": 1404027714.0,
+      "median_psm": 7497.936117936118,
+      "median_price_aed": 692146.5
+    },
+    {
+      "year_month": "2009-10",
+      "transactions": 1349,
+      "total_value_aed": 1788418459.0,
+      "median_psm": 8588.64248173311,
+      "median_price_aed": 812000.0
+    },
+    {
+      "year_month": "2009-11",
+      "transactions": 1279,
+      "total_value_aed": 1542982692.0,
+      "median_psm": 8238.636363636364,
+      "median_price_aed": 733550.0
+    },
+    {
+      "year_month": "2009-12",
+      "transactions": 1402,
+      "total_value_aed": 2012201175.0,
+      "median_psm": 9799.85054833163,
+      "median_price_aed": 1102965.0
+    },
+    {
+      "year_month": "2010-01",
+      "transactions": 830,
+      "total_value_aed": 1376359942.0,
+      "median_psm": 10501.78504651054,
+      "median_price_aed": 1186183.0
+    },
+    {
+      "year_month": "2010-02",
+      "transactions": 1199,
+      "total_value_aed": 1611652901.0,
+      "median_psm": 8582.995951417004,
+      "median_price_aed": 836888.0
+    },
+    {
+      "year_month": "2010-03",
+      "transactions": 3652,
+      "total_value_aed": 4915158109.0,
+      "median_psm": 9978.846153846154,
+      "median_price_aed": 970527.0
+    },
+    {
+      "year_month": "2010-04",
+      "transactions": 1232,
+      "total_value_aed": 1486803935.0,
+      "median_psm": 8591.307293935435,
+      "median_price_aed": 814944.0
+    },
+    {
+      "year_month": "2010-05",
+      "transactions": 1181,
+      "total_value_aed": 1752161048.0,
+      "median_psm": 8986.744551786116,
+      "median_price_aed": 1009888.0
+    },
+    {
+      "year_month": "2010-06",
+      "transactions": 1897,
+      "total_value_aed": 2295721287.0,
+      "median_psm": 9140.54054054054,
+      "median_price_aed": 874768.0
+    },
+    {
+      "year_month": "2010-07",
+      "transactions": 783,
+      "total_value_aed": 1141504199.0,
+      "median_psm": 8485.355648535564,
+      "median_price_aed": 1071888.0
+    },
+    {
+      "year_month": "2010-08",
+      "transactions": 1235,
+      "total_value_aed": 1674014977.0,
+      "median_psm": 9172.251664628346,
+      "median_price_aed": 898000.0
+    },
+    {
+      "year_month": "2010-09",
+      "transactions": 543,
+      "total_value_aed": 794453841.0,
+      "median_psm": 8306.924288912845,
+      "median_price_aed": 1016367.0
+    },
+    {
+      "year_month": "2010-10",
+      "transactions": 790,
+      "total_value_aed": 1021539278.0,
+      "median_psm": 8447.177625470744,
+      "median_price_aed": 892500.0
+    },
+    {
+      "year_month": "2010-11",
+      "transactions": 623,
+      "total_value_aed": 1063513746.0,
+      "median_psm": 7900.0659195781145,
+      "median_price_aed": 1195000.0
+    },
+    {
+      "year_month": "2010-12",
+      "transactions": 610,
+      "total_value_aed": 1015937701.0,
+      "median_psm": 8160.868463138853,
+      "median_price_aed": 1200000.0
+    },
+    {
+      "year_month": "2011-01",
+      "transactions": 1019,
+      "total_value_aed": 1498672161.0,
+      "median_psm": 8806.213109661387,
+      "median_price_aed": 1049888.0
+    },
+    {
+      "year_month": "2011-02",
+      "transactions": 980,
+      "total_value_aed": 1482033357.0,
+      "median_psm": 9393.643012799108,
+      "median_price_aed": 1055944.0
+    },
+    {
+      "year_month": "2011-03",
+      "transactions": 1188,
+      "total_value_aed": 1742981208.0,
+      "median_psm": 8213.529461709528,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "year_month": "2011-04",
+      "transactions": 924,
+      "total_value_aed": 1465064574.0,
+      "median_psm": 8493.709050498024,
+      "median_price_aed": 993500.0
+    },
+    {
+      "year_month": "2011-05",
+      "transactions": 926,
+      "total_value_aed": 1483558656.0,
+      "median_psm": 8883.377056213993,
+      "median_price_aed": 1087500.0
+    },
+    {
+      "year_month": "2011-06",
+      "transactions": 845,
+      "total_value_aed": 1408672701.0,
+      "median_psm": 8007.068887888338,
+      "median_price_aed": 1108265.0
+    },
+    {
+      "year_month": "2011-07",
+      "transactions": 873,
+      "total_value_aed": 1334679200.0,
+      "median_psm": 8611.18690313779,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "year_month": "2011-08",
+      "transactions": 762,
+      "total_value_aed": 1023244905.0,
+      "median_psm": 8274.55919364859,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "year_month": "2011-09",
+      "transactions": 689,
+      "total_value_aed": 1139488779.0,
+      "median_psm": 8491.216042505785,
+      "median_price_aed": 1124509.0
+    },
+    {
+      "year_month": "2011-10",
+      "transactions": 953,
+      "total_value_aed": 1394574000.0,
+      "median_psm": 7663.609756097561,
+      "median_price_aed": 850500.0
+    },
+    {
+      "year_month": "2011-11",
+      "transactions": 654,
+      "total_value_aed": 1033460195.0,
+      "median_psm": 8365.604210108231,
+      "median_price_aed": 874500.0
+    },
+    {
+      "year_month": "2011-12",
+      "transactions": 1061,
+      "total_value_aed": 1623150442.0,
+      "median_psm": 9050.285649640817,
+      "median_price_aed": 981750.0
+    },
+    {
+      "year_month": "2012-01",
+      "transactions": 981,
+      "total_value_aed": 1398368900.0,
+      "median_psm": 8670.5919119945,
+      "median_price_aed": 860000.0
+    },
+    {
+      "year_month": "2012-02",
+      "transactions": 1125,
+      "total_value_aed": 1744186981.0,
+      "median_psm": 8649.806409094654,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "year_month": "2012-03",
+      "transactions": 993,
+      "total_value_aed": 1712799044.0,
+      "median_psm": 8680.555555555557,
+      "median_price_aed": 1090000.0
+    },
+    {
+      "year_month": "2012-04",
+      "transactions": 1257,
+      "total_value_aed": 2171341836.0,
+      "median_psm": 8994.12221359654,
+      "median_price_aed": 950000.0
+    },
+    {
+      "year_month": "2012-05",
+      "transactions": 1103,
+      "total_value_aed": 1840294545.0,
+      "median_psm": 8776.252019386107,
+      "median_price_aed": 1150000.0
+    },
+    {
+      "year_month": "2012-06",
+      "transactions": 1005,
+      "total_value_aed": 1599177873.0,
+      "median_psm": 8731.554592977236,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "year_month": "2012-07",
+      "transactions": 1222,
+      "total_value_aed": 1870547839.0,
+      "median_psm": 9224.96903212767,
+      "median_price_aed": 1133388.0
+    },
+    {
+      "year_month": "2012-08",
+      "transactions": 866,
+      "total_value_aed": 1344599769.0,
+      "median_psm": 8691.621966216268,
+      "median_price_aed": 995983.0
+    },
+    {
+      "year_month": "2012-09",
+      "transactions": 1133,
+      "total_value_aed": 1699486651.0,
+      "median_psm": 9290.107637109175,
+      "median_price_aed": 920000.0
+    },
+    {
+      "year_month": "2012-10",
+      "transactions": 1607,
+      "total_value_aed": 2472049959.0,
+      "median_psm": 9608.957219251337,
+      "median_price_aed": 1092000.0
+    },
+    {
+      "year_month": "2012-11",
+      "transactions": 1259,
+      "total_value_aed": 2110834972.0,
+      "median_psm": 10230.179028132992,
+      "median_price_aed": 1180800.0
+    },
+    {
+      "year_month": "2012-12",
+      "transactions": 1880,
+      "total_value_aed": 3238630231.0,
+      "median_psm": 10346.697754077988,
+      "median_price_aed": 1225388.5
+    },
+    {
+      "year_month": "2013-01",
+      "transactions": 1790,
+      "total_value_aed": 2882609431.0,
+      "median_psm": 10075.81344731322,
+      "median_price_aed": 1154696.0
+    },
+    {
+      "year_month": "2013-02",
+      "transactions": 1623,
+      "total_value_aed": 2811900632.0,
+      "median_psm": 10919.94382022472,
+      "median_price_aed": 1226800.0
+    },
+    {
+      "year_month": "2013-03",
+      "transactions": 1763,
+      "total_value_aed": 2921605588.0,
+      "median_psm": 9904.570567553994,
+      "median_price_aed": 1063394.0
+    },
+    {
+      "year_month": "2013-04",
+      "transactions": 2300,
+      "total_value_aed": 3970495407.0,
+      "median_psm": 10156.552098755525,
+      "median_price_aed": 1237181.0
+    },
+    {
+      "year_month": "2013-05",
+      "transactions": 2019,
+      "total_value_aed": 3534617757.0,
+      "median_psm": 10120.62972807197,
+      "median_price_aed": 1200000.0
+    },
+    {
+      "year_month": "2013-06",
+      "transactions": 1945,
+      "total_value_aed": 3458239978.0,
+      "median_psm": 10115.385578367552,
+      "median_price_aed": 1220000.0
+    },
+    {
+      "year_month": "2013-07",
+      "transactions": 2047,
+      "total_value_aed": 3767842880.0,
+      "median_psm": 10588.06111571716,
+      "median_price_aed": 1225000.0
+    },
+    {
+      "year_month": "2013-08",
+      "transactions": 1247,
+      "total_value_aed": 2191223817.0,
+      "median_psm": 10993.83425645313,
+      "median_price_aed": 1250000.0
+    },
+    {
+      "year_month": "2013-09",
+      "transactions": 2535,
+      "total_value_aed": 3904069978.0,
+      "median_psm": 9668.915198237886,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "year_month": "2013-10",
+      "transactions": 2719,
+      "total_value_aed": 4375899878.0,
+      "median_psm": 9487.32529606316,
+      "median_price_aed": 1100000.0
+    },
+    {
+      "year_month": "2013-11",
+      "transactions": 1495,
+      "total_value_aed": 2755620819.0,
+      "median_psm": 11721.524982240115,
+      "median_price_aed": 1450000.0
+    },
+    {
+      "year_month": "2013-12",
+      "transactions": 3782,
+      "total_value_aed": 6463162568.0,
+      "median_psm": 9178.122227915086,
+      "median_price_aed": 1430388.0
+    },
+    {
+      "year_month": "2014-01",
+      "transactions": 2018,
+      "total_value_aed": 3172628520.0,
+      "median_psm": 10168.954345908714,
+      "median_price_aed": 1100000.0
+    },
+    {
+      "year_month": "2014-02",
+      "transactions": 1678,
+      "total_value_aed": 3030404635.0,
+      "median_psm": 11817.617029663397,
+      "median_price_aed": 1337330.0
+    },
+    {
+      "year_month": "2014-03",
+      "transactions": 2140,
+      "total_value_aed": 3678733111.0,
+      "median_psm": 11940.09187304815,
+      "median_price_aed": 1176890.0
+    },
+    {
+      "year_month": "2014-04",
+      "transactions": 2114,
+      "total_value_aed": 3817050959.0,
+      "median_psm": 13016.886721291381,
+      "median_price_aed": 1174412.5
+    },
+    {
+      "year_month": "2014-05",
+      "transactions": 1738,
+      "total_value_aed": 2903510759.0,
+      "median_psm": 12382.122402017314,
+      "median_price_aed": 1027736.0
+    },
+    {
+      "year_month": "2014-06",
+      "transactions": 2016,
+      "total_value_aed": 3640062900.0,
+      "median_psm": 12900.656811407223,
+      "median_price_aed": 1155442.5
+    },
+    {
+      "year_month": "2014-07",
+      "transactions": 1240,
+      "total_value_aed": 2114234583.0,
+      "median_psm": 11331.444759206799,
+      "median_price_aed": 1072500.0
+    },
+    {
+      "year_month": "2014-08",
+      "transactions": 1412,
+      "total_value_aed": 2168471279.0,
+      "median_psm": 10936.172096317281,
+      "median_price_aed": 1047394.5
+    },
+    {
+      "year_month": "2014-09",
+      "transactions": 1576,
+      "total_value_aed": 2944155193.0,
+      "median_psm": 10766.744252968618,
+      "median_price_aed": 1453900.0
+    },
+    {
+      "year_month": "2014-10",
+      "transactions": 1734,
+      "total_value_aed": 3437204605.0,
+      "median_psm": 11066.836727214086,
+      "median_price_aed": 1567665.5
+    },
+    {
+      "year_month": "2014-11",
+      "transactions": 1645,
+      "total_value_aed": 2736218273.0,
+      "median_psm": 13045.293372731112,
+      "median_price_aed": 1136240.0
+    },
+    {
+      "year_month": "2014-12",
+      "transactions": 2087,
+      "total_value_aed": 3428959114.0,
+      "median_psm": 12413.15438796878,
+      "median_price_aed": 1237888.0
+    },
+    {
+      "year_month": "2015-01",
+      "transactions": 1473,
+      "total_value_aed": 2526063559.0,
+      "median_psm": 12386.623589141107,
+      "median_price_aed": 1137000.0
+    },
+    {
+      "year_month": "2015-02",
+      "transactions": 1331,
+      "total_value_aed": 2200453356.0,
+      "median_psm": 12590.799031476998,
+      "median_price_aed": 1095921.0
+    },
+    {
+      "year_month": "2015-03",
+      "transactions": 1385,
+      "total_value_aed": 2527726070.0,
+      "median_psm": 13604.213298222514,
+      "median_price_aed": 1393579.0
+    },
+    {
+      "year_month": "2015-04",
+      "transactions": 1115,
+      "total_value_aed": 2337742565.0,
+      "median_psm": 12752.14467887781,
+      "median_price_aed": 1325000.0
+    },
+    {
+      "year_month": "2015-05",
+      "transactions": 1285,
+      "total_value_aed": 2214670545.0,
+      "median_psm": 11280.641309909603,
+      "median_price_aed": 1100000.0
+    },
+    {
+      "year_month": "2015-06",
+      "transactions": 1258,
+      "total_value_aed": 2164697650.0,
+      "median_psm": 11417.251596434537,
+      "median_price_aed": 1090000.0
+    },
+    {
+      "year_month": "2015-07",
+      "transactions": 762,
+      "total_value_aed": 1392831710.0,
+      "median_psm": 10437.006648282651,
+      "median_price_aed": 1206000.0
+    },
+    {
+      "year_month": "2015-08",
+      "transactions": 1205,
+      "total_value_aed": 2219144877.0,
+      "median_psm": 10817.307692307693,
+      "median_price_aed": 1245888.0
+    },
+    {
+      "year_month": "2015-09",
+      "transactions": 1324,
+      "total_value_aed": 2087792790.0,
+      "median_psm": 10174.099450033602,
+      "median_price_aed": 1090765.5
+    },
+    {
+      "year_month": "2015-10",
+      "transactions": 1101,
+      "total_value_aed": 1762026886.0,
+      "median_psm": 9803.921568627451,
+      "median_price_aed": 1105000.0
+    },
+    {
+      "year_month": "2015-11",
+      "transactions": 2322,
+      "total_value_aed": 3430022498.0,
+      "median_psm": 10713.365552199088,
+      "median_price_aed": 1150655.5
+    },
+    {
+      "year_month": "2015-12",
+      "transactions": 1783,
+      "total_value_aed": 2603417311.0,
+      "median_psm": 9826.028508517787,
+      "median_price_aed": 988132.0
+    },
+    {
+      "year_month": "2016-01",
+      "transactions": 1080,
+      "total_value_aed": 1809033918.0,
+      "median_psm": 10693.332924529748,
+      "median_price_aed": 1089282.0
+    },
+    {
+      "year_month": "2016-02",
+      "transactions": 1796,
+      "total_value_aed": 2798406866.0,
+      "median_psm": 10717.891447653436,
+      "median_price_aed": 939944.0
+    },
+    {
+      "year_month": "2016-03",
+      "transactions": 1085,
+      "total_value_aed": 1775415575.0,
+      "median_psm": 10430.713095899104,
+      "median_price_aed": 1086800.0
+    },
+    {
+      "year_month": "2016-04",
+      "transactions": 1455,
+      "total_value_aed": 2171117316.0,
+      "median_psm": 11408.55649902025,
+      "median_price_aed": 917879.0
+    },
+    {
+      "year_month": "2016-05",
+      "transactions": 1475,
+      "total_value_aed": 2464444048.0,
+      "median_psm": 10979.531368102796,
+      "median_price_aed": 1125000.0
+    },
+    {
+      "year_month": "2016-06",
+      "transactions": 1406,
+      "total_value_aed": 2494510755.0,
+      "median_psm": 11502.25182824442,
+      "median_price_aed": 1169409.5
+    },
+    {
+      "year_month": "2016-07",
+      "transactions": 1558,
+      "total_value_aed": 3002937949.0,
+      "median_psm": 12733.79424130141,
+      "median_price_aed": 1334166.5
+    },
+    {
+      "year_month": "2016-08",
+      "transactions": 1713,
+      "total_value_aed": 3165019947.0,
+      "median_psm": 12648.802604045572,
+      "median_price_aed": 1341900.0
+    },
+    {
+      "year_month": "2016-09",
+      "transactions": 955,
+      "total_value_aed": 1397393052.0,
+      "median_psm": 10801.270378996402,
+      "median_price_aed": 1010000.0
+    },
+    {
+      "year_month": "2016-10",
+      "transactions": 1211,
+      "total_value_aed": 1968874263.0,
+      "median_psm": 11046.511627906977,
+      "median_price_aed": 1175000.0
+    },
+    {
+      "year_month": "2016-11",
+      "transactions": 1273,
+      "total_value_aed": 2060912795.0,
+      "median_psm": 10387.268736280965,
+      "median_price_aed": 1137815.0
+    },
+    {
+      "year_month": "2016-12",
+      "transactions": 1232,
+      "total_value_aed": 1941582440.0,
+      "median_psm": 11495.141950195333,
+      "median_price_aed": 1078400.0
+    },
+    {
+      "year_month": "2017-01",
+      "transactions": 1816,
+      "total_value_aed": 2907050762.0,
+      "median_psm": 11207.263441622927,
+      "median_price_aed": 1168944.0
+    },
+    {
+      "year_month": "2017-02",
+      "transactions": 1926,
+      "total_value_aed": 3240326190.0,
+      "median_psm": 11815.210478773432,
+      "median_price_aed": 1369669.5
+    },
+    {
+      "year_month": "2017-03",
+      "transactions": 2082,
+      "total_value_aed": 3407151491.0,
+      "median_psm": 10595.821422285007,
+      "median_price_aed": 1284444.0
+    },
+    {
+      "year_month": "2017-04",
+      "transactions": 1775,
+      "total_value_aed": 2807666128.0,
+      "median_psm": 11840.408061706892,
+      "median_price_aed": 1160000.0
+    },
+    {
+      "year_month": "2017-05",
+      "transactions": 1723,
+      "total_value_aed": 2796469381.0,
+      "median_psm": 10516.665151377398,
+      "median_price_aed": 1061000.0
+    },
+    {
+      "year_month": "2017-06",
+      "transactions": 951,
+      "total_value_aed": 1627695875.0,
+      "median_psm": 10428.021759320683,
+      "median_price_aed": 1056828.0
+    },
+    {
+      "year_month": "2017-07",
+      "transactions": 1696,
+      "total_value_aed": 2454253839.0,
+      "median_psm": 11733.834269337905,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "year_month": "2017-08",
+      "transactions": 1925,
+      "total_value_aed": 2802287614.0,
+      "median_psm": 11125.65445026178,
+      "median_price_aed": 1070000.0
+    },
+    {
+      "year_month": "2017-09",
+      "transactions": 1276,
+      "total_value_aed": 1960588116.0,
+      "median_psm": 11599.469611011902,
+      "median_price_aed": 1207888.0
+    },
+    {
+      "year_month": "2017-10",
+      "transactions": 1738,
+      "total_value_aed": 2552783419.0,
+      "median_psm": 10886.800261800261,
+      "median_price_aed": 930350.0
+    },
+    {
+      "year_month": "2017-11",
+      "transactions": 1328,
+      "total_value_aed": 1925207930.0,
+      "median_psm": 11199.858537831853,
+      "median_price_aed": 916619.0
+    },
+    {
+      "year_month": "2017-12",
+      "transactions": 1487,
+      "total_value_aed": 2586664788.0,
+      "median_psm": 12795.536692223439,
+      "median_price_aed": 1033888.0
+    },
+    {
+      "year_month": "2018-01",
+      "transactions": 1300,
+      "total_value_aed": 1831802388.0,
+      "median_psm": 12242.423211926163,
+      "median_price_aed": 950000.0
+    },
+    {
+      "year_month": "2018-02",
+      "transactions": 1288,
+      "total_value_aed": 1780222283.0,
+      "median_psm": 12965.968138432403,
+      "median_price_aed": 826941.0
+    },
+    {
+      "year_month": "2018-03",
+      "transactions": 1139,
+      "total_value_aed": 1744231777.0,
+      "median_psm": 12127.670424047235,
+      "median_price_aed": 995877.0
+    },
+    {
+      "year_month": "2018-04",
+      "transactions": 1204,
+      "total_value_aed": 1888484197.0,
+      "median_psm": 12311.06243154436,
+      "median_price_aed": 1119358.0
+    },
+    {
+      "year_month": "2018-05",
+      "transactions": 1602,
+      "total_value_aed": 2203168628.0,
+      "median_psm": 12322.49641179108,
+      "median_price_aed": 948662.5
+    },
+    {
+      "year_month": "2018-06",
+      "transactions": 1032,
+      "total_value_aed": 1567315201.0,
+      "median_psm": 10843.045267489711,
+      "median_price_aed": 1032500.0
+    },
+    {
+      "year_month": "2018-07",
+      "transactions": 1285,
+      "total_value_aed": 2156939085.0,
+      "median_psm": 11360.506747452491,
+      "median_price_aed": 1200280.0
+    },
+    {
+      "year_month": "2018-08",
+      "transactions": 648,
+      "total_value_aed": 988827828.0,
+      "median_psm": 10763.911584194455,
+      "median_price_aed": 1041450.0
+    },
+    {
+      "year_month": "2018-09",
+      "transactions": 976,
+      "total_value_aed": 1282835125.0,
+      "median_psm": 9751.167282376737,
+      "median_price_aed": 863682.5
+    },
+    {
+      "year_month": "2018-10",
+      "transactions": 1376,
+      "total_value_aed": 1898909408.0,
+      "median_psm": 10063.444766412606,
+      "median_price_aed": 987694.0
+    },
+    {
+      "year_month": "2018-11",
+      "transactions": 1182,
+      "total_value_aed": 1691999944.0,
+      "median_psm": 10985.64296343425,
+      "median_price_aed": 1062803.0
+    },
+    {
+      "year_month": "2018-12",
+      "transactions": 1059,
+      "total_value_aed": 1578322531.0,
+      "median_psm": 10645.848119233498,
+      "median_price_aed": 1100000.0
+    },
+    {
+      "year_month": "2019-01",
+      "transactions": 968,
+      "total_value_aed": 1396160152.0,
+      "median_psm": 10443.53290869191,
+      "median_price_aed": 975485.0
+    },
+    {
+      "year_month": "2019-02",
+      "transactions": 1345,
+      "total_value_aed": 2301550501.0,
+      "median_psm": 10973.282442748092,
+      "median_price_aed": 1345000.0
+    },
+    {
+      "year_month": "2019-03",
+      "transactions": 1249,
+      "total_value_aed": 1860346647.0,
+      "median_psm": 11391.880695940348,
+      "median_price_aed": 1085000.0
+    },
+    {
+      "year_month": "2019-04",
+      "transactions": 1467,
+      "total_value_aed": 2094010126.0,
+      "median_psm": 10607.61142644459,
+      "median_price_aed": 1020888.0
+    },
+    {
+      "year_month": "2019-05",
+      "transactions": 1461,
+      "total_value_aed": 2159407820.0,
+      "median_psm": 12507.035207304109,
+      "median_price_aed": 1077888.0
+    },
+    {
+      "year_month": "2019-06",
+      "transactions": 1014,
+      "total_value_aed": 1643381049.0,
+      "median_psm": 12158.80968165617,
+      "median_price_aed": 1220611.5
+    },
+    {
+      "year_month": "2019-07",
+      "transactions": 1911,
+      "total_value_aed": 2846804774.0,
+      "median_psm": 10836.45653524822,
+      "median_price_aed": 1175942.0
+    },
+    {
+      "year_month": "2019-08",
+      "transactions": 1053,
+      "total_value_aed": 1476228117.0,
+      "median_psm": 9444.092039800997,
+      "median_price_aed": 1079888.0
+    },
+    {
+      "year_month": "2019-09",
+      "transactions": 1430,
+      "total_value_aed": 1759114473.0,
+      "median_psm": 9807.029064728236,
+      "median_price_aed": 989032.0
+    },
+    {
+      "year_month": "2019-10",
+      "transactions": 2244,
+      "total_value_aed": 3158802479.0,
+      "median_psm": 10044.78580835252,
+      "median_price_aed": 1204888.0
+    },
+    {
+      "year_month": "2019-11",
+      "transactions": 1376,
+      "total_value_aed": 2036116054.0,
+      "median_psm": 10186.72147421092,
+      "median_price_aed": 1184000.0
+    },
+    {
+      "year_month": "2019-12",
+      "transactions": 2049,
+      "total_value_aed": 3360561687.0,
+      "median_psm": 10770.749014454666,
+      "median_price_aed": 1236103.0
+    },
+    {
+      "year_month": "2020-01",
+      "transactions": 1228,
+      "total_value_aed": 1659523912.0,
+      "median_psm": 9879.541757278628,
+      "median_price_aed": 1049040.0
+    },
+    {
+      "year_month": "2020-02",
+      "transactions": 1825,
+      "total_value_aed": 2721912890.0,
+      "median_psm": 10357.803468208092,
+      "median_price_aed": 1177888.0
+    },
+    {
+      "year_month": "2020-03",
+      "transactions": 1369,
+      "total_value_aed": 2081962520.0,
+      "median_psm": 10763.8825149151,
+      "median_price_aed": 1135888.0
+    },
+    {
+      "year_month": "2020-04",
+      "transactions": 766,
+      "total_value_aed": 1301656595.0,
+      "median_psm": 13977.263588301077,
+      "median_price_aed": 1355444.0
+    },
+    {
+      "year_month": "2020-05",
+      "transactions": 602,
+      "total_value_aed": 831719584.0,
+      "median_psm": 13351.016973740065,
+      "median_price_aed": 1159766.0
+    },
+    {
+      "year_month": "2020-06",
+      "transactions": 956,
+      "total_value_aed": 1483595446.0,
+      "median_psm": 10329.35464051794,
+      "median_price_aed": 1074444.0
+    },
+    {
+      "year_month": "2020-07",
+      "transactions": 938,
+      "total_value_aed": 1496522113.0,
+      "median_psm": 9282.879408087814,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "year_month": "2020-08",
+      "transactions": 850,
+      "total_value_aed": 1341429470.0,
+      "median_psm": 8606.913649048429,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "year_month": "2020-09",
+      "transactions": 1271,
+      "total_value_aed": 1889497267.0,
+      "median_psm": 9188.110026619343,
+      "median_price_aed": 1060000.0
+    },
+    {
+      "year_month": "2020-10",
+      "transactions": 1706,
+      "total_value_aed": 2990380073.0,
+      "median_psm": 9467.8906222056,
+      "median_price_aed": 1299444.0
+    },
+    {
+      "year_month": "2020-11",
+      "transactions": 1642,
+      "total_value_aed": 2714856051.0,
+      "median_psm": 9648.3400231103,
+      "median_price_aed": 1211312.0
+    },
+    {
+      "year_month": "2020-12",
+      "transactions": 1466,
+      "total_value_aed": 2109426022.0,
+      "median_psm": 9724.216743803623,
+      "median_price_aed": 900000.0
+    },
+    {
+      "year_month": "2021-01",
+      "transactions": 1284,
+      "total_value_aed": 1893666096.0,
+      "median_psm": 9547.765786695305,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "year_month": "2021-02",
+      "transactions": 1398,
+      "total_value_aed": 2201381819.0,
+      "median_psm": 9096.282826049799,
+      "median_price_aed": 1015166.0
+    },
+    {
+      "year_month": "2021-03",
+      "transactions": 1998,
+      "total_value_aed": 3767098044.0,
+      "median_psm": 10419.226222452326,
+      "median_price_aed": 1195331.0
+    },
+    {
+      "year_month": "2021-04",
+      "transactions": 2082,
+      "total_value_aed": 3871568784.0,
+      "median_psm": 10073.312498794574,
+      "median_price_aed": 1226875.0
+    },
+    {
+      "year_month": "2021-05",
+      "transactions": 1921,
+      "total_value_aed": 3627922507.0,
+      "median_psm": 9932.255883148498,
+      "median_price_aed": 1140388.0
+    },
+    {
+      "year_month": "2021-06",
+      "transactions": 2410,
+      "total_value_aed": 4758676868.0,
+      "median_psm": 11506.594951696006,
+      "median_price_aed": 1298405.0
+    },
+    {
+      "year_month": "2021-07",
+      "transactions": 1900,
+      "total_value_aed": 3796027725.0,
+      "median_psm": 11264.391308104372,
+      "median_price_aed": 1323500.0
+    },
+    {
+      "year_month": "2021-08",
+      "transactions": 2414,
+      "total_value_aed": 5115348865.0,
+      "median_psm": 11635.575676826375,
+      "median_price_aed": 1474444.0
+    },
+    {
+      "year_month": "2021-09",
+      "transactions": 2535,
+      "total_value_aed": 5331300101.0,
+      "median_psm": 11153.523421588594,
+      "median_price_aed": 1428000.0
+    },
+    {
+      "year_month": "2021-10",
+      "transactions": 2066,
+      "total_value_aed": 4376087652.0,
+      "median_psm": 11087.728162909845,
+      "median_price_aed": 1442388.0
+    },
+    {
+      "year_month": "2021-11",
+      "transactions": 3052,
+      "total_value_aed": 6597548842.0,
+      "median_psm": 13082.182025352515,
+      "median_price_aed": 1619944.0
+    },
+    {
+      "year_month": "2021-12",
+      "transactions": 2312,
+      "total_value_aed": 5151656970.0,
+      "median_psm": 12333.9126905703,
+      "median_price_aed": 1525000.0
+    },
+    {
+      "year_month": "2022-01",
+      "transactions": 2309,
+      "total_value_aed": 4750299446.0,
+      "median_psm": 13076.885111050178,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "year_month": "2022-02",
+      "transactions": 2455,
+      "total_value_aed": 4666397638.0,
+      "median_psm": 12155.963302752292,
+      "median_price_aed": 1195434.0
+    },
+    {
+      "year_month": "2022-03",
+      "transactions": 3137,
+      "total_value_aed": 6403870882.0,
+      "median_psm": 13330.041964946926,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "year_month": "2022-04",
+      "transactions": 2794,
+      "total_value_aed": 5908421372.0,
+      "median_psm": 12807.396671623028,
+      "median_price_aed": 1455000.0
+    },
+    {
+      "year_month": "2022-05",
+      "transactions": 2775,
+      "total_value_aed": 6325360384.0,
+      "median_psm": 14860.385640382505,
+      "median_price_aed": 1575000.0
+    },
+    {
+      "year_month": "2022-06",
+      "transactions": 3662,
+      "total_value_aed": 8009569160.0,
+      "median_psm": 13347.238799911673,
+      "median_price_aed": 1506214.0
+    },
+    {
+      "year_month": "2022-07",
+      "transactions": 3004,
+      "total_value_aed": 6864003303.0,
+      "median_psm": 13454.864031398934,
+      "median_price_aed": 1490909.5
+    },
+    {
+      "year_month": "2022-08",
+      "transactions": 3979,
+      "total_value_aed": 7892798507.0,
+      "median_psm": 12969.858156028367,
+      "median_price_aed": 1320000.0
+    },
+    {
+      "year_month": "2022-09",
+      "transactions": 4041,
+      "total_value_aed": 8175855900.0,
+      "median_psm": 13789.1226269882,
+      "median_price_aed": 1389000.0
+    },
+    {
+      "year_month": "2022-10",
+      "transactions": 4219,
+      "total_value_aed": 9918797131.0,
+      "median_psm": 16105.653084232565,
+      "median_price_aed": 1613888.0
+    },
+    {
+      "year_month": "2022-11",
+      "transactions": 4990,
+      "total_value_aed": 12046295296.0,
+      "median_psm": 16881.275348124815,
+      "median_price_aed": 1536000.0
+    },
+    {
+      "year_month": "2022-12",
+      "transactions": 4065,
+      "total_value_aed": 9664310471.0,
+      "median_psm": 16941.52923538231,
+      "median_price_aed": 1511000.0
+    },
+    {
+      "year_month": "2023-01",
+      "transactions": 4210,
+      "total_value_aed": 10200615782.0,
+      "median_psm": 16371.852176067809,
+      "median_price_aed": 1544000.0
+    },
+    {
+      "year_month": "2023-02",
+      "transactions": 4374,
+      "total_value_aed": 9802712780.0,
+      "median_psm": 13406.481141086762,
+      "median_price_aed": 1254315.0
+    },
+    {
+      "year_month": "2023-03",
+      "transactions": 5630,
+      "total_value_aed": 12224107533.0,
+      "median_psm": 14036.47990230018,
+      "median_price_aed": 1398944.0
+    },
+    {
+      "year_month": "2023-04",
+      "transactions": 3687,
+      "total_value_aed": 7954566612.0,
+      "median_psm": 14416.004707266842,
+      "median_price_aed": 1384888.0
+    },
+    {
+      "year_month": "2023-05",
+      "transactions": 5492,
+      "total_value_aed": 13273805313.0,
+      "median_psm": 14851.584050913236,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "year_month": "2023-06",
+      "transactions": 5087,
+      "total_value_aed": 12292571499.0,
+      "median_psm": 15698.97832045851,
+      "median_price_aed": 1525000.0
+    },
+    {
+      "year_month": "2023-07",
+      "transactions": 4895,
+      "total_value_aed": 11255652939.0,
+      "median_psm": 15479.908151549944,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "year_month": "2023-08",
+      "transactions": 5744,
+      "total_value_aed": 13858481196.0,
+      "median_psm": 16104.59612051889,
+      "median_price_aed": 1610706.0
+    },
+    {
+      "year_month": "2023-09",
+      "transactions": 6570,
+      "total_value_aed": 14468874691.0,
+      "median_psm": 15968.066649294651,
+      "median_price_aed": 1384000.0
+    },
+    {
+      "year_month": "2023-10",
+      "transactions": 5635,
+      "total_value_aed": 12129610181.0,
+      "median_psm": 16360.97126875159,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "year_month": "2023-11",
+      "transactions": 5410,
+      "total_value_aed": 12943101616.0,
+      "median_psm": 15627.04640705492,
+      "median_price_aed": 1555444.0
+    },
+    {
+      "year_month": "2023-12",
+      "transactions": 5236,
+      "total_value_aed": 12212549457.0,
+      "median_psm": 16848.916476528226,
+      "median_price_aed": 1503388.0
+    },
+    {
+      "year_month": "2024-01",
+      "transactions": 5308,
+      "total_value_aed": 12821428648.0,
+      "median_psm": 17596.629381171355,
+      "median_price_aed": 1454734.0
+    },
+    {
+      "year_month": "2024-02",
+      "transactions": 5862,
+      "total_value_aed": 12534020922.0,
+      "median_psm": 16690.301935924526,
+      "median_price_aed": 1380265.0
+    },
+    {
+      "year_month": "2024-03",
+      "transactions": 6496,
+      "total_value_aed": 14353995099.0,
+      "median_psm": 16128.936471956727,
+      "median_price_aed": 1346750.0
+    },
+    {
+      "year_month": "2024-04",
+      "transactions": 5897,
+      "total_value_aed": 12792410917.0,
+      "median_psm": 17330.307406643286,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "year_month": "2024-05",
+      "transactions": 9065,
+      "total_value_aed": 19353482526.0,
+      "median_psm": 17655.023016517738,
+      "median_price_aed": 1484588.0
+    },
+    {
+      "year_month": "2024-06",
+      "transactions": 6853,
+      "total_value_aed": 14478505503.0,
+      "median_psm": 16322.366743177761,
+      "median_price_aed": 1340000.0
+    },
+    {
+      "year_month": "2024-07",
+      "transactions": 8437,
+      "total_value_aed": 18410778324.0,
+      "median_psm": 16656.256506350197,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "year_month": "2024-08",
+      "transactions": 8334,
+      "total_value_aed": 18515401591.0,
+      "median_psm": 16378.129495137777,
+      "median_price_aed": 1646966.0
+    },
+    {
+      "year_month": "2024-09",
+      "transactions": 9501,
+      "total_value_aed": 20236468639.0,
+      "median_psm": 17059.528565721135,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "year_month": "2024-10",
+      "transactions": 10746,
+      "total_value_aed": 23043231728.0,
+      "median_psm": 17370.307314638947,
+      "median_price_aed": 1480000.0
+    },
+    {
+      "year_month": "2024-11",
+      "transactions": 7593,
+      "total_value_aed": 16671085161.0,
+      "median_psm": 16511.83970856102,
+      "median_price_aed": 1355951.0
+    },
+    {
+      "year_month": "2024-12",
+      "transactions": 7833,
+      "total_value_aed": 16065886552.0,
+      "median_psm": 17153.01314375465,
+      "median_price_aed": 1295000.0
+    },
+    {
+      "year_month": "2025-01",
+      "transactions": 6497,
+      "total_value_aed": 14360605159.0,
+      "median_psm": 17439.192290041305,
+      "median_price_aed": 1513091.0
+    },
+    {
+      "year_month": "2025-02",
+      "transactions": 7886,
+      "total_value_aed": 18187269343.0,
+      "median_psm": 16750.204545454544,
+      "median_price_aed": 1500155.0
+    },
+    {
+      "year_month": "2025-03",
+      "transactions": 7749,
+      "total_value_aed": 17290138688.0,
+      "median_psm": 17710.793165717463,
+      "median_price_aed": 1475000.0
+    },
+    {
+      "year_month": "2025-04",
+      "transactions": 8573,
+      "total_value_aed": 20019730325.0,
+      "median_psm": 17402.012556979444,
+      "median_price_aed": 1410750.0
+    },
+    {
+      "year_month": "2025-05",
+      "transactions": 8800,
+      "total_value_aed": 21322120340.0,
+      "median_psm": 18067.65761148129,
+      "median_price_aed": 1388804.5
+    },
+    {
+      "year_month": "2025-06",
+      "transactions": 8069,
+      "total_value_aed": 18282111176.0,
+      "median_psm": 18505.153099327857,
+      "median_price_aed": 1358000.0
+    },
+    {
+      "year_month": "2025-07",
+      "transactions": 10142,
+      "total_value_aed": 22118990312.0,
+      "median_psm": 18410.844736038773,
+      "median_price_aed": 1330858.0
+    },
+    {
+      "year_month": "2025-08",
+      "transactions": 9775,
+      "total_value_aed": 19846913990.0,
+      "median_psm": 19165.379912663757,
+      "median_price_aed": 1373000.0
+    },
+    {
+      "year_month": "2025-09",
+      "transactions": 10854,
+      "total_value_aed": 23546187519.0,
+      "median_psm": 18509.400848533303,
+      "median_price_aed": 1324999.5
+    },
+    {
+      "year_month": "2025-10",
+      "transactions": 10501,
+      "total_value_aed": 22872406513.0,
+      "median_psm": 18395.761469958292,
+      "median_price_aed": 1340000.0
+    },
+    {
+      "year_month": "2025-11",
+      "transactions": 2340,
+      "total_value_aed": 5081053794.0,
+      "median_psm": 19016.163658685506,
+      "median_price_aed": 1482648.0
+    }
+  ],
+  "quarterly": [
+    {
+      "quarter": "1993Q1",
+      "transactions": 1,
+      "total_value_aed": 2175000.0,
+      "median_psm": 1829.022166907733,
+      "median_price_aed": 2175000.0
+    },
+    {
+      "quarter": "1997Q4",
+      "transactions": 4,
+      "total_value_aed": 2825000.0,
+      "median_psm": 767.8286952652957,
+      "median_price_aed": 535000.0
+    },
+    {
+      "quarter": "1998Q1",
+      "transactions": 14,
+      "total_value_aed": 16998440.0,
+      "median_psm": 436.36972405947233,
+      "median_price_aed": 585000.0
+    },
+    {
+      "quarter": "1998Q2",
+      "transactions": 88,
+      "total_value_aed": 56382262.0,
+      "median_psm": 376.7377721284787,
+      "median_price_aed": 399040.0
+    },
+    {
+      "quarter": "1998Q3",
+      "transactions": 74,
+      "total_value_aed": 55543073.0,
+      "median_psm": 430.5566020472967,
+      "median_price_aed": 500000.0
+    },
+    {
+      "quarter": "1998Q4",
+      "transactions": 65,
+      "total_value_aed": 51308327.0,
+      "median_psm": 430.55814687773585,
+      "median_price_aed": 473000.0
+    },
+    {
+      "quarter": "1999Q1",
+      "transactions": 41,
+      "total_value_aed": 23505844.0,
+      "median_psm": 441.3220048776628,
+      "median_price_aed": 477648.0
+    },
+    {
+      "quarter": "1999Q2",
+      "transactions": 58,
+      "total_value_aed": 61842974.0,
+      "median_psm": 522.0481142705512,
+      "median_price_aed": 600000.0
+    },
+    {
+      "quarter": "1999Q3",
+      "transactions": 47,
+      "total_value_aed": 36176746.0,
+      "median_psm": 484.37791523745284,
+      "median_price_aed": 500000.0
+    },
+    {
+      "quarter": "1999Q4",
+      "transactions": 68,
+      "total_value_aed": 67703651.0,
+      "median_psm": 568.0952662765092,
+      "median_price_aed": 659857.5
+    },
+    {
+      "quarter": "2000Q1",
+      "transactions": 53,
+      "total_value_aed": 54075516.0,
+      "median_psm": 538.195764088035,
+      "median_price_aed": 660000.0
+    },
+    {
+      "quarter": "2000Q2",
+      "transactions": 73,
+      "total_value_aed": 57586458.0,
+      "median_psm": 592.0132036884216,
+      "median_price_aed": 500000.0
+    },
+    {
+      "quarter": "2000Q3",
+      "transactions": 51,
+      "total_value_aed": 46562995.0,
+      "median_psm": 795.6007956007955,
+      "median_price_aed": 525000.0
+    },
+    {
+      "quarter": "2000Q4",
+      "transactions": 61,
+      "total_value_aed": 55887803.0,
+      "median_psm": 645.8325858419146,
+      "median_price_aed": 580000.0
+    },
+    {
+      "quarter": "2001Q1",
+      "transactions": 88,
+      "total_value_aed": 77786952.0,
+      "median_psm": 543.5778345128045,
+      "median_price_aed": 600000.0
+    },
+    {
+      "quarter": "2001Q2",
+      "transactions": 128,
+      "total_value_aed": 141706653.0,
+      "median_psm": 699.6519679954074,
+      "median_price_aed": 847875.0
+    },
+    {
+      "quarter": "2001Q3",
+      "transactions": 94,
+      "total_value_aed": 79778718.0,
+      "median_psm": 613.5409565498188,
+      "median_price_aed": 600000.0
+    },
+    {
+      "quarter": "2001Q4",
+      "transactions": 116,
+      "total_value_aed": 124556058.0,
+      "median_psm": 914.930504691245,
+      "median_price_aed": 690000.0
+    },
+    {
+      "quarter": "2002Q1",
+      "transactions": 213,
+      "total_value_aed": 274183310.0,
+      "median_psm": 717.5917620465717,
+      "median_price_aed": 825000.0
+    },
+    {
+      "quarter": "2002Q2",
+      "transactions": 180,
+      "total_value_aed": 237733247.0,
+      "median_psm": 823.4819622167136,
+      "median_price_aed": 850000.0
+    },
+    {
+      "quarter": "2002Q3",
+      "transactions": 121,
+      "total_value_aed": 151059562.0,
+      "median_psm": 807.2955598744207,
+      "median_price_aed": 750000.0
+    },
+    {
+      "quarter": "2002Q4",
+      "transactions": 118,
+      "total_value_aed": 156381555.0,
+      "median_psm": 992.6733816685847,
+      "median_price_aed": 827500.0
+    },
+    {
+      "quarter": "2003Q1",
+      "transactions": 155,
+      "total_value_aed": 212336056.0,
+      "median_psm": 1081.6490512392609,
+      "median_price_aed": 940000.0
+    },
+    {
+      "quarter": "2003Q2",
+      "transactions": 194,
+      "total_value_aed": 263894347.0,
+      "median_psm": 929.2829925311155,
+      "median_price_aed": 831191.0
+    },
+    {
+      "quarter": "2003Q3",
+      "transactions": 149,
+      "total_value_aed": 197214124.0,
+      "median_psm": 983.1005023643567,
+      "median_price_aed": 840000.0
+    },
+    {
+      "quarter": "2003Q4",
+      "transactions": 178,
+      "total_value_aed": 228684945.0,
+      "median_psm": 941.846149039797,
+      "median_price_aed": 870375.0
+    },
+    {
+      "quarter": "2004Q1",
+      "transactions": 187,
+      "total_value_aed": 291275446.0,
+      "median_psm": 1377.785787921824,
+      "median_price_aed": 900000.0
+    },
+    {
+      "quarter": "2004Q2",
+      "transactions": 253,
+      "total_value_aed": 372791063.0,
+      "median_psm": 1291.6732214383387,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "quarter": "2004Q3",
+      "transactions": 188,
+      "total_value_aed": 337798739.0,
+      "median_psm": 1889.0591486229735,
+      "median_price_aed": 1112500.0
+    },
+    {
+      "quarter": "2004Q4",
+      "transactions": 214,
+      "total_value_aed": 424638912.0,
+      "median_psm": 1617.5462040108534,
+      "median_price_aed": 1342800.0
+    },
+    {
+      "quarter": "2005Q1",
+      "transactions": 229,
+      "total_value_aed": 558025465.0,
+      "median_psm": 1937.5048197788299,
+      "median_price_aed": 1550000.0
+    },
+    {
+      "quarter": "2005Q2",
+      "transactions": 192,
+      "total_value_aed": 492229039.0,
+      "median_psm": 2529.242199643427,
+      "median_price_aed": 1816034.5
+    },
+    {
+      "quarter": "2005Q3",
+      "transactions": 124,
+      "total_value_aed": 304060669.0,
+      "median_psm": 2314.245887736025,
+      "median_price_aed": 2000000.0
+    },
+    {
+      "quarter": "2005Q4",
+      "transactions": 107,
+      "total_value_aed": 327267538.0,
+      "median_psm": 3067.704782749094,
+      "median_price_aed": 2250000.0
+    },
+    {
+      "quarter": "2006Q1",
+      "transactions": 153,
+      "total_value_aed": 438240774.0,
+      "median_psm": 2445.914710954029,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "quarter": "2006Q2",
+      "transactions": 204,
+      "total_value_aed": 625556927.0,
+      "median_psm": 2349.9962537758684,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "quarter": "2006Q3",
+      "transactions": 203,
+      "total_value_aed": 510223854.0,
+      "median_psm": 2196.836555360281,
+      "median_price_aed": 2100000.0
+    },
+    {
+      "quarter": "2006Q4",
+      "transactions": 385,
+      "total_value_aed": 1102412056.0,
+      "median_psm": 2669.154703795097,
+      "median_price_aed": 1956888.0
+    },
+    {
+      "quarter": "2007Q1",
+      "transactions": 330,
+      "total_value_aed": 1017843827.0,
+      "median_psm": 3020.6318078194495,
+      "median_price_aed": 2216388.0
+    },
+    {
+      "quarter": "2007Q2",
+      "transactions": 643,
+      "total_value_aed": 1548077918.0,
+      "median_psm": 3127.621779665692,
+      "median_price_aed": 1610000.0
+    },
+    {
+      "quarter": "2007Q3",
+      "transactions": 951,
+      "total_value_aed": 1542080161.0,
+      "median_psm": 3997.4837012467115,
+      "median_price_aed": 922983.0
+    },
+    {
+      "quarter": "2007Q4",
+      "transactions": 1471,
+      "total_value_aed": 2830847530.0,
+      "median_psm": 5795.785668300896,
+      "median_price_aed": 949000.0
+    },
+    {
+      "quarter": "2008Q1",
+      "transactions": 1539,
+      "total_value_aed": 3821741487.0,
+      "median_psm": 5274.318375079384,
+      "median_price_aed": 1491000.0
+    },
+    {
+      "quarter": "2008Q2",
+      "transactions": 2595,
+      "total_value_aed": 6545231790.0,
+      "median_psm": 6477.272727272727,
+      "median_price_aed": 1520000.0
+    },
+    {
+      "quarter": "2008Q3",
+      "transactions": 2736,
+      "total_value_aed": 5070528288.0,
+      "median_psm": 6755.717713171101,
+      "median_price_aed": 916183.0
+    },
+    {
+      "quarter": "2008Q4",
+      "transactions": 3199,
+      "total_value_aed": 3935187851.0,
+      "median_psm": 6452.359224174496,
+      "median_price_aed": 570000.0
+    },
+    {
+      "quarter": "2009Q1",
+      "transactions": 5206,
+      "total_value_aed": 5428901589.0,
+      "median_psm": 6268.526548550174,
+      "median_price_aed": 500000.0
+    },
+    {
+      "quarter": "2009Q2",
+      "transactions": 11566,
+      "total_value_aed": 13762582964.0,
+      "median_psm": 9275.412522493258,
+      "median_price_aed": 825000.0
+    },
+    {
+      "quarter": "2009Q3",
+      "transactions": 7046,
+      "total_value_aed": 8405333071.0,
+      "median_psm": 9149.489902144493,
+      "median_price_aed": 770765.0
+    },
+    {
+      "quarter": "2009Q4",
+      "transactions": 4030,
+      "total_value_aed": 5343602326.0,
+      "median_psm": 8988.76404494382,
+      "median_price_aed": 885000.0
+    },
+    {
+      "quarter": "2010Q1",
+      "transactions": 5681,
+      "total_value_aed": 7903170952.0,
+      "median_psm": 9742.465753424658,
+      "median_price_aed": 984104.0
+    },
+    {
+      "quarter": "2010Q2",
+      "transactions": 4310,
+      "total_value_aed": 5534686270.0,
+      "median_psm": 8889.947437503815,
+      "median_price_aed": 897043.5
+    },
+    {
+      "quarter": "2010Q3",
+      "transactions": 2561,
+      "total_value_aed": 3609973017.0,
+      "median_psm": 8772.556868105046,
+      "median_price_aed": 971492.0
+    },
+    {
+      "quarter": "2010Q4",
+      "transactions": 2023,
+      "total_value_aed": 3100990725.0,
+      "median_psm": 8195.601693757684,
+      "median_price_aed": 1030000.0
+    },
+    {
+      "quarter": "2011Q1",
+      "transactions": 3187,
+      "total_value_aed": 4723686726.0,
+      "median_psm": 8718.785869149344,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "quarter": "2011Q2",
+      "transactions": 2695,
+      "total_value_aed": 4357295931.0,
+      "median_psm": 8475.3282028067,
+      "median_price_aed": 1068434.0
+    },
+    {
+      "quarter": "2011Q3",
+      "transactions": 2324,
+      "total_value_aed": 3497412884.0,
+      "median_psm": 8460.625243730523,
+      "median_price_aed": 1050000.0
+    },
+    {
+      "quarter": "2011Q4",
+      "transactions": 2668,
+      "total_value_aed": 4051184637.0,
+      "median_psm": 8344.300164383185,
+      "median_price_aed": 904339.0
+    },
+    {
+      "quarter": "2012Q1",
+      "transactions": 3099,
+      "total_value_aed": 4855354925.0,
+      "median_psm": 8663.156106675726,
+      "median_price_aed": 968000.0
+    },
+    {
+      "quarter": "2012Q2",
+      "transactions": 3365,
+      "total_value_aed": 5610814254.0,
+      "median_psm": 8838.352810239288,
+      "median_price_aed": 1030000.0
+    },
+    {
+      "quarter": "2012Q3",
+      "transactions": 3221,
+      "total_value_aed": 4914634259.0,
+      "median_psm": 9058.740268931351,
+      "median_price_aed": 1000000.0
+    },
+    {
+      "quarter": "2012Q4",
+      "transactions": 4746,
+      "total_value_aed": 7821515162.0,
+      "median_psm": 10018.237769388077,
+      "median_price_aed": 1160000.0
+    },
+    {
+      "quarter": "2013Q1",
+      "transactions": 5176,
+      "total_value_aed": 8616115651.0,
+      "median_psm": 10244.534415535374,
+      "median_price_aed": 1150000.0
+    },
+    {
+      "quarter": "2013Q2",
+      "transactions": 6264,
+      "total_value_aed": 10963353142.0,
+      "median_psm": 10129.963435234014,
+      "median_price_aed": 1220525.0
+    },
+    {
+      "quarter": "2013Q3",
+      "transactions": 5829,
+      "total_value_aed": 9863136675.0,
+      "median_psm": 10169.899549705577,
+      "median_price_aed": 1120000.0
+    },
+    {
+      "quarter": "2013Q4",
+      "transactions": 7996,
+      "total_value_aed": 13594683265.0,
+      "median_psm": 9766.585361887892,
+      "median_price_aed": 1348888.0
+    },
+    {
+      "quarter": "2014Q1",
+      "transactions": 5836,
+      "total_value_aed": 9881766266.0,
+      "median_psm": 11083.530877999028,
+      "median_price_aed": 1200000.0
+    },
+    {
+      "quarter": "2014Q2",
+      "transactions": 5868,
+      "total_value_aed": 10360624618.0,
+      "median_psm": 12785.851484349416,
+      "median_price_aed": 1123925.0
+    },
+    {
+      "quarter": "2014Q3",
+      "transactions": 4228,
+      "total_value_aed": 7226861055.0,
+      "median_psm": 11042.902767888969,
+      "median_price_aed": 1169938.0
+    },
+    {
+      "quarter": "2014Q4",
+      "transactions": 5466,
+      "total_value_aed": 9602381992.0,
+      "median_psm": 12239.32990671997,
+      "median_price_aed": 1300027.0
+    },
+    {
+      "quarter": "2015Q1",
+      "transactions": 4189,
+      "total_value_aed": 7254242985.0,
+      "median_psm": 12892.924052457127,
+      "median_price_aed": 1220400.0
+    },
+    {
+      "quarter": "2015Q2",
+      "transactions": 3658,
+      "total_value_aed": 6717110760.0,
+      "median_psm": 11748.657974118321,
+      "median_price_aed": 1164000.0
+    },
+    {
+      "quarter": "2015Q3",
+      "transactions": 3291,
+      "total_value_aed": 5699769377.0,
+      "median_psm": 10500.89257586895,
+      "median_price_aed": 1175495.0
+    },
+    {
+      "quarter": "2015Q4",
+      "transactions": 5206,
+      "total_value_aed": 7795466695.0,
+      "median_psm": 10138.888888888889,
+      "median_price_aed": 1087715.0
+    },
+    {
+      "quarter": "2016Q1",
+      "transactions": 3961,
+      "total_value_aed": 6382856359.0,
+      "median_psm": 10620.793480888091,
+      "median_price_aed": 1010888.0
+    },
+    {
+      "quarter": "2016Q2",
+      "transactions": 4336,
+      "total_value_aed": 7130072119.0,
+      "median_psm": 11194.727649033255,
+      "median_price_aed": 1064377.5
+    },
+    {
+      "quarter": "2016Q3",
+      "transactions": 4226,
+      "total_value_aed": 7565350948.0,
+      "median_psm": 12180.623711546068,
+      "median_price_aed": 1258944.0
+    },
+    {
+      "quarter": "2016Q4",
+      "transactions": 3716,
+      "total_value_aed": 5971369498.0,
+      "median_psm": 10807.487334960759,
+      "median_price_aed": 1123601.5
+    },
+    {
+      "quarter": "2017Q1",
+      "transactions": 5824,
+      "total_value_aed": 9554528443.0,
+      "median_psm": 11201.827557085206,
+      "median_price_aed": 1290000.0
+    },
+    {
+      "quarter": "2017Q2",
+      "transactions": 4449,
+      "total_value_aed": 7231831384.0,
+      "median_psm": 10939.123776185528,
+      "median_price_aed": 1095000.0
+    },
+    {
+      "quarter": "2017Q3",
+      "transactions": 4897,
+      "total_value_aed": 7217129569.0,
+      "median_psm": 11491.492864983535,
+      "median_price_aed": 1086300.0
+    },
+    {
+      "quarter": "2017Q4",
+      "transactions": 4553,
+      "total_value_aed": 7064656137.0,
+      "median_psm": 11494.252873563219,
+      "median_price_aed": 955485.0
+    },
+    {
+      "quarter": "2018Q1",
+      "transactions": 3727,
+      "total_value_aed": 5356256448.0,
+      "median_psm": 12447.206079570853,
+      "median_price_aed": 917888.0
+    },
+    {
+      "quarter": "2018Q2",
+      "transactions": 3838,
+      "total_value_aed": 5658968026.0,
+      "median_psm": 11987.632296145632,
+      "median_price_aed": 1009944.0
+    },
+    {
+      "quarter": "2018Q3",
+      "transactions": 2909,
+      "total_value_aed": 4428602038.0,
+      "median_psm": 10734.149054505006,
+      "median_price_aed": 1068200.0
+    },
+    {
+      "quarter": "2018Q4",
+      "transactions": 3617,
+      "total_value_aed": 5169231883.0,
+      "median_psm": 10564.285484752081,
+      "median_price_aed": 1035000.0
+    },
+    {
+      "quarter": "2019Q1",
+      "transactions": 3562,
+      "total_value_aed": 5558057300.0,
+      "median_psm": 10843.991153963734,
+      "median_price_aed": 1094834.0
+    },
+    {
+      "quarter": "2019Q2",
+      "transactions": 3942,
+      "total_value_aed": 5896798995.0,
+      "median_psm": 11364.170018016172,
+      "median_price_aed": 1087888.0
+    },
+    {
+      "quarter": "2019Q3",
+      "transactions": 4394,
+      "total_value_aed": 6082147364.0,
+      "median_psm": 10149.620924766601,
+      "median_price_aed": 1088888.0
+    },
+    {
+      "quarter": "2019Q4",
+      "transactions": 5669,
+      "total_value_aed": 8555480220.0,
+      "median_psm": 10235.85798816568,
+      "median_price_aed": 1203888.0
+    },
+    {
+      "quarter": "2020Q1",
+      "transactions": 4422,
+      "total_value_aed": 6463399322.0,
+      "median_psm": 10310.116602575023,
+      "median_price_aed": 1125888.0
+    },
+    {
+      "quarter": "2020Q2",
+      "transactions": 2324,
+      "total_value_aed": 3616971625.0,
+      "median_psm": 11618.388972127708,
+      "median_price_aed": 1213333.5
+    },
+    {
+      "quarter": "2020Q3",
+      "transactions": 3059,
+      "total_value_aed": 4727448850.0,
+      "median_psm": 9126.74754477181,
+      "median_price_aed": 1033818.0
+    },
+    {
+      "quarter": "2020Q4",
+      "transactions": 4814,
+      "total_value_aed": 7814662146.0,
+      "median_psm": 9564.562508558127,
+      "median_price_aed": 1179903.5
+    },
+    {
+      "quarter": "2021Q1",
+      "transactions": 4680,
+      "total_value_aed": 7862145959.0,
+      "median_psm": 9821.267087383789,
+      "median_price_aed": 1118152.0
+    },
+    {
+      "quarter": "2021Q2",
+      "transactions": 6413,
+      "total_value_aed": 12258168159.0,
+      "median_psm": 10741.767899691418,
+      "median_price_aed": 1244595.0
+    },
+    {
+      "quarter": "2021Q3",
+      "transactions": 6849,
+      "total_value_aed": 14242676691.0,
+      "median_psm": 11367.592702992726,
+      "median_price_aed": 1415000.0
+    },
+    {
+      "quarter": "2021Q4",
+      "transactions": 7430,
+      "total_value_aed": 16125293464.0,
+      "median_psm": 12423.755747421412,
+      "median_price_aed": 1534212.5
+    },
+    {
+      "quarter": "2022Q1",
+      "transactions": 7901,
+      "total_value_aed": 15820567966.0,
+      "median_psm": 12916.600790513834,
+      "median_price_aed": 1345000.0
+    },
+    {
+      "quarter": "2022Q2",
+      "transactions": 9231,
+      "total_value_aed": 20243350916.0,
+      "median_psm": 13523.794663754095,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "quarter": "2022Q3",
+      "transactions": 11024,
+      "total_value_aed": 22932657710.0,
+      "median_psm": 13434.072285492315,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "quarter": "2022Q4",
+      "transactions": 13274,
+      "total_value_aed": 31629402898.0,
+      "median_psm": 16588.520177057966,
+      "median_price_aed": 1555055.5
+    },
+    {
+      "quarter": "2023Q1",
+      "transactions": 14214,
+      "total_value_aed": 32227436095.0,
+      "median_psm": 14201.228854227655,
+      "median_price_aed": 1400000.0
+    },
+    {
+      "quarter": "2023Q2",
+      "transactions": 14266,
+      "total_value_aed": 33520943424.0,
+      "median_psm": 15015.104947607526,
+      "median_price_aed": 1450000.0
+    },
+    {
+      "quarter": "2023Q3",
+      "transactions": 17209,
+      "total_value_aed": 39583008826.0,
+      "median_psm": 15885.461053349241,
+      "median_price_aed": 1490888.0
+    },
+    {
+      "quarter": "2023Q4",
+      "transactions": 16281,
+      "total_value_aed": 37285261254.0,
+      "median_psm": 16267.823930564167,
+      "median_price_aed": 1491888.0
+    },
+    {
+      "quarter": "2024Q1",
+      "transactions": 17666,
+      "total_value_aed": 39709444669.0,
+      "median_psm": 16687.211093990754,
+      "median_price_aed": 1385000.0
+    },
+    {
+      "quarter": "2024Q2",
+      "transactions": 21815,
+      "total_value_aed": 46624398946.0,
+      "median_psm": 17088.77964141122,
+      "median_price_aed": 1415777.0
+    },
+    {
+      "quarter": "2024Q3",
+      "transactions": 26272,
+      "total_value_aed": 57162648554.0,
+      "median_psm": 16770.25000498745,
+      "median_price_aed": 1550000.0
+    },
+    {
+      "quarter": "2024Q4",
+      "transactions": 26172,
+      "total_value_aed": 55780203441.0,
+      "median_psm": 17080.719866534273,
+      "median_price_aed": 1375000.0
+    },
+    {
+      "quarter": "2025Q1",
+      "transactions": 22132,
+      "total_value_aed": 49838013190.0,
+      "median_psm": 17236.38031893983,
+      "median_price_aed": 1500000.0
+    },
+    {
+      "quarter": "2025Q2",
+      "transactions": 25442,
+      "total_value_aed": 59623961841.0,
+      "median_psm": 17982.467791749725,
+      "median_price_aed": 1383651.5
+    },
+    {
+      "quarter": "2025Q3",
+      "transactions": 30771,
+      "total_value_aed": 65512091821.0,
+      "median_psm": 18667.59425493716,
+      "median_price_aed": 1339850.0
+    },
+    {
+      "quarter": "2025Q4",
+      "transactions": 12841,
+      "total_value_aed": 27953460307.0,
+      "median_psm": 18477.984219903283,
+      "median_price_aed": 1361999.0
+    }
+  ]
+}

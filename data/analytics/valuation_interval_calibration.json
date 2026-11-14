@@ -1,0 +1,250 @@
+{
+  "overall": {
+    "n": 81676,
+    "empirical_coverage": 0.8713698026348009,
+    "mean_width_aed": 1203491.618525282,
+    "median_width_aed": 763192.7220971838,
+    "median_width_over_predicted": 0.5387439687751278
+  },
+  "segments": {
+    "property_type": {
+      "Unit": {
+        "n": 75073,
+        "empirical_coverage": 0.8776390979446672,
+        "mean_width_aed": 1051603.7633289627,
+        "median_width_aed": 720213.0779374612,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "Villa": {
+        "n": 6603,
+        "empirical_coverage": 0.8000908677873694,
+        "mean_width_aed": 2930384.9932266716,
+        "median_width_aed": 2000904.4603029718,
+        "median_width_over_predicted": 0.5387439687751279
+      }
+    },
+    "reg_type": {
+      "Existing Properties": {
+        "n": 20390,
+        "empirical_coverage": 0.8695929377145659,
+        "mean_width_aed": 1591484.700087798,
+        "median_width_aed": 892242.1225364781,
+        "median_width_over_predicted": 0.7536563718838454
+      },
+      "Off-Plan Properties": {
+        "n": 61286,
+        "empirical_coverage": 0.8719609698789283,
+        "mean_width_aed": 1074405.3845883354,
+        "median_width_aed": 742217.9383366591,
+        "median_width_over_predicted": 0.5387439687751278
+      }
+    },
+    "bedrooms": {
+      "0": {
+        "n": 18762,
+        "empirical_coverage": 0.8786376718899904,
+        "mean_width_aed": 423507.4819863476,
+        "median_width_aed": 372267.9284936006,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "1": {
+        "n": 33905,
+        "empirical_coverage": 0.8910485179177112,
+        "mean_width_aed": 803001.7249941921,
+        "median_width_aed": 699431.2783902227,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "2": {
+        "n": 18248,
+        "empirical_coverage": 0.8671087242437527,
+        "mean_width_aed": 1497136.372047798,
+        "median_width_aed": 1313484.954175783,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "3": {
+        "n": 6507,
+        "empirical_coverage": 0.8392500384201629,
+        "mean_width_aed": 2521233.479106831,
+        "median_width_aed": 1990873.2849445227,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "4": {
+        "n": 2513,
+        "empirical_coverage": 0.7719856744926383,
+        "mean_width_aed": 3224926.6366282427,
+        "median_width_aed": 2232090.1496149,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "5": {
+        "n": 341,
+        "empirical_coverage": 0.7947214076246334,
+        "mean_width_aed": 6780485.358863964,
+        "median_width_aed": 2954569.016180392,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "6": {
+        "n": 34,
+        "empirical_coverage": 0.5588235294117647,
+        "mean_width_aed": 17935461.622080974,
+        "median_width_aed": 15220808.973098008,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "7": {
+        "n": 7,
+        "empirical_coverage": 0.2857142857142857,
+        "mean_width_aed": 30191205.49909094,
+        "median_width_aed": 19305118.596103966,
+        "median_width_over_predicted": 0.5387439687751279
+      },
+      "missing": {
+        "n": 1359,
+        "empirical_coverage": 0.7049300956585725,
+        "mean_width_aed": 6005753.883130863,
+        "median_width_aed": 4206972.221502557,
+        "median_width_over_predicted": 0.7536563718838454
+      }
+    },
+    "size_band": {
+      "120-200": {
+        "n": 12617,
+        "empirical_coverage": 0.8705714512166125,
+        "mean_width_aed": 1865353.5183771388,
+        "median_width_aed": 1702980.4490923416,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "200-400": {
+        "n": 4534,
+        "empirical_coverage": 0.7759153065725629,
+        "mean_width_aed": 3064807.9074828844,
+        "median_width_aed": 2441007.583449931,
+        "median_width_over_predicted": 0.5387439687751279
+      },
+      "400+": {
+        "n": 1594,
+        "empirical_coverage": 0.6336260978670013,
+        "mean_width_aed": 8579496.670533078,
+        "median_width_aed": 5629803.931940426,
+        "median_width_over_predicted": 0.7536563718838454
+      },
+      "50-80": {
+        "n": 26383,
+        "empirical_coverage": 0.8931887958154873,
+        "mean_width_aed": 744241.7152200319,
+        "median_width_aed": 657457.1540167549,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "80-120": {
+        "n": 17821,
+        "empirical_coverage": 0.8800291790584143,
+        "mean_width_aed": 1099668.5889526694,
+        "median_width_aed": 1003734.0116466638,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "<50": {
+        "n": 18727,
+        "empirical_coverage": 0.8762748972072408,
+        "mean_width_aed": 424901.81297451933,
+        "median_width_aed": 372226.86518617684,
+        "median_width_over_predicted": 0.5387439687751278
+      }
+    },
+    "quarter": {
+      "2025Q1": {
+        "n": 12622,
+        "empirical_coverage": 0.8929646648708603,
+        "mean_width_aed": 1267238.8739053537,
+        "median_width_aed": 829920.7352343751,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "2025Q2": {
+        "n": 25442,
+        "empirical_coverage": 0.8939548777611823,
+        "mean_width_aed": 1289270.255679611,
+        "median_width_aed": 785615.6668130404,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "2025Q3": {
+        "n": 30771,
+        "empirical_coverage": 0.8507685808066037,
+        "mean_width_aed": 1117406.4735444537,
+        "median_width_aed": 743605.3090577835,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "2025Q4": {
+        "n": 12841,
+        "empirical_coverage": 0.8547620901798926,
+        "mean_width_aed": 1177164.0780157705,
+        "median_width_aed": 748078.8023117173,
+        "median_width_over_predicted": 0.5387439687751278
+      }
+    },
+    "price_band": {
+      "0.5-1m": {
+        "n": 20564,
+        "empirical_coverage": 0.8994845360824743,
+        "mean_width_aed": 439997.59251935926,
+        "median_width_aed": 394132.54840372753,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "1-2m": {
+        "n": 31252,
+        "empirical_coverage": 0.8906629975681556,
+        "mean_width_aed": 784627.1158027177,
+        "median_width_aed": 727994.7307441629,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "10m+": {
+        "n": 1449,
+        "empirical_coverage": 0.4893029675638371,
+        "mean_width_aed": 10029931.029650457,
+        "median_width_aed": 7403687.147372443,
+        "median_width_over_predicted": 0.5387439687751279
+      },
+      "2-5m": {
+        "n": 22334,
+        "empirical_coverage": 0.8814811498164233,
+        "mean_width_aed": 1680502.233331326,
+        "median_width_aed": 1581545.184722059,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "5-10m": {
+        "n": 3376,
+        "empirical_coverage": 0.6501777251184834,
+        "mean_width_aed": 3467749.8241878254,
+        "median_width_aed": 3290911.485175486,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "<0.5m": {
+        "n": 2701,
+        "empirical_coverage": 0.8319141058867087,
+        "mean_width_aed": 353303.9509044223,
+        "median_width_aed": 299087.54327130096,
+        "median_width_over_predicted": 0.7536563718838454
+      }
+    },
+    "community_volume": {
+      "other_areas": {
+        "n": 35024,
+        "empirical_coverage": 0.8676621745089081,
+        "mean_width_aed": 1214026.2012926552,
+        "median_width_aed": 842354.7421395651,
+        "median_width_over_predicted": 0.5387439687751278
+      },
+      "top_20_train_areas": {
+        "n": 46652,
+        "empirical_coverage": 0.8741533053245306,
+        "mean_width_aed": 1195582.778028744,
+        "median_width_aed": 707284.4594522172,
+        "median_width_over_predicted": 0.5387439687751278
+      }
+    }
+  },
+  "nominal_coverage": 0.9,
+  "method": "absolute percentage residual |y-pred|/pred",
+  "interpretation": "This is a prediction interval for an individual property's potential transaction price. It is not a confidence interval for a mean price. Overall coverage near the nominal level does not guarantee the same coverage in every community.",
+  "calibration_window": {
+    "start": "2024-10-24",
+    "end_exclusive": "2025-02-12",
+    "n": 27436
+  }
+}

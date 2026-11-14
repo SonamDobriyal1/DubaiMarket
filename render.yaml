@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: dubai-market-api
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements-render.txt
+    startCommand: python -m uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
+      - key: CORS_ORIGINS
+        sync: false

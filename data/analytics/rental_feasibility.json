@@ -1,0 +1,29 @@
+{
+  "rent_value_non_null_after_dedup": 22748,
+  "meter_rent_price_non_null_after_dedup": 22748,
+  "trans_group_counts": {
+    "Mortgages": 22748
+  },
+  "procedure_counts": {
+    "Lease to Own Registration": 18339,
+    "Lease to Own Registration Pre-Registration": 2266,
+    "Delayed Lease to Own Registration": 670,
+    "Lease to Own Transfer": 535,
+    "Lease Development Registration": 290,
+    "Lease to Own Modify": 233,
+    "Delayed Sell Lease to Own Registration": 208,
+    "Lease to Own on Development Registration": 193,
+    "Lease to Own on Development Modification": 6,
+    "Lease to Own Transfer Pre-Registration": 4,
+    "Lease Development Modify": 2,
+    "Delayed Sell Lease To Own Modification": 1,
+    "Delayed Lease to Own Modify": 1
+  },
+  "sales_rows_with_rent_value": 0,
+  "date_min": "2007-02-12",
+  "date_max": "2025-11-07",
+  "communities_with_a_rent_value": 105,
+  "rental_valuation_status": "unavailable",
+  "rental_yield_status": "unavailable",
+  "reason": "Non-null rent fields are attached to lease-to-own and related mortgage procedures, not to a general set of rental contracts. They are not used to estimate market rent or yield. Sales rows carrying rent_value after deduplication: 0."
+}

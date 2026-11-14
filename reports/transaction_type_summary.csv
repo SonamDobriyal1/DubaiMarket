@@ -1,0 +1,536 @@
+trans_group_en,procedure_name_en,reg_type_en,property_usage_en,property_type_en,n_rows,n_unique_transaction_id,total_actual_worth,median_actual_worth,median_procedure_area,median_meter_sale_price
+Sales,Sell - Pre registration,Off-Plan Properties,Residential,Unit,431140,270645,795678296257.0,1235888.0,74.35,17123.08
+Sales,Sell,Existing Properties,Residential,Unit,300961,189394,410355176489.0,900000.0,83.99,10492.2
+Mortgages,Mortgage Registration,Existing Properties,Residential,Unit,98135,61660,131003222401.0,988000.0,107.68,9181.76
+Sales,Sell,Existing Properties,Residential,Villa,76369,48055,318837977859.0,2800000.0,474.13,7033.82
+Mortgages,Mortgage Registration,Existing Properties,Residential,Villa,72962,45871,195588212902.0,1980000.0,572.0,4975.29
+Sales,Sell - Pre registration,Off-Plan Properties,Residential,Villa,57944,36378,154935958353.0,2135110.0,196.0,10600.23
+Sales,Delayed Sell,Existing Properties,Residential,Unit,46674,29331,82800600141.0,1240000.0,92.16,13595.17
+Sales,Sell,Existing Properties,Commercial,Unit,42565,26866,65221987420.0,998049.0,99.09,10159.74
+Sales,Delayed Sell,Existing Properties,Commercial,Land,35899,22515,236314261234.0,2898800.0,259.28,12107.54
+Gifts,Grant,Existing Properties,Residential,Unit,26847,16850,41043036084.0,1002323.0,88.66,11223.8
+Sales,Sell - Pre registration,Off-Plan Properties,Hospitality ,Unit,22882,14289,43595557954.0,1299000.0,47.3,26913.37
+Sales,Delayed Sell,Existing Properties,Residential,Villa,20855,13053,80365979591.0,3085000.0,400.04,8707.02
+Sales,Lease to Own Registration,Existing Properties,Residential,Unit,18740,11726,23313090830.0,947050.0,93.09,9408.1
+Mortgages,Lease to Own Registration,Existing Properties,Residential,Unit,18640,11641,19243564398.0,800000.0,93.0,7747.42
+Mortgages,Mortgage Registration,Existing Properties,Residential,Land,18437,11579,65114448078.0,1000000.0,1115.05,1133.04
+Sales,Sell - Pre registration,Off-Plan Properties,Commercial,Unit,15175,9521,30540811785.0,1279043.0,99.68,13390.17
+Sales,Delayed Sell,Existing Properties,Other,Land,15052,9400,92973305101.0,2685000.0,219.6,15013.66
+Sales,Sell,Existing Properties,Residential,Land,14198,8882,110201299466.0,3200000.0,971.09,3229.07
+Sales,Sell,Existing Properties,Commercial,Land,13061,8222,124392083159.0,1685000.0,465.0,6002.97
+Sales,Delayed Sell,Existing Properties,Residential,Land,12872,8102,82267787430.0,3067000.0,667.7,6962.5
+Sales,Sell,Existing Properties,Hospitality ,Unit,10465,6548,26312246750.0,1500000.0,64.65,26504.2
+Gifts,Grant,Existing Properties,Residential,Villa,9699,6092,53581691553.0,2700000.0,469.21,7009.07
+Mortgages,Lease to Own Registration,Existing Properties,Residential,Villa,8218,5174,18760578688.0,1980399.5,447.06,4580.195
+Sales,Lease to Own Registration,Existing Properties,Residential,Villa,7935,5078,22645160251.0,2399900.0,446.25,5388.05
+Mortgages,Delayed Mortgage,Existing Properties,Residential,Unit,7502,4739,8769385843.0,890673.5,92.64500000000001,9567.415
+Sales,Sell Development,Existing Properties,Residential,Unit,7435,4669,5801144231.0,550000.0,76.96,7766.2
+Mortgages,Mortgage Registration,Existing Properties,Commercial,Unit,7254,4550,14348697638.0,1012000.0,110.86,8949.9
+Sales,Development Registration,Existing Properties,Residential,Unit,7248,4594,6552723876.0,588000.0,76.96,8334.66
+Mortgages,Modify Mortgage,Existing Properties,Residential,Villa,6488,4052,41779835188.0,3191966.5,821.91,4935.68
+Gifts,Grant,Existing Properties,Commercial,Unit,6392,4036,10302311360.0,1051435.5,101.36,10763.89
+Mortgages,Delayed Mortgage,Existing Properties,Residential,Villa,5569,3469,12368175375.0,1916530.0,244.44,6847.2
+Mortgages,Mortgage Registration,Existing Properties,Commercial,Land,5388,3354,199826170661.0,1600000.0,273.01,7070.74
+Mortgages,Lease Finance Registration,Existing Properties,Residential,Unit,4736,2979,3970341802.0,558194.0,95.015,6099.18
+Mortgages,Modify Mortgage,Existing Properties,Residential,Unit,4689,2932,9434624808.0,1400000.0,137.24,10251.58
+Mortgages,Mortgage Registration,Existing Properties,Residential,Building,4517,2824,45684550289.0,1800000.0,1248.15,1755.25
+Mortgages,Mortgage Pre-Registration,Off-Plan Properties,Residential,Unit,4466,2813,5838683074.0,965500.0,104.755,8928.54
+Sales,Sell,Existing Properties,Residential,Building,4230,2694,47534475964.0,4500000.0,1114.84,6996.52
+Sales,Sell,Existing Properties,Residential / Commercial,Building,3902,2474,76164075665.0,7414406.0,394.25,15371.935000000001
+Sales,Delayed Sell,Existing Properties,Hospitality ,Unit,3710,2344,6302208714.0,1124750.0,43.845,26800.5
+Mortgages,Development Mortgage,Existing Properties,Residential,Unit,3454,2188,2750164102.0,552000.0,89.69,5996.8
+Sales,Delayed Sell,Existing Properties,Commercial,Villa,3420,2180,7370352810.0,1630200.0,174.8,9150.775
+Sales,Development Registration Pre-Registration,Off-Plan Properties,Residential,Unit,3381,2083,2192246264.0,602440.0,71.33,8877.04
+Mortgages,Lease to Own Registration Pre-Registration,Off-Plan Properties,Residential,Unit,3159,1966,3107742099.0,804628.0,82.01,7910.07
+Sales,Lease to Own Registration Pre-Registration,Off-Plan Properties,Residential,Unit,3110,1970,3312249202.0,850107.0,86.53,9090.05
+Mortgages,Mortgage Registration,Existing Properties,Residential / Commercial,Building,2808,1785,122630771113.0,15000000.0,1199.28,14120.545
+Gifts,Grant,Existing Properties,Residential,Land,2628,1687,23882954299.0,2268557.5,744.5350000000001,2690.98
+Sales,Delayed Sell,Existing Properties,Commercial,Unit,2361,1509,5746221557.0,1355000.0,105.17,12475.86
+Mortgages,Modify Mortgage,Existing Properties,Residential / Commercial,Building,2125,1327,134683993707.0,33250000.0,1493.88,23265.9
+Sales,Sell,Existing Properties,Commercial,Villa,1997,1260,8672746977.0,2550000.0,386.62,7089.38
+Sales,Sell,Existing Properties,Commercial,Building,1939,1238,48963985315.0,7000000.0,709.78,12219.74
+Gifts,Grant Pre-Registration,Off-Plan Properties,Residential,Unit,1935,1216,6324749865.0,1735548.0,91.95,20905.57
+Mortgages,Lease Finance Registration,Existing Properties,Residential,Villa,1866,1176,5593557692.0,2160000.0,450.08,4926.5650000000005
+Sales,Sale On Payment Plan,Existing Properties,Residential,Unit,1761,1083,2117923761.0,1034982.0,100.98,11302.09
+Sales,Delayed Sell,Existing Properties,Industrial,Land,1755,1090,16779993633.0,7148052.0,453.87,16784.46
+Sales,Lease to Own Registration,Existing Properties,Commercial,Unit,1734,1096,3360707295.0,1169707.5,108.07,10637.86
+Mortgages,Lease to Own Registration,Existing Properties,Commercial,Unit,1712,1068,2533422775.0,832035.0,105.94,7751.94
+Mortgages,Mortgage Registration,Existing Properties,Hospitality ,Unit,1705,1084,15095332683.0,1200000.0,83.95,13294.5
+Gifts,Grant,Existing Properties,Hospitality ,Unit,1664,1083,4311790230.0,1291501.0,67.94,21045.79
+Mortgages,Delayed Mortgage,Existing Properties,Residential,Land,1559,964,6245302400.0,2200800.0,468.72,4837.04
+Mortgages,Delayed Mortgage,Existing Properties,Commercial,Land,1538,966,3980703965.0,1619352.0,228.04000000000002,5796.700000000001
+Mortgages,Modify Mortgage,Existing Properties,Residential,Building,1514,977,50222858786.0,16100000.0,1393.55,12103.355
+Sales,Sell,Existing Properties,Multi-Use,Land,1466,919,40628285544.0,14062150.0,1828.57,9472.240000000002
+Mortgages,Mortgage Registration,Existing Properties,Commercial,Building,1426,911,106719838920.0,23000000.0,1858.06,13014.34
+Sales,Sell,Existing Properties,Other,Land,1417,888,17914569962.0,5450000.0,2428.21,2228.13
+Mortgages,Modify Mortgage,Existing Properties,Residential,Land,1353,867,19338220301.0,3830720.0,1286.77,3114.04
+Mortgages,Modify Mortgage,Existing Properties,Commercial,Unit,1353,866,4803474634.0,1488000.0,117.76,11774.15
+Mortgages,Mortgage Registration,Existing Properties,Commercial,Villa,1341,809,6511928225.0,2800000.0,608.0,5192.14
+Mortgages,Mortgage Transfer,Existing Properties,Residential,Villa,1341,847,3824543859.0,1900000.0,635.69,3971.13
+Sales,Sell,Existing Properties,Residential / Commercial,Land,1314,842,45451953981.0,17205000.0,2080.0,7813.530000000001
+Sales,Delayed Development,Existing Properties,Residential,Unit,1306,795,968321674.0,657367.0,78.56,8456.945
+Mortgages,Modify Mortgage,Existing Properties,Commercial,Building,1233,747,114063500521.0,42000000.0,1933.13,21327.42
+Mortgages,Mortgage Transfer,Existing Properties,Residential,Unit,1209,742,1705378551.0,1021654.0,118.73,8570.3
+Sales,Development Registration,Existing Properties,Residential,Villa,1200,771,2612247525.0,2000000.0,762.97,3473.44
+Gifts,Grant,Existing Properties,Commercial,Land,1191,739,20267228121.0,2350009.0,929.08,5805.96
+Sales,Development Registration,Existing Properties,Commercial,Unit,1185,750,1136150748.0,760180.0,113.06,6816.99
+Mortgages,Development Mortgage,Existing Properties,Residential,Villa,1145,723,3263494256.0,2750000.0,810.0,4032.15
+Sales,Sell Development,Existing Properties,Residential,Villa,1142,725,5296821780.0,3500000.0,774.57,6261.594999999999
+Gifts,Grant,Existing Properties,Residential / Commercial,Building,1089,694,44593154271.0,12543750.0,458.38,26909.79
+Gifts,Grant,Existing Properties,Residential,Building,973,598,13584104127.0,4538461.0,886.99,9048.02
+Sales,Sell Development,Existing Properties,Commercial,Unit,961,601,648620362.0,562000.0,97.46,5651.38
+Mortgages,Mortgage Pre-Registration,Off-Plan Properties,Residential,Villa,893,551,1288045602.0,1131700.0,237.0,5375.63
+Sales,Sell,Existing Properties,Multi-Use,Building,851,544,33028614619.0,15844100.0,1699.37,11226.3
+Gifts,Grant on Delayed Sell,Existing Properties,Residential,Unit,814,512,1925140788.0,1239119.0,82.47,16373.08
+Gifts,Grant,Existing Properties,Commercial,Building,803,492,35859851641.0,12247940.0,1189.27,14041.44
+Sales,Development Registration,Existing Properties,Industrial,Land,710,439,14845952523.0,12914570.0,11422.6,1112.34
+Mortgages,Lease to Own Transfer,Existing Properties,Residential,Villa,601,379,831002323.0,1119004.0,744.55,1240.26
+Gifts,Grant Development,Existing Properties,Residential,Unit,578,366,610837497.0,687536.0,84.73,8072.92
+Sales,Sell Development,Existing Properties,Commercial,Building,573,359,6272190358.0,6000000.0,7804.58,823.11
+Sales,Delayed Sell,Existing Properties,Multi-Use,Land,541,334,14209793921.0,13658000.0,2250.0,5942.4
+Mortgages,Mortgage Registration,Existing Properties,Multi-Use,Building,504,309,61515952049.0,54600000.0,2915.0,16662.684999999998
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Multi-Use,Land,502,320,82276778766.0,11695000.0,112.14500000000001,82570.315
+Mortgages,Mortgage Registration,Existing Properties,Residential / Commercial,Land,488,296,28141222725.0,30391000.0,2896.79,10714.25
+Mortgages,Modify Mortgage,Existing Properties,Commercial,Land,467,294,55005375564.0,19547000.0,1983.67,7395.76
+Mortgages,Lease Development Registration,Existing Properties,Residential,Unit,448,277,506297566.0,749706.0,93.85,7474.6
+Sales,Sell Development,Existing Properties,Residential,Building,447,281,5064355842.0,6200000.0,1858.25,2179.58
+Sales,Delayed Lease to Own Registration,Existing Properties,Residential,Unit,444,279,582968839.0,989779.0,91.32,10613.25
+Mortgages,Delayed Lease to Own Registration,Existing Properties,Residential,Villa,443,278,1162287701.0,2447756.0,569.46,4618.79
+Sales,Lease Development Registration,Existing Properties,Residential,Unit,439,276,597219987.0,861051.0,93.85,8784.04
+Mortgages,Mortgage Registration,Existing Properties,Multi-Use,Land,439,277,48816392973.0,28000000.0,2312.54,11711.5
+Sales,Delayed Lease to Own Registration,Existing Properties,Residential,Villa,437,276,1442159960.0,2747300.0,613.03,4965.36
+Mortgages,Mortgage Pre-Registration,Off-Plan Properties,Commercial,Unit,436,288,850133488.0,1403350.0,114.98,12822.07
+Sales,Development Registration Pre-Registration,Off-Plan Properties,Residential,Villa,429,273,512733328.0,1226980.0,79.81,13223.45
+Sales,Delayed Sell,Existing Properties,Residential / Commercial,Land,415,261,14241933600.0,15013500.0,1881.86,6996.32
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Residential,Land,402,255,77788597740.0,9500000.0,159.43,43395.509999999995
+Gifts,Grant,Existing Properties,Multi-Use,Land,398,239,13496524960.0,12207000.0,1840.13,7750.01
+Sales,Lease to Own Registration Pre-Registration,Off-Plan Properties,Commercial,Unit,395,240,753644759.0,1134433.0,81.9,13827.28
+Mortgages,Lease Finance Registration,Existing Properties,Commercial,Unit,392,256,352722091.0,735000.0,98.27,7511.125
+Mortgages,Lease to Own Registration Pre-Registration,Off-Plan Properties,Commercial,Unit,391,243,593814358.0,877581.0,82.68,9349.23
+Mortgages,Delayed Lease to Own Registration,Existing Properties,Residential,Unit,390,260,444514357.0,843919.0,92.48,9180.69
+Sales,Sell,Existing Properties,Industrial,Land,386,250,13605241016.0,5812424.0,1952.55,2368.11
+Sales,Development Registration,Existing Properties,Commercial,Building,377,239,3600305599.0,107628.0,7785.0,10.76
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Residential / Commercial,Land,373,232,34406295254.0,8630000.0,117.74,68670.26
+Gifts,Grant on Delayed Sell,Existing Properties,Commercial,Land,369,244,3627600004.0,3945333.0,323.19,14583.41
+Mortgages,Modify Mortgage,Existing Properties,Multi-Use,Building,343,218,81103654810.0,96542300.0,3144.34,28577.91
+Gifts,Grant Pre-Registration,Off-Plan Properties,Residential,Villa,340,206,812919320.0,2216667.0,174.0,10883.38
+Gifts,Grant on Delayed Sell,Existing Properties,Residential,Land,338,215,2802339297.0,2955054.0,620.77,4305.56
+Sales,Sell Development,Existing Properties,Industrial,Building,334,207,3393235745.0,6022957.0,7800.0,848.2049999999999
+Gifts,Grant Pre-Registration,Off-Plan Properties,Hospitality ,Unit,320,204,509055231.0,1540000.0,80.71,19098.64
+Sales,Development Registration,Existing Properties,Industrial,Building,304,191,4056771713.0,219399.0,9333.57,10.76
+Sales,Sell,Existing Properties,Agricultural,Land,303,191,2755976702.0,4500000.0,27173.57,182.98
+Mortgages,Mortgage Transfer,Existing Properties,Commercial,Unit,302,188,4606002244.0,1456250.0,124.39,11081.189999999999
+Mortgages,Delayed Mortgage,Existing Properties,Commercial,Villa,300,175,618878017.0,1550000.0,205.195,5504.605
+Mortgages,Lease Finance Registration,Existing Properties,Hospitality ,Unit,298,189,295234897.0,583125.0,71.52,9886.575
+Sales,Development Registration,Existing Properties,Commercial,Land,293,175,6317613350.0,6819930.0,6198.43,1076.39
+Sales,Development Registration,Existing Properties,Residential,Land,291,182,2943730332.0,7236450.0,2028.44,2064.0
+Sales,Development Registration,Existing Properties,Residential,Building,280,182,1597773205.0,34395.5,2949.72,10.76
+Sales,Delayed Sell,Existing Properties,Multi-Use,Building,278,177,9470226463.0,16041900.0,2607.09,4385.264999999999
+Mortgages,Mortgage Registration,Existing Properties,Other,Land,277,172,30510263014.0,5915000.0,1230.04,5961.89
+Sales,Sell,Existing Properties,Storage,Unit,276,176,16151594.0,15690.0,2.61,4546.285
+Sales,Development Registration Pre-Registration,Off-Plan Properties,Commercial,Unit,269,167,282496538.0,773013.0,98.06,8704.18
+Mortgages,Modify Mortgage,Existing Properties,Residential / Commercial,Land,262,174,24900628291.0,48000000.0,2774.63,16145.855
+Gifts,Grant,Existing Properties,Commercial,Villa,262,161,1275205024.0,3225000.0,588.1700000000001,6458.3099999999995
+Gifts,Grant,Existing Properties,Residential / Commercial,Land,259,166,12182266653.0,22996373.0,2788.87,8610.85
+Mortgages,Mortgage Registration,Existing Properties,Other,Villa,246,149,1951630472.0,2320000.0,603.87,4046.4700000000003
+Mortgages,Development Mortgage,Existing Properties,Commercial,Unit,239,158,197144144.0,681493.0,124.14,5472.36
+Sales,Sell,Existing Properties,Industrial,Unit,238,153,94536590.0,268562.0,49.15,5383.08
+Mortgages,Lease to Own on Development Registration,Existing Properties,Residential,Unit,237,145,179386822.0,588000.0,89.92,6472.93
+Sales,Delayed Sell,Existing Properties,Residential,Building,237,151,4943823855.0,12282600.0,3069.98,3687.98
+Sales,Lease to Own on Development Registration,Existing Properties,Residential,Unit,237,149,226074741.0,725000.0,89.92,8501.52
+Sales,Sell,Existing Properties,Residential / Commercial,Villa,237,150,3405883441.0,4465800.0,563.92,8513.2
+Gifts,Grant on Delayed Sell,Existing Properties,Residential,Villa,236,150,730572331.0,2302323.0,235.745,8686.46
+Mortgages,Lease to Own Transfer,Existing Properties,Residential,Unit,230,149,201204824.0,825000.0,180.98,3655.2
+Gifts,Grant Development,Existing Properties,Commercial,Unit,229,145,245039340.0,671533.0,120.54,5654.11
+Mortgages,Lease Finance Registration,Existing Properties,Residential,Land,225,143,1085989046.0,2330000.0,469.56,4753.67
+Mortgages,Modify Development Mortgage,Existing Properties,Residential,Unit,221,139,163221052.0,412500.0,79.64,6340.92
+Sales,Lease to Own Registration,Existing Properties,Commercial,Land,214,135,665056232.0,1700000.0,174.8,9372.615000000002
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Residential,Land,213,123,116835078031.0,15480000.0,211.4,84053.87
+Mortgages,Mortgage Pre-Registration,Off-Plan Properties,Hospitality ,Unit,209,128,675129682.0,1080000.0,78.45,12649.92
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Commercial,Land,208,133,79322657399.0,7000000.0,111.43,43794.31
+Sales,Lease to Own Registration,Existing Properties,Residential,Land,206,136,1578444704.0,4300000.0,928.255,7036.39
+Sales,Sell,Existing Properties,Other,Villa,206,132,864118269.0,2509230.5,596.9,5051.405000000001
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Villa,201,119,420339190.0,1935000.0,253.0,6976.1
+Mortgages,Lease to Own Registration,Existing Properties,Residential,Land,199,123,1047239839.0,3320000.0,804.28,4547.74
+Mortgages,Delayed Mortgage,Existing Properties,Other,Land,196,125,707452761.0,1440400.0,225.73000000000002,6343.75
+Gifts,Grant,Existing Properties,Other,Land,195,120,6323116376.0,7000000.0,2577.51,2152.78
+Sales,Sell Development,Existing Properties,Commercial,Land,192,122,1686670745.0,3292909.5,3976.44,726.48
+Mortgages,Lease to Own Registration,Existing Properties,Commercial,Land,188,127,328487108.0,1275500.0,174.8,7002.29
+Sales,Sell Development,Existing Properties,Residential / Commercial,Building,187,113,3200274704.0,10000000.0,4051.08,1829.0
+Gifts,Grant,Existing Properties,Multi-Use,Building,187,122,15779713836.0,22000000.0,2172.16,16145.81
+Mortgages,Mortgage Transfer,Existing Properties,Residential,Land,185,113,847792693.0,2309000.0,1137.96,1956.31
+Sales,Sell,Existing Properties,Agricultural,Building,184,125,2632963412.0,8910000.0,28378.8,352.83000000000004
+Mortgages,Development Mortgage,Existing Properties,Industrial,Land,184,116,5240663929.0,9750000.0,11931.72,861.165
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Villa,184,111,600368250.0,2875000.0,256.4,10109.425
+Sales,Sell Development,Existing Properties,Industrial,Land,183,125,1784908011.0,5900000.0,7231.61,686.42
+Sales,Sell - Pre registration,Off-Plan Properties,Industrial,Unit,182,110,41445550.0,227659.0,50.0,4553.18
+Sales,Delayed Lease to Own Registration,Existing Properties,Commercial,Unit,181,112,194158211.0,779334.0,94.16,8176.74
+Mortgages,Development Mortgage,Existing Properties,Commercial,Building,180,117,7588080278.0,12800000.0,7832.31,1437.38
+Mortgages,Modify Mortgage,Existing Properties,Commercial,Villa,180,107,3130810473.0,5125000.0,895.12,6604.35
+Mortgages,Development Mortgage,Existing Properties,Residential,Building,180,114,4082063487.0,17058656.0,2234.175,6790.33
+Sales,Delayed Sell Development,Existing Properties,Residential,Unit,169,107,93688576.0,495000.0,75.59,6594.72
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Multi-Use,Land,165,106,22533246499.0,20000000.0,141.06,137657.75
+Sales,Sell Development,Existing Properties,Residential,Land,164,105,1284157764.0,4800000.0,1858.06,1872.315
+Sales,Sell Development,Existing Properties,Industrial / Commercial,Building,163,101,1868712884.0,4204497.0,5771.12,492.0
+Mortgages,Lease to Own Modify,Existing Properties,Residential,Villa,161,93,627753155.0,2900000.0,563.92,5586.13
+Mortgages,Delayed Lease to Own Registration,Existing Properties,Commercial,Unit,155,99,150708225.0,710626.0,101.42,6881.42
+Mortgages,Development Mortgage,Existing Properties,Industrial,Building,152,102,3456489959.0,13650000.0,7800.0,1591.58
+Mortgages,Lease to Own Registration,Existing Properties,Hospitality ,Unit,151,95,271897312.0,1403255.0,81.75,15942.61
+Sales,Sell,Existing Properties,Other,Building,149,99,4629941842.0,15473537.0,3298.32,3767.36
+Sales,Lease to Own Registration,Existing Properties,Hospitality ,Unit,148,89,338871042.0,1509888.0,81.75,19526.015
+Mortgages,Modify Mortgage,Existing Properties,Multi-Use,Land,146,94,40737572302.0,45500000.0,2747.3900000000003,12464.42
+Sales,Delayed Sell,Existing Properties,Residential / Commercial,Building,146,94,9742877689.0,22500000.0,2731.755,10018.115000000002
+Sales,Development Registration,Existing Properties,Other,Land,145,98,4103241805.0,8777153.0,8180.53,915.0
+Sales,Sell Development - Pre Registration,Off-Plan Properties,Residential,Unit,142,89,80686343.0,548500.0,67.035,8336.99
+Sales,Lease to Own Registration,Existing Properties,Commercial,Villa,140,80,535247215.0,2707900.0,571.215,5461.84
+Sales,Development Registration,Existing Properties,Residential / Commercial,Building,140,86,1306421276.0,62626.0,3636.285,10.76
+Sales,Delayed Sell,Existing Properties,Other,Villa,139,85,431465043.0,2558888.0,479.23,5470.03
+Mortgages,Mortgage Transfer,Existing Properties,Residential,Building,134,89,1341220222.0,3167000.0,1149.37,2666.335
+Sales,Sell,Existing Properties,Industrial,Building,130,84,1213551129.0,5920000.0,1864.1,2798.6499999999996
+Sales,Sell,Existing Properties,Industrial / Commercial,Building,124,77,2856689516.0,17274367.0,3428.865,4406.77
+Mortgages,Lease to Own Registration,Existing Properties,Commercial,Villa,124,70,327875344.0,2178900.0,555.01,4497.38
+Sales,Adding Land By Sell,Existing Properties,Residential,Villa,124,78,47500479.0,283810.0,539.585,636.43
+Mortgages,Lease to Own Modify,Existing Properties,Residential,Unit,122,83,152938473.0,1233750.0,117.82,8888.72
+Mortgages,Development Mortgage,Existing Properties,Residential,Land,117,75,22256121378.0,15400000.0,1949.94,6493.83
+Mortgages,Lease Finance Modification,Existing Properties,Residential,Villa,112,67,392743463.0,2940000.0,511.71000000000004,5882.285
+Sales,Sale On Payment Plan,Existing Properties,Commercial,Unit,112,77,371246090.0,2274977.0,150.01,15325.98
+Mortgages,Mortgage Registration,Existing Properties,Residential / Commercial,Villa,111,77,4261816141.0,8960000.0,2809.48,2853.84
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Residential / Commercial,Land,111,72,14947244752.0,68000000.0,133.69,388789.11
+Sales,Sell,Existing Properties,Hospitality ,Land,110,68,3882097338.0,17388900.0,3299.99,8005.16
+Mortgages,Mortgage Registration,Existing Properties,Industrial,Land,110,70,2274278828.0,6083418.0,8729.625,2087.62
+Sales,Development Registration Pre-Registration,Off-Plan Properties,Hospitality ,Unit,108,68,42365025.0,369000.0,41.31,7837.32
+Gifts,Grant Development,Existing Properties,Residential,Villa,107,62,398957157.0,3400000.0,785.06,5066.67
+Mortgages,Lease Finance Modification,Existing Properties,Commercial,Unit,106,69,210461958.0,1597704.0,154.3,10354.87
+Sales,Development Registration,Existing Properties,Industrial / Commercial,Building,105,64,658229484.0,87265.0,7690.66,10.76
+Mortgages,Delayed Mortgage,Existing Properties,Hospitality ,Unit,105,64,185195028.0,1300000.0,106.5,14732.97
+Sales,Sale On Payment Plan,Existing Properties,Residential,Villa,104,76,498849099.0,4276818.0,300.145,15529.79
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Unit,103,66,114452441.0,966720.0,85.2,10580.68
+Sales,Lease to Own Registration Pre-Registration,Off-Plan Properties,Residential,Villa,103,66,243544109.0,2158265.0,297.01,7007.25
+Gifts,Grant on Delayed Sell,Existing Properties,Other,Land,102,70,612148818.0,3000434.0,242.035,15544.0
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Unit,100,65,139873217.0,1265000.0,81.16,14599.235
+Mortgages,Modify Mortgage,Existing Properties,Other,Building,98,59,7822560894.0,47500000.0,8015.13,4987.71
+Gifts,Grant Pre-Registration,Off-Plan Properties,Commercial,Unit,97,63,351767610.0,1459584.0,126.6,17147.37
+Mortgages,Lease Finance Modification,Existing Properties,Residential,Unit,94,57,141430092.0,1300000.0,149.83,9222.61
+Gifts,Grant,Existing Properties,Agricultural,Land,88,58,858845357.0,5562316.5,12048.04,242.19
+Mortgages,Modify Development Mortgage,Existing Properties,Residential,Villa,87,55,266106140.0,2978288.0,840.0,4389.13
+Mortgages,Modify Mortgage,Existing Properties,Hospitality ,Unit,87,50,1292697058.0,3500000.0,134.64,24509.8
+Sales,Delayed Sell,Existing Properties,Commercial,Building,87,56,2856924510.0,21162200.0,2508.68,6153.83
+Mortgages,Mortgage Registration,Existing Properties,Other,Building,84,56,7273334857.0,37500000.0,8015.13,5217.43
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Other,Land,84,45,35522113593.0,4032000.0,45.23,66651.29
+Mortgages,Lease to Own Registration Pre-Registration,Off-Plan Properties,Residential,Villa,83,55,133741731.0,1368276.0,314.29,4515.62
+Sales,Delayed Sell,Existing Properties,Hospitality ,Land,82,48,2776292493.0,32695000.0,4351.61,6613.93
+Mortgages,Development Mortgage,Existing Properties,Residential / Commercial,Building,82,56,3554805300.0,31985000.0,4995.39,6382.58
+Mortgages,Development Mortgage,Existing Properties,Other,Land,78,52,14221318719.0,20978452.5,6416.93,2490.65
+Mortgages,Development Mortgage,Existing Properties,Commercial,Land,78,50,22735699434.0,11000000.0,6106.52,1827.55
+Mortgages,Delayed Mortgage,Existing Properties,Commercial,Unit,78,51,145210376.0,1345200.0,148.0,7209.09
+Mortgages,Lease to Own Modify,Existing Properties,Commercial,Unit,74,46,155302566.0,1795849.0,120.03,12524.025
+Mortgages,Modify Mortgage,Existing Properties,Residential / Commercial,Villa,72,45,2444092483.0,24000000.0,3864.58,5629.61
+Sales,Sell,Existing Properties,Agricultural,Villa,72,39,906922249.0,10015000.0,24770.45,452.14
+Gifts,Grant,Existing Properties,Agricultural,Building,72,42,926295764.0,8495612.5,26146.62,528.0
+Sales,Sell Development - Pre Registration,Off-Plan Properties,Residential,Villa,72,42,78123698.0,997360.0,100.685,11545.645
+Mortgages,Development Mortgage,Existing Properties,Industrial / Commercial,Building,72,42,2128836889.0,13764500.0,12004.47,1318.73
+Sales,Development Registration,Existing Properties,Storage,Unit,69,44,194496556.0,2658600.0,756.05,3516.43
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Commercial,Land,69,46,50942004646.0,49502000.0,264.76,62776.81
+Mortgages,Mortgage Registration,Existing Properties,Industrial,Unit,69,42,64031640.0,480600.0,49.61,9687.59
+Mortgages,Mortgage Registration,Existing Properties,Industrial,Building,68,44,829013046.0,6310448.0,4560.285,1692.03
+Mortgages,Lease Finance Registration,Existing Properties,Commercial,Land,67,43,242734459.0,1325000.0,186.82,4927.06
+Sales,Sell,Existing Properties,Other,Unit,66,33,1826750208.0,1594050.0,146.1,5821.17
+Sales,Lease to Own on Development Registration,Existing Properties,Residential,Villa,65,40,230545000.0,3425000.0,783.09,5269.01
+Mortgages,Lease to Own on Development Registration,Existing Properties,Residential,Villa,63,40,163210000.0,2550000.0,783.09,3550.35
+Sales,Adding Land By Sell,Existing Properties,Residential,Land,62,37,50654492.0,480000.0,1020.55,802.78
+Gifts,Grant,Existing Properties,Residential / Commercial,Villa,60,37,1191535360.0,7500000.0,1687.165,8040.9
+Mortgages,Modify Mortgage,Existing Properties,Other,Land,59,38,7933119363.0,23400000.0,3342.84,6458.34
+Mortgages,Modify Development Mortgage,Existing Properties,Commercial,Building,59,36,4321523000.0,24000000.0,13185.37,2963.71
+Mortgages,Mortgage Registration,Existing Properties,Industrial / Commercial,Building,57,37,2320803500.0,19500000.0,4180.64,4892.37
+Mortgages,Modify Mortgage,Existing Properties,Industrial / Commercial,Building,54,32,4931900000.0,50000000.0,7383.745,8840.57
+Mortgages,Modify Development Mortgage,Existing Properties,Residential,Building,53,32,2271550475.0,32022750.0,3063.01,10678.55
+Mortgages,Mortgage Registration,Existing Properties,Agricultural,Land,52,32,839276464.0,11880500.0,48221.12,276.885
+Gifts,Grant Development,Existing Properties,Commercial,Building,52,37,1603018280.0,15000000.0,6592.77,1733.07
+Gifts,Grant Development,Existing Properties,Industrial,Land,51,29,1381019520.0,21498488.0,18376.22,1076.39
+Mortgages,Modify Mortgage,Existing Properties,Agricultural,Villa,51,26,1359955000.0,30000000.0,60949.85,415.35
+Mortgages,Modify Development Mortgage,Existing Properties,Commercial,Unit,51,29,39587720.0,480480.0,110.09,6275.97
+Sales,Delayed Lease to Own Registration,Existing Properties,Commercial,Land,50,32,172384420.0,2600000.0,557.61,4714.59
+Mortgages,Lease Finance Registration,Existing Properties,Residential,Building,50,32,660943650.0,6600000.0,1326.835,7735.69
+Sales,Adding Land By Sell,Existing Properties,Residential / Commercial,Building,50,30,69936105.0,466100.0,127.785,5381.4349999999995
+Mortgages,Mortgage Registration,Existing Properties,Agricultural,Building,50,35,1020402360.0,13000000.0,33445.08,384.92
+Sales,Development Registration,Existing Properties,Other,Building,49,27,3689451438.0,52200540.0,25000.38,2744.79
+Mortgages,Modify Development Mortgage,Existing Properties,Residential,Land,48,26,2330331170.0,18500000.0,1950.53,9208.875
+Mortgages,Delayed Lease to Own Registration,Existing Properties,Commercial,Land,47,31,139668041.0,2656760.0,555.0,5062.03
+Sales,Sell Development,Existing Properties,Storage,Unit,45,26,95031781.0,2300000.0,751.29,2899.59
+Gifts,Grant,Existing Properties,Industrial,Building,45,32,550393641.0,9970334.0,1637.63,5705.9
+Mortgages,Modify Mortgage,Existing Properties,Agricultural,Building,45,29,1190104610.0,20000000.0,80112.11,268.02
+Gifts,Grant Development,Existing Properties,Industrial,Building,45,26,1263538683.0,17149989.0,14703.82,843.35
+Gifts,Grant,Existing Properties,Agricultural,Villa,43,25,663158828.0,15000000.0,16722.54,650.73
+Mortgages,Lease Finance Registration,Existing Properties,Residential / Commercial,Building,42,23,734856809.0,12000000.0,1205.88,14176.9
+Mortgages,Mortgage Transfer,Existing Properties,Hospitality ,Unit,42,26,62404749.0,1069455.0,79.3,11581.67
+Mortgages,Mortgage Transfer,Existing Properties,Residential / Commercial,Building,41,26,4404895758.0,70000000.0,2322.58,30497.79
+Mortgages,Lease Finance Registration,Existing Properties,Commercial,Villa,41,26,112834972.0,2797500.0,386.62,7035.26
+Gifts,Grant,Existing Properties,Other,Building,40,25,1677783649.0,14505373.0,3716.12,2331.75
+Mortgages,Modify Development Mortgage,Existing Properties,Industrial,Land,39,22,723536000.0,14000000.0,11291.35,810.86
+Mortgages,Mortgage Transfer Pre-Registration,Off-Plan Properties,Residential,Unit,39,25,49778662.0,1025000.0,111.15,8705.36
+Mortgages,Delayed Mortgage,Existing Properties,Other,Villa,39,24,87165532.0,1762500.0,459.56,3836.93
+Mortgages,Modify Mortgage,Existing Properties,Other,Villa,39,23,151467474.0,2310000.0,878.96,3533.61
+Gifts,Grant Development,Existing Properties,Residential,Land,39,21,751790837.0,17000000.0,2240.22,4176.39
+Gifts,Grant,Existing Properties,Industrial,Land,38,24,4481595364.0,10000000.0,2610.8450000000003,4843.76
+Sales,Adding Land By Sell,Existing Properties,Commercial,Land,38,23,109356436.0,400613.0,362.14,2389.475
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Commercial,Land,37,24,579941791.0,6381716.0,901.6,6774.84
+Gifts,Grant,Existing Properties,Industrial / Commercial,Building,37,25,1362145946.0,24000000.0,7432.24,4305.58
+Gifts,Grant,Existing Properties,Industrial,Unit,37,21,28997317.0,370331.0,49.15,7534.71
+Gifts,Grant,Existing Properties,Other,Villa,37,21,244941519.0,4234040.0,935.25,5455.23
+Sales,Adding Land By Sell,Existing Properties,Agricultural,Building,36,28,50517960.0,755891.0,23337.7,25.615000000000002
+Sales,Adding Land By Sell,Existing Properties,Residential,Building,35,21,16416412.0,303647.0,211.35,1837.6
+Mortgages,Modify Mortgage,Existing Properties,Industrial,Land,35,20,842066000.0,27500000.0,1858.06,6820.04
+Sales,Sell,Existing Properties,Hospitality ,Building,35,17,4371338039.0,31848147.0,3780.04,10001.91
+Sales,Adding Land By Sell,Existing Properties,Commercial,Building,34,20,43048146.0,561892.0,711.885,1016.49
+Mortgages,Mortgage Registration,Existing Properties,Hospitality ,Land,34,25,2502907719.0,56300000.0,4299.13,13475.49
+Mortgages,Modify Mortgage,Existing Properties,Industrial,Building,33,21,751816603.0,17938000.0,3294.62,4552.88
+Gifts,Grant on Delayed Sell,Existing Properties,Hospitality ,Unit,33,22,68263532.0,1799823.0,67.73,26071.2
+Mortgages,Modify Development Mortgage,Existing Properties,Industrial,Building,32,20,2040428212.0,17807874.0,9128.64,1901.585
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Residential,Villa,30,16,120802452.0,3703325.0,680.03,5612.39
+Mortgages,Modify Mortgage,Existing Properties,Hospitality ,Land,30,16,5425624000.0,70000000.0,5156.785,15664.16
+Mortgages,Portfolio Mortgage Registration Pre-Registration,Off-Plan Properties,Residential / Commercial,Land,30,20,1010497000.0,26040500.0,170.695,160662.685
+Mortgages,Modify Mortgage,Existing Properties,Agricultural,Land,30,18,1040790140.0,33000000.0,33523.79,1086.54
+Mortgages,Mortgage Registration,Existing Properties,Agricultural,Villa,29,20,619508178.0,14933333.0,47329.06,396.17
+Sales,Delayed Sell,Existing Properties,Industrial,Building,29,17,121767456.0,3012572.0,1225.03,2408.1
+Mortgages,Modify Development Mortgage,Existing Properties,Residential / Commercial,Building,29,19,1258567246.0,30420000.0,5068.0,6168.18
+Mortgages,Development Mortgage,Existing Properties,Other,Building,29,21,4103026478.0,74000000.0,26072.84,2806.94
+Gifts,Grant Development,Existing Properties,Residential,Building,29,22,630335070.0,9700000.0,2847.44,5966.17
+Mortgages,Modify Development Mortgage,Existing Properties,Commercial,Land,28,15,2568440080.0,29614500.0,10169.48,3409.47
+Sales,Sell,Existing Properties,Multi-Use,Villa,27,19,819224486.0,4900000.0,1393.55,7325.46
+Mortgages,Development Mortgage,Existing Properties,Storage,Unit,26,13,68181643.0,2200000.0,753.67,2973.09
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Residential,Land,25,13,86640555.0,2179555.0,101.24,21528.6
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Residential,Land,24,15,550964340.0,15538875.0,1514.4,8895.51
+Mortgages,Modify Mortgage,Existing Properties,Hospitality ,Building,24,11,6194348060.0,350400000.0,4245.995,59870.24
+Mortgages,Mortgage Transfer,Existing Properties,Commercial,Building,24,14,6954438000.0,72000000.0,1763.115,31413.78
+Sales,Adding Land By Sell,Existing Properties,Agricultural,Villa,23,15,14393579.0,657024.0,28429.45,16.9
+Sales,Delayed Development,Existing Properties,Commercial,Unit,23,10,21550676.0,1092457.0,107.97,10080.15
+Mortgages,Mortgage Registration,Existing Properties,Other,Unit,22,11,13342187917.0,356396500.0,103872.09,3300.15
+Sales,Delayed Development,Existing Properties,Residential,Villa,22,15,32694992.0,1417500.0,375.0,3601.44
+Sales,Adding Land By Sell,Existing Properties,Agricultural,Land,22,17,22898971.0,712255.0,15819.525,86.11
+Sales,Sell Development - Pre Registration,Off-Plan Properties,Commercial,Unit,22,14,26482025.0,1069437.5,103.78999999999999,8635.68
+Gifts,Grant,Existing Properties,Hospitality ,Land,21,14,2195986297.0,46200815.0,4500.4,8955.0
+Mortgages,Mortgage Registration,Existing Properties,Storage,Unit,21,14,2964959.0,95295.0,29.9,3187.43
+Mortgages,Modify Mortgage,Existing Properties,Industrial / Commercial / Residential,Building,20,13,670075000.0,14800000.0,1853.97,12132.21
+Gifts,Grant on Delayed Sell,Existing Properties,Commercial,Unit,20,10,46900023.0,2056006.0,180.615,16008.055
+Mortgages,Mortgage Registration,Existing Properties,Hospitality ,Building,20,14,5200260176.0,160000000.0,5306.42,15622.91
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Commercial,Land,19,12,51705440.0,1575000.0,292.99,5587.08
+Sales,Development Registration,Existing Properties,Multi-Use,Building,19,12,917543136.0,174470.0,15448.24,10.76
+Mortgages,Modify Development Mortgage,Existing Properties,Industrial / Commercial,Building,19,12,1007300000.0,18000000.0,15394.44,1574.0
+Mortgages,Modify Mortgage Pre-Registration,Off-Plan Properties,Residential,Unit,19,14,47861069.0,1705000.0,166.02,7537.26
+Sales,Sell Development,Existing Properties,Multi-Use,Building,18,9,103255218.0,5000000.0,6357.91,786.42
+Gifts,Grant Development,Existing Properties,Industrial / Commercial,Building,17,13,156265661.0,6000000.0,4805.06,1332.29
+Sales,Sell Development - Pre Registration,Off-Plan Properties,Hospitality ,Unit,17,9,6069863.0,275000.0,38.86,6821.11
+Sales,Sell,Existing Properties,Industrial / Commercial,Land,17,12,626527458.0,13964810.0,4412.75,3013.9
+Gifts,Grant Development,Existing Properties,Residential / Commercial,Building,17,13,1594251573.0,20000000.0,5818.11,5275.84
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Residential / Commercial,Land,16,8,561802300.0,8100000.0,106.56,65454.55
+Mortgages,Lease Development Registration,Existing Properties,Residential,Villa,16,11,36647252.0,2087500.0,374.815,5437.4
+Sales,Sell Development,Existing Properties,Residential / Commercial,Land,16,9,136977170.0,10536329.5,5609.49,1670.73
+Mortgages,Portfolio Mortgage Registration Pre-Registration,Off-Plan Properties,Residential,Land,16,9,447582935.0,21231920.5,91.92,110898.58
+Mortgages,Lease to Own Registration,Existing Properties,Other,Villa,16,11,36431798.0,2200000.0,578.6,3975.93
+Mortgages,Mortgage Transfer,Existing Properties,Residential / Commercial,Land,16,9,862795000.0,50050000.0,2774.9,13179.02
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Land,15,7,37084104.0,2420000.0,461.01,5846.15
+Mortgages,Mortgage Transfer,Existing Properties,Commercial,Villa,15,8,42489034.0,2312943.0,634.17,3804.18
+Mortgages,Lease Finance Modification,Existing Properties,Residential,Land,15,10,247969854.0,6175000.0,1114.83,5127.92
+Mortgages,Mortgage Registration,Existing Properties,Industrial / Commercial / Residential,Building,15,12,395440127.0,20000000.0,1858.06,10787.66
+Sales,Sell Development,Existing Properties,Other,Building,15,10,789231373.0,13850000.0,25000.38,1574.98
+Sales,Lease to Own Registration,Existing Properties,Residential,Building,14,11,349294320.0,5775000.0,1393.4099999999999,6667.014999999999
+Sales,Delayed Sell,Existing Properties,Hospitality ,Building,14,8,323504304.0,20178900.0,3347.07,8895.84
+Mortgages,Development Mortgage,Existing Properties,Multi-Use,Building,14,6,1255249000.0,58850000.0,56620.03,1451.3600000000001
+Mortgages,Portfolio Mortgage Registration Pre-Registration,Off-Plan Properties,Commercial,Land,13,8,569658511.0,21650687.0,107.34,193070.53
+Gifts,Grant Development,Existing Properties,Commercial,Land,13,8,228072535.0,19831159.0,6147.0,2610.25
+Mortgages,Lease to Own Registration,Existing Properties,Residential,Building,13,11,458564800.0,4650000.0,1973.36,14810.38
+Mortgages,Modify Development Mortgage,Existing Properties,Other,Building,13,7,2427556000.0,164728000.0,60984.51,4979.55
+Mortgages,Modify Development Mortgage,Existing Properties,Other,Land,13,7,1613580000.0,107520000.0,15386.44,14298.3
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Residential,Land,13,11,46431000.0,3065000.0,423.35,7692.31
+Sales,Lease Development Registration,Existing Properties,Residential,Villa,13,11,28595950.0,2100000.0,750.0,3595.33
+Gifts,Grant,Existing Properties,Other,Unit,13,8,1391802252.0,25560373.0,7890.72,10763.89
+Sales,Lease to Own Registration,Existing Properties,Other,Villa,13,7,38453552.0,3325000.0,579.06,6171.81
+Sales,Development Registration,Existing Properties,Residential / Commercial,Land,13,9,91334425.0,3500000.0,5613.57,555.24
+Gifts,Grant on Delayed Sell,Existing Properties,Commercial,Villa,13,10,39741935.0,1300000.0,153.88,6864.99
+Mortgages,Mortgage Registration,Existing Properties,Multi-Use,Villa,13,6,1584588000.0,4500000.0,2249.55,3143.72
+Mortgages,Modify Mortgage,Existing Properties,Industrial,Unit,12,7,10875000.0,600000.0,49.61,10172.94
+Mortgages,Development Mortgage Pre-Registration,Off-Plan Properties,Residential,Unit,12,6,11267051.0,860000.0,121.77,7171.79
+Sales,Sell,Existing Properties,Industrial / Commercial / Residential,Building,12,10,326028526.0,10392876.0,1167.1,7979.455
+Mortgages,Lease to Own Registration,Existing Properties,Commercial,Building,12,5,1804203000.0,147920000.0,5136.89,27097.97
+Gifts,Grant Development,Existing Properties,Other,Land,12,6,161000000.0,13500000.0,5000.0,1800.0
+Mortgages,Modify Mortgage,Existing Properties,Multi-Use,Villa,11,7,2314500000.0,75000000.0,37301.04,2444.93
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Hospitality ,Land,11,7,1466637403.0,19450007.0,144.28,100753.79
+Gifts,Grant on Delayed Sell,Existing Properties,Multi-Use,Land,11,9,162549727.0,8372522.0,2477.12,3285.55
+Mortgages,Lease Finance Registration,Existing Properties,Multi-Use,Building,10,4,178590000.0,14700000.0,1261.54,14760.06
+Sales,Sell Development,Existing Properties,Other,Land,10,6,1002313354.0,100000000.0,15386.44,3498.27
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Commercial,Land,10,8,50745000.0,4750000.0,669.985,6525.52
+Mortgages,Portfolio Mortgage Registration Pre-Registration,Off-Plan Properties,Multi-Use,Land,10,6,620594517.0,60696000.0,127.0,471858.895
+Sales,Lease to Own Registration,Existing Properties,Multi-Use,Building,9,6,125327100.0,12376000.0,1066.02,13510.66
+Mortgages,Development Mortgage,Existing Properties,Residential / Commercial,Land,9,4,1130071030.0,116350206.0,3727.38,31229.17
+Gifts,Grant,Existing Properties,Industrial / Commercial / Residential,Building,9,5,548095000.0,35365000.0,14934.16,2671.81
+Mortgages,Lease to Own Modify,Existing Properties,Commercial,Land,9,4,13846540.0,1614299.0,174.8,8994.12
+Sales,Delayed Sell,Existing Properties,Storage,Unit,9,8,6358000.0,968000.0,41.99,20458.18
+Mortgages,Lease Finance Registration,Existing Properties,Commercial,Building,8,4,128828086.0,9000000.0,1147.325,17222.26
+Sales,Development Registration,Existing Properties,Multi-Use,Land,8,5,1781184217.0,130380222.0,56342.80499999999,2094.53
+Mortgages,Lease Finance Modification,Existing Properties,Multi-Use,Building,8,3,235070000.0,35095000.0,2377.7,14760.06
+Mortgages,Delayed Mortgage,Existing Properties,Multi-Use,Land,8,4,409056000.0,11590000.0,7500.06,1890.955
+Gifts,Grant,Existing Properties,Storage,Unit,8,6,31763364.0,3477587.5,523.23,9032.48
+Mortgages,Lease to Own on Development Modification,Existing Properties,Residential,Villa,8,4,22865021.0,2627000.0,375.0,6410.67
+Sales,Lease to Own on Development Registration,Existing Properties,Commercial,Unit,8,7,6450329.0,788388.0,114.33000000000001,7104.17
+Mortgages,Mortgage Transfer,Existing Properties,Commercial,Land,8,6,127619470.0,8381735.0,1449.1,2810.0150000000003
+Mortgages,Delayed Mortgage,Existing Properties,Industrial,Land,7,4,169118000.0,25569000.0,1903.28,13562.3
+Mortgages,Portfolio Mortgage Modification Pre-Registration,Off-Plan Properties,Residential / Commercial,Land,7,4,467619000.0,88373000.0,130.71,545883.01
+Mortgages,Delayed Mortgage,Existing Properties,Multi-Use,Building,7,5,403496154.0,70878077.0,3198.64,11261.26
+Mortgages,Mortgage Pre-Registration,Off-Plan Properties,Industrial,Unit,7,4,1533334.0,181912.0,50.0,3638.24
+Mortgages,Modify Mortgage,Existing Properties,Industrial / Commercial,Land,7,3,338300000.0,73300000.0,24323.03,3013.6
+Mortgages,Modify Mortgage,Existing Properties,Other,Unit,7,5,2491383000.0,252050000.0,74171.64,5841.19
+Sales,Delayed Development,Existing Properties,Residential,Building,7,3,103088856.0,13235508.0,2627.34,5037.61
+Mortgages,Lease to Own Registration,Existing Properties,Multi-Use,Building,7,4,135260300.0,6533150.0,1261.54,5178.71
+Sales,Delayed Sell,Existing Properties,Residential / Commercial,Villa,6,5,1037587580.0,160261568.0,127206.4,5083.605
+Sales,Lease to Own Registration,Existing Properties,Other,Unit,6,4,11886450.0,2095800.0,197.69,10601.45
+Gifts,Grant,Existing Properties,Hospitality ,Building,6,5,827958994.0,70000000.0,3814.4849999999997,19880.83
+Mortgages,Delayed Portfolio Mortgage,Existing Properties,Residential / Commercial,Land,6,4,202358130.0,2443065.0,113.095,16740.2
+Sales,Delayed Sell,Existing Properties,Other,Building,6,5,147300588.0,16915320.0,13095.74,1291.67
+Mortgages,Lease to Own Transfer,Existing Properties,Residential,Land,6,5,22115122.0,2980000.0,2566.58,1066.725
+Mortgages,Mortgage Transfer,Existing Properties,Other,Building,6,4,219004188.0,28750000.0,16433.195,3408.57
+Mortgages,Lease to Own Transfer Pre-Registration,Off-Plan Properties,Commercial,Unit,6,4,4744125.0,855446.0,84.605,10233.085
+Gifts,Grant,Existing Properties,Multi-Use,Villa,6,5,34579272.0,4500000.0,1765.16,2549.34
+Mortgages,Portfolio Mortgage Development Modification,Existing Properties,Residential / Commercial,Land,6,4,52708000.0,2150500.0,45.38,47388.72
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Hospitality ,Land,6,5,3366394792.0,753000000.0,204.17,320811.09
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Industrial / Commercial / Residential,Land,6,4,10426000.0,556000.0,49.61,10136.814999999999
+Mortgages,Transfer Development Mortgage,Existing Properties,Residential,Villa,6,4,18705458.0,2962729.0,875.0,3428.57
+Mortgages,Lease Finance Modification,Existing Properties,Residential,Building,6,2,56338431.0,9389738.5,1440.0,6396.37
+Sales,Lease to Own Registration,Existing Properties,Commercial,Building,5,3,844700000.0,155000000.0,2638.45,58746.61
+Mortgages,Delayed Portfolio Mortgage,Existing Properties,Commercial,Land,5,3,31925400.0,6000000.0,60.25,99585.06
+Mortgages,Lease Finance Modification,Existing Properties,Commercial,Land,5,3,20827469.0,3290000.0,255.0,12901.96
+Mortgages,Development Mortgage,Existing Properties,Multi-Use,Land,5,2,312000000.0,60500000.0,29111.26,2078.23
+Mortgages,Development Mortgage,Existing Properties,Commercial,Villa,5,3,14899000.0,3075000.0,955.02,3559.61
+Mortgages,Portfolio Mortgage Transfer,Existing Properties,Residential,Land,5,2,878016000.0,182594000.0,391.9,465919.88
+Mortgages,Lease to Own on Development Registration,Existing Properties,Commercial,Unit,5,5,2790158.0,547950.0,145.83,3982.58
+Mortgages,Lease Finance Modification,Existing Properties,Residential / Commercial,Building,5,4,224320480.0,6680480.0,215.72,24333.01
+Gifts,Grant Development,Existing Properties,Storage,Unit,5,3,20051072.0,4000000.0,883.87,4525.55
+Mortgages,Delayed Portfolio Mortgage,Existing Properties,Multi-Use,Land,5,4,363675500.0,5775000.0,124.32,46452.7
+Mortgages,Lease to Own Modify,Existing Properties,Commercial,Villa,5,3,12261000.0,2362500.0,348.45,6780.03
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Residential,Unit,5,4,33135065.0,870999.0,72.63,12869.37
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Industrial / Commercial,Land,5,3,1320000000.0,220000000.0,7800.0,28205.13
+Mortgages,Modify Development Mortgage,Existing Properties,Multi-Use,Building,5,4,996500000.0,14500000.0,9662.97,1500.57
+Mortgages,Mortgage Transfer,Existing Properties,Multi-Use,Building,5,3,301604500.0,47000000.0,4801.79,9788.02
+Sales,Sell - Pre registration,Off-Plan Properties,Other,Unit,5,4,695333737.0,154800000.0,32663.65,4739.21
+Gifts,Grant,Existing Properties,Storage,Building,5,4,214908023.0,60000000.0,14553.62,4040.23
+Mortgages,Mortgage Transfer,Existing Properties,Multi-Use,Land,5,2,983000000.0,239500000.0,47745.07,5016.22
+Mortgages,Mortgage Transfer,Existing Properties,Hospitality ,Land,4,2,573000000.0,143250000.0,17996.205,7926.795
+Sales,Sell,Existing Properties,Storage,Building,4,2,18976120.0,4744030.0,1235.405,3668.895
+Sales,Portfolio Development Registration,Existing Properties,Industrial,Land,4,2,240373026.0,60093256.5,42944.270000000004,1454.65
+Sales,Adding Land By Sell,Existing Properties,Residential / Commercial,Land,4,4,5343468.0,1366504.0,916.16,1317.815
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Industrial,Land,4,3,541832080.0,17423540.0,1412.09,39602.135
+Mortgages,Lease to Own Registration,Existing Properties,Residential / Commercial,Building,4,3,60897000.0,14098500.0,812.905,22674.715
+Sales,Lease to Own on Development Registration,Existing Properties,Commercial,Villa,4,1,14200000.0,3550000.0,450.48,7880.48
+Sales,Sell Development,Existing Properties,Residential / Commercial,Villa,4,2,513374755.0,140791585.0,137733.9,1022.2
+Sales,Development Registration,Existing Properties,Industrial / Commercial,Land,4,1,130867692.0,32716923.0,37180.45,879.95
+Mortgages,Mortgage Registration,Existing Properties,Industrial / Commercial,Land,4,4,165686500.0,32343250.0,14367.89,3931.25
+Sales,Development Registration,Existing Properties,Commercial,Villa,4,2,7070964.0,1767741.0,47584.835,3207.8050000000003
+Sales,Delayed Sell,Existing Properties,Multi-Use,Villa,4,3,103376100.0,26187450.0,3597.465,6561.705
+Mortgages,Lease Finance Modification,Existing Properties,Commercial,Villa,4,1,11850000.0,2962500.0,408.13,7258.72
+Mortgages,Modify Mortgage Pre-Registration,Off-Plan Properties,Hospitality ,Unit,4,2,478000000.0,157500000.0,20810.27,7568.38
+Mortgages,Modify Development Mortgage,Existing Properties,Storage,Unit,4,4,20760000.0,5190000.0,878.885,5710.18
+Sales,Lease Development Registration,Existing Properties,Commercial,Unit,4,4,6447857.0,1515768.0,132.1,8969.95
+Sales,Lease to Own on Development Registration,Existing Properties,Residential,Building,3,2,1131004.0,372167.0,1005.66,370.07
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Commercial,Villa,3,2,8400000.0,2200000.0,747.34,2943.77
+Mortgages,Delayed Mortgage,Existing Properties,Residential,Building,3,3,126693680.0,20000000.0,1463.74,13663.63
+Mortgages,Modify Development Mortgage,Existing Properties,Industrial / Commercial / Residential,Building,3,1,180000000.0,60000000.0,10062.08,5962.98
+Sales,Sell Development,Existing Properties,Industrial / Commercial / Residential,Building,3,3,33327576.0,6116985.0,10062.08,315.0
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Commercial,Villa,3,1,13200000.0,4400000.0,747.34,5887.55
+Sales,Sale On Payment Plan,Existing Properties,Residential,Land,3,2,59000000.0,6500000.0,2049.9,3170.89
+Sales,Delayed Lease to Own Registration,Existing Properties,Hospitality ,Unit,3,2,3848664.0,1245888.0,68.84,18098.31
+Gifts,Grant on Delayed Sell,Existing Properties,Hospitality ,Land,3,2,176659574.0,35329764.0,5060.15,6981.96
+Mortgages,Lease Finance Registration,Existing Properties,Other,Villa,3,3,6370810.0,1920000.0,492.92,3809.58
+Sales,Sell,Existing Properties,Hospitality ,Villa,3,1,666983742.0,222327914.0,47139.2,4716.41
+Mortgages,Lease Finance Registration,Existing Properties,Residential / Commercial,Villa,3,3,32090269.0,6012800.0,579.53,7407.91
+Gifts,Grant on Delayed Sell,Existing Properties,Residential / Commercial,Land,3,2,199440916.0,90000458.0,3182.66,28278.38
+Mortgages,Portfolio Mortgage Modification,Existing Properties,Industrial,Land,3,1,1490880000.0,496960000.0,7432.24,66865.44
+Mortgages,Lease to Own Modify,Existing Properties,Residential,Land,3,2,36800000.0,15400000.0,804.28,19147.56
+Sales,Delayed Development,Existing Properties,Storage,Unit,3,3,8789550.0,3039050.0,856.56,3547.97
+Gifts,Grant on Delayed Sell,Existing Properties,Commercial,Building,3,2,248400166.0,121270523.0,5074.96,23895.86
+Mortgages,Delayed Lease to Own Registration,Existing Properties,Hospitality ,Unit,3,2,9756000.0,3303000.0,86.86,38026.71
+Sales,Adding Land By Sell,Existing Properties,Commercial,Villa,3,3,3912200.0,1404000.0,917.51,2152.78
+Mortgages,Transfer Development Mortgage,Existing Properties,Residential,Building,3,1,165000000.0,55000000.0,11809.5,4657.27
+Mortgages,Portfolio Mortgage Modification Pre-Registration,Off-Plan Properties,Multi-Use,Land,3,2,239139000.0,108915000.0,87.15,1249741.82
+Sales,Lease to Own Registration Pre-Registration,Off-Plan Properties,Hospitality ,Unit,3,2,12336888.0,2425000.0,85.16,28475.81
+Gifts,Grant on Delayed Sell,Existing Properties,Residential / Commercial,Building,2,1,377310400.0,188655200.0,7620.25,24757.09
+Sales,Sell,Existing Properties,Industrial,Villa,2,1,800000.0,400000.0,134.9,2965.16
+Mortgages,Delayed Mortgage,Existing Properties,Residential / Commercial,Land,2,1,24000000.0,12000000.0,4203.86,2854.52
+Mortgages,Lease Finance Registration,Existing Properties,Residential / Commercial,Land,2,1,400000000.0,200000000.0,22488.79,8893.32
+Mortgages,Lease to Own Registration,Existing Properties,Multi-Use,Land,2,1,25728258.0,12864129.0,1038.1,12391.99
+Mortgages,Lease to Own on Development Modification,Existing Properties,Residential,Building,2,1,6716818.0,3358409.0,1005.64,3339.57
+Sales,Delayed Sell,Existing Properties,Other,Unit,2,1,2360000.0,1180000.0,57.79,20418.76
+Mortgages,Lease Finance Registration,Existing Properties,Agricultural,Building,2,1,28000000.0,14000000.0,36059.56,388.25
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Industrial,Land,2,2,253000000.0,126500000.0,19413.78,7367.545
+Mortgages,Lease Finance Modification,Existing Properties,Hospitality ,Unit,2,1,1260000.0,630000.0,67.94,9272.89
+Mortgages,Lease Development Registration,Existing Properties,Commercial,Unit,2,2,1948800.0,974400.0,160.04,6105.785
+Mortgages,Portfolio Mortgage Development Modification,Existing Properties,Residential,Land,2,1,109480000.0,54740000.0,60.2,909302.33
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Other,Land,2,1,156849000.0,78424500.0,35000.0,2240.7
+Mortgages,Mortgage Transfer Pre-Registration,Off-Plan Properties,Residential,Villa,2,2,1440500.0,720250.0,282.015,2553.965
+Mortgages,Lease to Own Registration Pre-Registration,Off-Plan Properties,Hospitality ,Unit,2,2,4955944.0,2477972.0,149.91,15838.43
+Mortgages,Lease to Own Transfer,Existing Properties,Hospitality ,Unit,2,2,2851828.0,1425914.0,67.17,24976.559999999998
+Mortgages,Mortgage Transfer,Existing Properties,Other,Villa,2,1,26000000.0,13000000.0,2383.07,5455.15
+Sales,Delayed Development,Existing Properties,Industrial,Land,2,2,19016213.0,9508106.5,9033.79,1052.175
+Mortgages,Lease to Own Modify,Existing Properties,Hospitality ,Unit,2,1,8700000.0,4350000.0,86.12,50510.92
+Sales,Delayed Development,Existing Properties,Industrial,Building,2,1,136473430.0,68236715.0,53952.37,1264.76
+Mortgages,Mortgage Registration,Existing Properties,Storage,Building,2,1,14000000.0,7000000.0,2795.92,2503.65
+Sales,Lease Development Registration,Existing Properties,Commercial,Land,2,1,5417944.0,2708972.0,510.18,5309.84
+Mortgages,Lease to Own Registration,Existing Properties,Residential / Commercial,Land,2,1,98000000.0,49000000.0,3412.02,14360.99
+Sales,Lease to Own Registration,Existing Properties,Residential / Commercial,Villa,2,1,14892000.0,7446000.0,563.92,13204.0
+Mortgages,Portfolio Mortgage Registration,Existing Properties,Industrial / Commercial,Land,2,1,432778500.0,216389250.0,3872.44,55879.3
+Sales,Lease to Own Registration,Existing Properties,Industrial,Unit,2,1,7074000.0,3537000.0,641.59,5512.87
+Mortgages,Lease to Own Registration,Existing Properties,Other,Land,2,1,8400000.0,4200000.0,1128.21,3722.71
+Mortgages,Modify Mortgage Pre-Registration,Off-Plan Properties,Residential,Villa,2,1,37984576.0,18992288.0,1140.57,16651.58
+Sales,Lease to Own Registration,Existing Properties,Other,Land,2,1,16000000.0,8000000.0,450.63,17752.92
+Mortgages,Modify Mortgage,Existing Properties,Hospitality ,Villa,2,1,60000000.0,30000000.0,3781.56,7933.23
+Sales,Lease to Own Registration,Existing Properties,Residential / Commercial,Building,2,2,35000000.0,17500000.0,812.905,25115.605
+Mortgages,Portfolio Mortgage Development Registration,Existing Properties,Multi-Use,Land,2,1,860200000.0,430100000.0,152624.83,2818.02
+Mortgages,Lease to Own Registration,Existing Properties,Residential / Commercial,Villa,1,1,3960000.0,3960000.0,232.26,17049.86
+Mortgages,Lease to Own Registration,Existing Properties,Storage,Unit,1,1,12636.0,12636.0,2.61,4841.38
+Mortgages,Lease to Own Registration,Existing Properties,Other,Unit,1,1,3000000.0,3000000.0,197.69,15175.27
+Gifts,Grant Development,Existing Properties,Commercial,Villa,1,1,1440034.0,1440034.0,396.24,3634.25
+Mortgages,Mortgage Transfer Pre-Registration,Off-Plan Properties,Hospitality ,Unit,1,1,1217640.0,1217640.0,98.03,12421.1
+Sales,Sell Development,Existing Properties,Commercial,Villa,1,1,38529720.0,38529720.0,94776.95,406.53
+Mortgages,Transfer Development Mortgage,Existing Properties,Commercial,Land,1,1,3412500.0,3412500.0,955.02,3573.22
+Mortgages,Mortgage Transfer,Existing Properties,Other,Land,1,1,420000000.0,420000000.0,139354.56,3013.89
+Mortgages,Mortgage Transfer,Existing Properties,Industrial,Unit,1,1,324000.0,324000.0,49.15,6592.07
+Mortgages,Mortgage Transfer,Existing Properties,Hospitality ,Building,1,1,195000000.0,195000000.0,10109.3,19289.17
+Mortgages,Lease to Own on Development Modification,Existing Properties,Residential,Unit,1,1,445200.0,445200.0,87.11,5110.78
+Mortgages,Lease to Own on Development Registration,Existing Properties,Commercial,Villa,1,1,2040000.0,2040000.0,450.48,4528.5
+Mortgages,Lease to Own on Development Registration,Existing Properties,Residential,Building,1,1,3358409.0,3358409.0,1005.64,3339.57
+Mortgages,Lease to Own on Development Registration,Existing Properties,Residential / Commercial,Building,1,1,1937500.0,1937500.0,1005.63,1926.65
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Commercial,Unit,1,1,1700000.0,1700000.0,94.39,18010.38
+Mortgages,Modify Delayed Mortgage ,Existing Properties,Multi-Use,Land,1,1,9388000.0,9388000.0,1972.26,4760.02
+Mortgages,Portfolio Mortgage Transfer,Existing Properties,Multi-Use,Land,1,1,88000000.0,88000000.0,154.3,570317.56
+Sales,Lease to Own Registration,Existing Properties,Storage,Unit,1,1,16848.0,16848.0,2.61,6455.17
+Sales,Adding Land By Sell,Existing Properties,Multi-Use,Building,1,1,159600.0,159600.0,37.07,4305.37
+Sales,Development Registration,Existing Properties,Industrial / Commercial / Residential,Land,1,1,19503364.0,19503364.0,19503364.17,1.0
+Mortgages,Delayed Sell Lease To Own Modification,Existing Properties,Residential,Villa,1,1,2883200.0,2883200.0,252.0,11441.27
+Sales,Lease to Own Registration,Existing Properties,Multi-Use,Land,1,1,23465400.0,23465400.0,1038.1,22604.18
+Mortgages,Delayed Mortgage,Existing Properties,Residential / Commercial,Building,1,1,400000000.0,400000000.0,18089.61,22112.14
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Hospitality ,Unit,1,1,437250.0,437250.0,44.55,9814.81
+Sales,Sale On Payment Plan,Existing Properties,Commercial,Building,1,1,460000000.0,460000000.0,3716.12,123785.02
+Mortgages,Delayed Sell Lease to Own Registration,Existing Properties,Other,Land,1,1,5509000.0,5509000.0,450.63,12225.11
+Sales,Sale On Payment Plan,Existing Properties,Multi-Use,Land,1,1,826668324.0,826668324.0,10232.9,80785.34
+Sales,Sale On Payment Plan,Existing Properties,Other,Building,1,1,27146250.0,27146250.0,1145.46,23698.99
+Mortgages,Development Mortgage,Existing Properties,Industrial / Commercial,Land,1,1,50000000.0,50000000.0,37180.45,1344.79
+Mortgages,Development Mortgage,Existing Properties,Industrial / Commercial / Residential,Building,1,1,50000000.0,50000000.0,10062.08,4969.15
+Mortgages,Development Mortgage,Existing Properties,Industrial / Commercial / Residential,Land,1,1,7805572056.0,7805572056.0,26891535.7,290.26
+Sales,Development Registration,Existing Properties,Residential / Commercial,Villa,1,1,1482555.0,1482555.0,137733.9,10.76
+Mortgages,Delayed Mortgage,Existing Properties,Commercial,Building,1,1,17000000.0,17000000.0,2768.51,6140.49
+Mortgages,Development Mortgage,Existing Properties,Residential / Commercial,Villa,1,1,350000000.0,350000000.0,136640.47,2561.47
+Mortgages,Delayed Lease to Own Modify,Existing Properties,Residential,Unit,1,1,475760.0,475760.0,68.73,6922.16
+Gifts,Grant Development,Existing Properties,Industrial / Commercial,Land,1,1,28014465.0,28014465.0,37180.45,753.47
+Sales,Development Registration,Existing Properties,Industrial / Commercial / Residential,Building,1,1,19419.0,19419.0,19419.09,1.0
+Mortgages,Lease Development Modify,Existing Properties,Residential,Unit,1,1,776713.0,776713.0,87.4,8886.88
+Mortgages,Lease Development Modify,Existing Properties,Residential,Villa,1,1,2700000.0,2700000.0,980.0,2755.1
+Gifts,Grant on Delayed Sell,Existing Properties,Residential,Building,1,1,2845000.0,2845000.0,2033.31,1399.2
+Sales,Delayed Sell Lease to Own Registration,Existing Properties,Hospitality ,Unit,1,1,532705.0,532705.0,44.55,11957.46
+Mortgages,Lease to Own Modify,Existing Properties,Commercial,Building,1,1,1694000.0,1694000.0,214.04,7914.41
+Sales,Delayed Sell,Existing Properties,Agricultural,Building,1,1,13000000.0,13000000.0,21349.95,608.9
+Mortgages,Lease to Own Registration,Existing Properties,Industrial,Unit,1,1,1350000.0,1350000.0,641.59,2104.15
+Sales,Delayed Development,Existing Properties,Residential,Land,1,1,7650000.0,7650000.0,1579.35,4843.76
+Sales,Adding Land By Sell,Existing Properties,Residential / Commercial,Villa,1,1,187800.0,187800.0,116.31,1614.65
+Sales,Adding Land By Sell,Existing Properties,Other,Land,1,1,805200.0,805200.0,748.05,1076.4
+Sales,Adding Land By Sell,Existing Properties,Other,Building,1,1,2340720.0,2340720.0,24777.51,94.47
+Sales,Adding Land By Sell,Existing Properties,Multi-Use,Land,1,1,364710.0,364710.0,1466.29,248.73
+Gifts,Grant Development,Existing Properties,Multi-Use,Building,1,1,15000000.0,15000000.0,9662.97,1552.32
+Mortgages,Mortgage Registration,Existing Properties,Hospitality ,Villa,1,1,238550000.0,238550000.0,47139.2,5060.54

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local environment. Examples stay in the repo.
+.env
+.env.local
+frontend/.env.local
+!.env.example
+!frontend/.env.example
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
+
+# Frontend install and build output. Vercel builds from source.
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+frontend/*.tsbuildinfo
+
+# The raw extract is about 915 MB and is not read by the running API.
+data/dld_transactions_extracted.csv
+data/raw/dld_transactions_extracted.csv
+
+# Intermediate tables the API does not load.
+# Kept: data/processed/residential_sales.parquet and data/processed/history/
+data/processed/cleaned_transactions.parquet
+data/processed/residential_sales_extended.parquet
+data/processed/modeling_table.parquet
+
+# Plot HTML. The API reads reports/dataset_audit.json, not these figures.
+reports/figures/
+
+# Local matplotlib cache
+.mplconfig/

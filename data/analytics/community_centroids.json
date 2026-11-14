@@ -1,0 +1,396 @@
+{
+  "source": "OpenStreetMap Nominatim",
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0",
+  "retrieved": "2026-11-13",
+  "note": "Approximate place centroids from OpenStreetMap Nominatim, matched by community name and kept only when the hit is inside Dubai. They are not coordinates from the Dubai Land Department extract. Prices, volumes, and growth are joined from the transaction analytics. Communities without a verified place match are omitted.",
+  "places": [
+    {
+      "community_name": "Jumeirah Village Circle",
+      "latitude": 25.0565882,
+      "longitude": 55.2079869,
+      "osm_type": "node",
+      "osm_id": 11800596709,
+      "label": "Jumeirah Village Circle, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Dubai Marina",
+      "latitude": 25.0786415,
+      "longitude": 55.1352524,
+      "osm_type": "relation",
+      "osm_id": 11912728,
+      "label": "Dubai Marina, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Business Bay",
+      "latitude": 25.1794564,
+      "longitude": 55.2683707,
+      "osm_type": "relation",
+      "osm_id": 18471755,
+      "label": "Business Bay, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "International City Phase 1",
+      "latitude": 25.1322737,
+      "longitude": 55.3981414,
+      "osm_type": "relation",
+      "osm_id": 18471686,
+      "label": "International City, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "DownTown Dubai",
+      "latitude": 25.1948428,
+      "longitude": 55.278195,
+      "osm_type": "way",
+      "osm_id": 1012139061,
+      "label": "Downtown Dubai, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Jumeirah Lakes Towers",
+      "latitude": 25.0723832,
+      "longitude": 55.1437432,
+      "osm_type": "way",
+      "osm_id": 433279682,
+      "label": "Jumeirah Lakes Towers, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Palm Jumeirah",
+      "latitude": 25.1183026,
+      "longitude": 55.1338322,
+      "osm_type": "way",
+      "osm_id": 874795235,
+      "label": "Palm Jumeirah, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Dubai Hills Estate",
+      "latitude": 25.0974142,
+      "longitude": 55.2684401,
+      "osm_type": "relation",
+      "label": "Dubai Hills, Hadaeq Sheikh Mohammed Bin Rashid, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Dubai Creek Harbour",
+      "latitude": 25.197978,
+      "longitude": 55.3603796,
+      "osm_type": "way",
+      "osm_id": 1012353010,
+      "label": "Dubai Creek Harbour, Al Kheeran 1, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Arjan",
+      "latitude": 25.0603309,
+      "longitude": 55.2354858,
+      "osm_type": "way",
+      "osm_id": 309488167,
+      "label": "Arjan, Al Barsha South 3, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "TOWN SQUARE",
+      "latitude": 25.0076387,
+      "longitude": 55.2878122,
+      "osm_type": "way",
+      "osm_id": 514153297,
+      "label": "Town Square Dubai, Al Yalayis 2, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Jumeriah Beach Residence - JBR",
+      "latitude": 25.0778021,
+      "longitude": 55.1351809,
+      "osm_type": "way",
+      "osm_id": 1011430642,
+      "label": "Jumeirah Beach Residence, Dubai Marina, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "The Greens",
+      "latitude": 25.0928617,
+      "longitude": 55.1706219,
+      "osm_type": "way",
+      "osm_id": 1004755897,
+      "label": "The Greens, Al Thanyah First, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Jumeirah Village Triangle",
+      "latitude": 25.0498433,
+      "longitude": 55.1907008,
+      "osm_type": "node",
+      "osm_id": 11800596710,
+      "label": "Jumeirah Village Triangle, District 5, Al Barsha South 5, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "Al Furjan",
+      "latitude": 25.0267099,
+      "longitude": 55.1469903,
+      "osm_type": "way",
+      "osm_id": 666334271,
+      "label": "Al Furjan, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "Motor City",
+      "latitude": 25.0423709,
+      "longitude": 55.2416609,
+      "osm_type": "node",
+      "osm_id": 8143204852,
+      "label": "Motor City, Green Community Motor City, Al Hebiah 1, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "SOBHA HARTLAND",
+      "latitude": 25.1774314,
+      "longitude": 55.3079545,
+      "osm_type": "way",
+      "osm_id": 1012390465,
+      "label": "Sobha Hartland, MBR- Al Merkad, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Discovery Gardens",
+      "latitude": 25.0382708,
+      "longitude": 55.1456956,
+      "osm_type": "way",
+      "osm_id": 213900204,
+      "label": "Discovery Gardens, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "Dubai Harbour",
+      "latitude": 25.0956277,
+      "longitude": 55.1381633,
+      "osm_type": "way",
+      "osm_id": 1156814571,
+      "label": "Dubai Harbour, Emaar Beachfront, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Jumeirah Islands",
+      "latitude": 25.0570585,
+      "longitude": 55.1561456,
+      "osm_type": "relation",
+      "osm_id": 18471847,
+      "label": "Jumeirah Islands, Al Thanyah 5, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "Arabian Ranches - 1",
+      "latitude": 25.0535681,
+      "longitude": 55.2754782,
+      "osm_type": "node",
+      "osm_id": 8143204841,
+      "label": "Arabian Ranches, Wadi Al Safa 6, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "Dubai South Residential District",
+      "latitude": 24.9435362,
+      "longitude": 55.2199004,
+      "osm_type": "way",
+      "osm_id": 435857015,
+      "label": "Dubai South Residential District, Madinat Al Mataar, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "DAMAC HILLS",
+      "latitude": 25.0264384,
+      "longitude": 55.251228,
+      "osm_type": "node",
+      "osm_id": 11795397123,
+      "label": "Damac Hills, Al Hebiah 3, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "Silicon Oasis",
+      "latitude": 25.1217058,
+      "longitude": 55.3855055,
+      "osm_type": "relation",
+      "label": "Dubai Silicon Oasis, International City, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "Dubai Maritime City",
+      "latitude": 25.2496256,
+      "longitude": 55.276165,
+      "osm_type": "node",
+      "osm_id": 8143204804,
+      "label": "Dubai Maritime City, Al Mina, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Remraam",
+      "latitude": 25.0013649,
+      "longitude": 55.2488605,
+      "osm_type": "way",
+      "osm_id": 359949337,
+      "label": "Remraam, Al Hebiah 5, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "City Walk",
+      "latitude": 25.2081589,
+      "longitude": 55.2618737,
+      "osm_type": "way",
+      "osm_id": 454470413,
+      "label": "City Walk, Al Wasl, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "retail"
+    },
+    {
+      "community_name": "Majan",
+      "latitude": 25.0929388,
+      "longitude": 55.3184835,
+      "osm_type": "way",
+      "osm_id": 1012399700,
+      "label": "Majan, Wadi Al Safa 3, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Dubai Health Care City Phase 2",
+      "latitude": 25.2318195,
+      "longitude": 55.3225039,
+      "osm_type": "way",
+      "osm_id": 396554518,
+      "label": "Dubai Healthcare City, Umm Hurair 2, Umm Hurair, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "Arabian Ranches 3",
+      "latitude": 25.0651631,
+      "longitude": 55.3227864,
+      "osm_type": "way",
+      "osm_id": 712621092,
+      "label": "Arabian Ranches 3, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "construction"
+    },
+    {
+      "community_name": "Palm Deira",
+      "latitude": 25.3179174,
+      "longitude": 55.3263177,
+      "osm_type": "relation",
+      "osm_id": 8122161,
+      "label": "Dubai Islands, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "island"
+    },
+    {
+      "community_name": "Mina Rashid",
+      "latitude": 25.2711083,
+      "longitude": 55.2659321,
+      "osm_type": "way",
+      "osm_id": 1148760943,
+      "label": "Port Rashid, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Dubai Studio City",
+      "latitude": 25.0415641,
+      "longitude": 55.2522587,
+      "osm_type": "node",
+      "osm_id": 1627989278,
+      "label": "Dubai Studio City, Al Hebiah 2, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "neighbourhood"
+    },
+    {
+      "community_name": "International City Phase 3",
+      "latitude": 25.1322737,
+      "longitude": 55.3981414,
+      "osm_type": "relation",
+      "osm_id": 18471686,
+      "label": "International City, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "Mohammed Bin Rashid AL Maktoum City -District -1 Community",
+      "latitude": 25.1682907,
+      "longitude": 55.2710159,
+      "osm_type": "way",
+      "osm_id": 478505125,
+      "label": "Mohammed Bin Rashid Al Maktoum City District One, Mohammed Bin Rashid City, MBR- Al Merkad, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "highway",
+      "osm_type_name": "residential"
+    },
+    {
+      "community_name": "Mudon",
+      "latitude": 25.0204108,
+      "longitude": 55.2679936,
+      "osm_type": "node",
+      "osm_id": 11795395058,
+      "label": "Mudon, Al Hebiah 6, Dubai Emirate, United Arab Emirates",
+      "osm_category": "place",
+      "osm_type_name": "suburb"
+    },
+    {
+      "community_name": "Jumeirah Park",
+      "latitude": 25.0469412,
+      "longitude": 55.1548178,
+      "osm_type": "relation",
+      "osm_id": 18471690,
+      "label": "Jumeirah Park, Al Thanyah 5, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "Springs - 1",
+      "latitude": 25.0612322,
+      "longitude": 55.1613731,
+      "osm_type": "way",
+      "osm_id": 89565046,
+      "label": "Springs 1, The Springs, Al Thanyah 4, Dubai, Dubai Emirate, United Arab Emirates",
+      "osm_category": "boundary",
+      "osm_type_name": "administrative"
+    },
+    {
+      "community_name": "TILAL AL GHAF",
+      "latitude": 25.0243338,
+      "longitude": 55.2239219,
+      "osm_type": "way",
+      "osm_id": 655192769,
+      "label": "Tilal Al Ghaf, Dubai Emirate, United Arab Emirates",
+      "osm_category": "landuse",
+      "osm_type_name": "greenfield"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "raw_rows": 1593464,
+  "raw_columns": 47,
+  "cleaned_rows": 1001280,
+  "primary_rows": 543192,
+  "extended_rows": 585427,
+  "date_min_primary": "1993-01-27",
+  "date_max_primary": "2025-11-07",
+  "outputs": {
+    "cleaned_transactions": "/Users/sonamdobriyal/Test/DubaiMarket/data/processed/cleaned_transactions.parquet",
+    "residential_sales": "/Users/sonamdobriyal/Test/DubaiMarket/data/processed/residential_sales.parquet",
+    "residential_sales_extended": "/Users/sonamdobriyal/Test/DubaiMarket/data/processed/residential_sales_extended.parquet",
+    "filter_log": "/Users/sonamdobriyal/Test/DubaiMarket/data/interim/filter_log.csv",
+    "dataset_audit": "/Users/sonamdobriyal/Test/DubaiMarket/reports/dataset_audit.json"
+  },
+  "meta": {
+    "arabic_redundancy": {
+      "trans_group_ar": {
+        "english_column": "trans_group_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "procedure_name_ar": {
+        "english_column": "procedure_name_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "property_type_ar": {
+        "english_column": "property_type_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "property_sub_type_ar": {
+        "english_column": "property_sub_type_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "property_usage_ar": {
+        "english_column": "property_usage_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "reg_type_ar": {
+        "english_column": "reg_type_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "area_name_ar": {
+        "english_column": "area_name_en",
+        "one_to_one": false,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 2
+      },
+      "building_name_ar": {
+        "english_column": "building_name_en",
+        "one_to_one": false,
+        "max_arabic_per_english": 2,
+        "max_english_per_arabic": 4
+      },
+      "project_name_ar": {
+        "english_column": "project_name_en",
+        "one_to_one": false,
+        "max_arabic_per_english": 2,
+        "max_english_per_arabic": 2
+      },
+      "master_project_ar": {
+        "english_column": "master_project_en",
+        "one_to_one": false,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 2
+      },
+      "nearest_landmark_ar": {
+        "english_column": "nearest_landmark_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "nearest_metro_ar": {
+        "english_column": "nearest_metro_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "nearest_mall_ar": {
+        "english_column": "nearest_mall_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      },
+      "rooms_ar": {
+        "english_column": "rooms_en",
+        "one_to_one": true,
+        "max_arabic_per_english": 1,
+        "max_english_per_arabic": 1
+      }
+    },
+    "normalization": {
+      "area_name_en": 2,
+      "building_name_en": 9929,
+      "project_name_en": 68164,
+      "master_project_en": 13859,
+      "nearest_landmark_en": 0,
+      "nearest_metro_en": 96,
+      "nearest_mall_en": 0,
+      "property_type_en": 0,
+      "property_sub_type_en": 0,
+      "property_usage_en": 26555,
+      "reg_type_en": 0,
+      "procedure_name_en": 61,
+      "trans_group_en": 0,
+      "rooms_en": 0,
+      "unexpected_parking_values": 0,
+      "unparsed_dates": 3
+    },
+    "casefold_collisions": {
+      "project_name_en": [
+        {
+          "casefold": "imperial residence",
+          "labels": [
+            "IMPERIAL RESIDENCE",
+            "Imperial Residence"
+          ]
+        }
+      ],
+      "master_project_en": [],
+      "building_name_en": [
+        {
+          "casefold": "indigo tower",
+          "labels": [
+            "INDIGO TOWER",
+            "Indigo Tower"
+          ]
+        },
+        {
+          "casefold": "opal tower",
+          "labels": [
+            "OPAL TOWER",
+            "Opal Tower"
+          ]
+        },
+        {
+          "casefold": "oxford terraces",
+          "labels": [
+            "OXFORD TERRACES",
+            "Oxford Terraces"
+          ]
+        },
+        {
+          "casefold": "the bay",
+          "labels": [
+            "THE BAY",
+            "The Bay"
+          ]
+        },
+        {
+          "casefold": "views 1",
+          "labels": [
+            "VIEWS 1",
+            "Views 1"
+          ]
+        },
+        {
+          "casefold": "views 2",
+          "labels": [
+            "VIEWS 2",
+            "Views 2"
+          ]
+        }
+      ],
+      "area_name_en": [
+        {
+          "casefold": "al qusais",
+          "labels": [
+            "AL QUSAIS",
+            "Al Qusais"
+          ]
+        }
+      ]
+    },
+    "eligibility_counts": {
+      "primary": 544472,
+      "excluded": 414424,
+      "extended_delayed_sell": 42384
+    },
+    "exclusion_counts": {
+      "eligible_primary": 544472,
+      "not_sales_group": 236491,
+      "not_residential_usage": 115505,
+      "procedure_not_arm_length_dwelling_sale": 42599,
+      "eligible_delayed_sell": 42384,
+      "property_type_not_unit_or_villa": 19829
+    },
+    "bedroom_parse_counts_primary": {
+      "bedroom_count": 408640,
+      "studio": 103194,
+      "missing": 30715,
+      "penthouse_unspecified": 624,
+      "ambiguous": 19
+    }
+  },
+  "audit_highlights": {
+    "unique_transaction_ids": 1001280,
+    "exact_duplicate_extra_rows": 592184,
+    "meter_identity": {
+      "definition_tested": "meter_sale_price ?= actual_worth / procedure_area",
+      "n_rows": 1593464,
+      "n_zero_meter_sale_price": 5,
+      "n_zero_procedure_area": 0,
+      "abs_diff_median": 0.0025784559611565783,
+      "abs_diff_p99": 0.012633079051056484,
+      "abs_diff_max": 8.663333333097398,
+      "n_relative_diff_gt_0.1pct": 48,
+      "n_relative_diff_gt_1pct": 25,
+      "n_allclose_rtol_1e-3_atol_0.05": 1593464,
+      "conclusion": "meter_sale_price matches actual_worth / procedure_area within rounding for virtually every row. It is a derived field, not an independent measurement. Using it as a feature to predict actual_worth would leak the target."
+    },
+    "rent_non_null": 36321,
+    "named_master_projects": {
+      "Dubai Marina": {
+        "n_rows": 94981,
+        "property_types": {
+          "Unit": 94334,
+          "Building": 268,
+          "Land": 190,
+          "Villa": 189
+        },
+        "areas": {
+          "Marsa Dubai": 94972,
+          "Palm Jumeirah": 9
+        },
+        "usages": {
+          "Residential": 88597,
+          "Hospitality ": 3786,
+          "Commercial": 2030,
+          "Residential / Commercial": 298,
+          "Storage": 259,
+          "Other": 11
+        }
+      },
+      "DownTown Dubai": {
+        "n_rows": 69230,
+        "property_types": {
+          "Unit": 68987,
+          "Land": 157,
+          "Building": 86
+        },
+        "areas": {
+          "Burj Khalifa": 66900,
+          "Business Bay": 2329,
+          "Nadd Hessa": 1
+        },
+        "usages": {
+          "Residential": 58466,
+          "Hospitality ": 9614,
+          "Commercial": 954,
+          "Residential / Commercial": 171,
+          "Multi-Use": 20,
+          "Other": 5
+        }
+      },
+      "The Greens": {
+        "n_rows": 25852,
+        "property_types": {
+          "Unit": 25809,
+          "Building": 33,
+          "Land": 10
+        },
+        "areas": {
+          "Al Thanyah Third": 25852
+        },
+        "usages": {
+          "Residential": 25224,
+          "Commercial": 609,
+          "Hospitality ": 10,
+          "Residential / Commercial": 9
+        }
+      },
+      "Al Furjan": {
+        "n_rows": 31478,
+        "property_types": {
+          "Unit": 19543,
+          "Villa": 5961,
+          "Land": 5913,
+          "Building": 61
+        },
+        "areas": {
+          "Jabal Ali First": 31478
+        },
+        "usages": {
+          "Residential": 23560,
+          "Hospitality ": 4145,
+          "Commercial": 3485,
+          "Multi-Use": 278,
+          "Other": 8,
+          "Residential / Commercial": 2
+        }
+      },
+      "The Gardens": {
+        "n_rows": 5,
+        "property_types": {
+          "Land": 5
+        },
+        "areas": {
+          "Jabal Ali First": 5
+        },
+        "usages": {
+          "Residential / Commercial": 4,
+          "Residential": 1
+        }
+      }
+    }
+  }
+}

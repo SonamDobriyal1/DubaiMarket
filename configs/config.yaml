@@ -1,0 +1,97 @@
+seed: 42
+
+data:
+  raw_csv: data/dld_transactions_extracted.csv
+
+paths:
+  interim: data/interim
+  processed: data/processed
+  analytics: data/analytics
+  models: models
+  reports: reports
+  figures: reports/figures
+
+# Primary valuation population. Counts and exclusions are written to the filter log.
+eligibility:
+  primary_procedures:
+    - Sell
+    - Sell - Pre registration
+  extended_procedures:
+    - Delayed Sell
+  trans_group: Sales
+  usage:
+    - Residential
+  property_types:
+    - Unit
+    - Villa
+  # Subtypes kept when property_usage is already Residential.
+  # Missing subtype is retained (common for villas).
+  dwelling_subtypes:
+    - Flat
+    - Villa
+    - Stacked Townhouses
+    - Hotel Apartment
+  allow_missing_subtype: true
+
+outliers:
+  # Hard inconsistency screens. These are not luxury cutoffs.
+  # p99.9 of primary-sale AED/sqm is far below max_psm; values above max_psm
+  # are arithmetically implausible for a Dubai dwelling in this file.
+  min_psm: 200
+  max_psm: 250000
+  unit_area_min: 20
+  unit_area_max: 2000
+  villa_area_min: 50
+  villa_area_max: 10000
+  # Sensitivity-only robust fence, fit on training rows, never the production rule.
+  sensitivity_mad_k: 12
+
+history:
+  shrinkage_k: 10
+  min_growth_n: 20
+  trail_months: 12
+  recent_months: 3
+
+splits:
+  train_fraction: 0.70
+  val_fraction: 0.15
+  test_fraction: 0.15
+
+training:
+  optuna_trials:
+    lightgbm: 6
+    xgboost: 4
+    catboost: 3
+    hist_gradient_boosting: 4
+  inner_tail_fraction: 0.10
+  early_stopping_rounds: 40
+  max_iterations: 1200
+  rare_min_count:
+    building_name_en: 20
+    project_name_en: 20
+    nearest_landmark_en: 30
+    nearest_metro_en: 30
+    nearest_mall_en: 30
+  random_forest:
+    n_estimators: 80
+    max_depth: 16
+    min_samples_leaf: 40
+    max_samples: 200000
+
+intervals:
+  nominal_coverage: 0.90
+  # Product rule: a multiplicative 90% interval wider than this is too coarse
+  # to call an asking price inside it "fairly priced".
+  max_informative_relative_width: 0.70
+  min_segment_calibration_n: 5000
+
+analytics:
+  min_growth_observations: 20
+  min_rank_observations: 50
+  comparable_min_return: 5
+  comparable_max_return: 10
+
+valuation:
+  # Fill official area from a master project only when one area dominates.
+  modal_area_share_min: 0.99
+  min_community_sales: 30
