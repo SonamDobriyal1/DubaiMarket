@@ -98,14 +98,19 @@ export default function MapCanvas({ pins, selectedId, onSelect }: { pins: MapPin
     map.flyTo({ center: [pin.longitude, pin.latitude], zoom: Math.max(map.getZoom(), 12), duration: 650 });
   }, [focusToken]);
 
-  return <div ref={node} className="h-full w-full [&_.maplibregl-ctrl-bottom-left]:bottom-40 [&_.maplibregl-ctrl-bottom-right]:bottom-40" />;
+  return <div ref={node} className="h-full w-full [&_.maplibregl-ctrl-bottom-left]:bottom-36 [&_.maplibregl-ctrl-bottom-right]:bottom-36 xl:[&_.maplibregl-ctrl-bottom-left]:bottom-40 xl:[&_.maplibregl-ctrl-bottom-right]:bottom-40" />;
 }
 
 function fitCommunities(map: Map, maplibregl: typeof import("maplibre-gl"), pins: MapPin[]) {
   if (!pins.length) return;
   const bounds = new maplibregl.LngLatBounds();
   for (const pin of pins) bounds.extend([pin.longitude, pin.latitude]);
-  map.fitBounds(bounds, { padding: { top: 120, bottom: 200, left: 48, right: 360 }, maxZoom: 12, duration: 0 });
+  const narrow = map.getContainer().clientWidth < 1280;
+  map.fitBounds(bounds, {
+    padding: narrow ? { top: 210, bottom: 168, left: 16, right: 16 } : { top: 120, bottom: 200, left: 48, right: 360 },
+    maxZoom: narrow ? 11 : 12,
+    duration: 0,
+  });
 }
 
 function placeMarkers(

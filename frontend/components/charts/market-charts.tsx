@@ -9,7 +9,7 @@ export function TrendChart({ data, label }: { data: SeriesPoint[]; label: string
   return (
     <div>
       <p className="sr-only">{label}</p>
-      <div className="h-80">
+      <div className="h-64 min-w-0 sm:h-80">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={data} margin={{ top: 10, right: 8, left: 0, bottom: 0 }}>
             <CartesianGrid stroke="rgba(15,23,42,0.08)" vertical={false} />
@@ -26,7 +26,7 @@ export function TrendChart({ data, label }: { data: SeriesPoint[]; label: string
 
 export function VolumeChart({ data }: { data: SeriesPoint[] }) {
   return (
-    <div className="h-64">
+    <div className="h-56 min-w-0 sm:h-64">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data}>
           <CartesianGrid stroke="rgba(15,23,42,0.08)" vertical={false} />
@@ -45,11 +45,11 @@ export function DistributionChart({ data, nameKey, valueKey, caption }: { data: 
   return (
     <div>
       <p className="sr-only">{caption}</p>
-      <div className="h-64">
+      <div className="h-56 min-w-0 sm:h-64">
         <ResponsiveContainer width="100%" height="100%">
           <BarChart data={data} layout="vertical" margin={{ left: 16 }}>
             <XAxis type="number" tick={{ fill: "#64748b", fontSize: 11 }} />
-            <YAxis type="category" dataKey={nameKey} width={110} tick={{ fill: "#334155", fontSize: 11 }} />
+            <YAxis type="category" dataKey={nameKey} width={92} tick={{ fill: "#334155", fontSize: 10 }} />
             <Tooltip contentStyle={tooltipStyle} />
             <Bar dataKey={valueKey} radius={[0, 4, 4, 0]}>
               {data.map((_, index) => <Cell key={index} fill={colors[index % colors.length]} />)}
@@ -65,7 +65,7 @@ export function ComparisonChart({ data }: { data: { period: string; [key: string
   const keys = Object.keys(data[0] ?? {}).filter((key) => key !== "period");
   const colors = ["#4F8CFF", "#2DD4BF", "#C4B5FD", "#E8A598", "#F6E2B2"];
   return (
-    <div className="h-80">
+    <div className="h-64 min-w-0 sm:h-80">
       <ResponsiveContainer width="100%" height="100%">
         <LineChart data={data}>
           <CartesianGrid stroke="rgba(15,23,42,0.08)" vertical={false} />

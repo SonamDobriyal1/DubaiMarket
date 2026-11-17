@@ -25,9 +25,9 @@ export default function CommunityPage() {
       <PageHeader title={community.community_name} subtitle={community.community_kind === "official_area" ? "Official area statistics. These are not a master-project alias." : "Master-project statistics. The official area is not substituted unless the record says so."} aside={<DataFreshness date={formatDate(community.last_transaction)} />} />
       <p className="mb-4 text-sm text-slate-500">{formatNumber(community.transactions)} qualifying sales from {formatDate(community.first_transaction)} to {formatDate(community.last_transaction)}.</p>
       <div className="mb-4 flex flex-wrap gap-3 text-sm">
-        <Link className="text-[#9EBEFF]" href={`/compare?community=${community.community_id}`}>Compare this community</Link>
-        <Link className="text-[#9EBEFF]" href={`/explorer?community=${community.community_id}`}>Explore</Link>
-        <Link className="text-[#9EBEFF]" href={`/valuation?community=${encodeURIComponent(community.community_name)}`}>Value a property here</Link>
+        <Link className="text-sky-700" href={`/compare?community=${community.community_id}`}>Compare this community</Link>
+        <Link className="text-sky-700" href={`/explorer?community=${community.community_id}`}>Explore</Link>
+        <Link className="text-sky-700" href={`/valuation?community=${encodeURIComponent(community.community_name)}`}>Value a property here</Link>
       </div>
       <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
         <MetricCard label="Median sale price" value={formatAed(community.median_price_aed)} />

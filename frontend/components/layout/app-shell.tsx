@@ -63,7 +63,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           <button aria-label="Open navigation" className="rounded-lg p-2 text-slate-600 md:hidden" onClick={() => setOpen(true)}><Menu size={18} /></button>
           <div className="min-w-0 flex-1">
             <p className="truncate text-sm font-medium text-slate-900">{title}</p>
-            <p className="text-xs text-slate-500">Historical analytics, not a live market feed</p>
+            <p className="hidden text-xs text-slate-500 sm:block">Historical analytics, not a live market feed</p>
           </div>
           <div className="relative hidden w-64 lg:block">
             <Search className="pointer-events-none absolute top-2.5 left-3 text-slate-400" size={14} />
@@ -80,7 +80,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           </div>
           <span className="hidden rounded-full border border-slate-200 bg-white px-3 py-1 text-xs text-slate-600 sm:inline">Through {formatDate(overview.data?.date_max)}</span>
         </header>
-        <main className="px-4 py-6 md:px-8 md:py-8">{children}</main>
+        <main className="overflow-x-clip px-4 py-6 md:px-8 md:py-8">{children}</main>
       </div>
     </div>
   );

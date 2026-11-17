@@ -37,10 +37,10 @@ export function ValuationRangeChart({ result }: { result: ValuationResponse }) {
         <Marker left={position(result.estimated_market_value_aed)} label="Estimate" />
         <Marker left={position(result.asking_price_aed)} label="Asking" tone="ask" />
       </div>
-      <div className="mt-3 grid grid-cols-3 text-xs text-slate-500">
+      <div className="mt-3 grid grid-cols-1 gap-1 text-xs text-slate-500 sm:grid-cols-3">
         <span>Lower {formatAed(lower)}</span>
-        <span className="text-center">Estimate {formatAed(result.estimated_market_value_aed)}</span>
-        <span className="text-right">Upper {formatAed(upper)}</span>
+        <span className="sm:text-center">Estimate {formatAed(result.estimated_market_value_aed)}</span>
+        <span className="sm:text-right">Upper {formatAed(upper)}</span>
       </div>
     </div>
   );
@@ -62,12 +62,12 @@ export function ValuationResult({ result, coverage }: { result: ValuationRespons
     <div className="space-y-4">
       <GlassCard className="p-5">
         <p className="text-xs tracking-[0.16em] text-slate-500 uppercase">Estimated market value</p>
-        <p className="mt-2 font-mono text-4xl tracking-tight">{formatAed(result.estimated_market_value_aed)}</p>
+        <p className="mt-2 font-mono text-3xl tracking-tight break-words sm:text-4xl">{formatAed(result.estimated_market_value_aed)}</p>
         <p className="mt-2 text-sm text-slate-500">Model-estimated transaction value. Asking price was not a model input.</p>
         {result.stale_market_features_note ? <p className="mt-3 text-sm text-amber-800">{result.stale_market_features_note}</p> : null}
       </GlassCard>
       <GlassCard className="p-5">
-        <div className="mb-6 flex items-start justify-between gap-3">
+        <div className="mb-6 flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
           <div>
             <h2 className="text-lg font-medium">Valuation interval</h2>
             <p className="mt-1 text-sm text-slate-500">A range for one property&apos;s potential transaction price, not a confidence interval for an average price.</p>

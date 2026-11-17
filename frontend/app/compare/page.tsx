@@ -74,7 +74,7 @@ export default function ComparePage() {
             </label>
           ))}
         </div>
-        <p className="mt-2 text-xs text-slate-500">{selected.length} selected. {selected.map((id) => names.get(id) ?? id).join(", ")}</p>
+        <p className="mt-2 text-xs break-words text-slate-500">{selected.length} selected. {selected.map((id) => names.get(id) ?? id).join(", ")}</p>
         <Button className="mt-3" disabled={selected.length < 2 || mutation.isPending} onClick={() => mutation.mutate()}>{mutation.isPending ? "Comparing…" : "Compare"}</Button>
       </GlassCard>
       {mutation.isError ? <div className="mt-4"><ErrorState title="Comparison failed" body={isApiError(mutation.error) ? mutation.error.message : "The comparison did not return."} /></div> : null}

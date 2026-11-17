@@ -4,7 +4,7 @@ import { motion, useReducedMotion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
 export function GlassCard({ className, children }: { className?: string; children: React.ReactNode }) {
-  return <section className={cn("rounded-2xl border border-slate-200 bg-white shadow-[0_10px_30px_rgba(15,23,42,0.06)]", className)}>{children}</section>;
+  return <section className={cn("min-w-0 rounded-2xl border border-slate-200 bg-white shadow-[0_10px_30px_rgba(15,23,42,0.06)]", className)}>{children}</section>;
 }
 
 export function PageHeader({ eyebrow, title, subtitle, aside }: { eyebrow?: string; title: string; subtitle?: string; aside?: React.ReactNode }) {
@@ -12,7 +12,7 @@ export function PageHeader({ eyebrow, title, subtitle, aside }: { eyebrow?: stri
     <header className="mb-6 flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
       <div>
         {eyebrow ? <p className="mb-2 text-xs tracking-[0.18em] text-slate-400 uppercase">{eyebrow}</p> : null}
-        <h1 className="text-3xl font-semibold tracking-tight text-slate-900 md:text-4xl">{title}</h1>
+        <h1 className="text-2xl font-semibold tracking-tight break-words text-slate-900 sm:text-3xl md:text-4xl">{title}</h1>
         {subtitle ? <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-500 md:text-base">{subtitle}</p> : null}
       </div>
       {aside}
@@ -32,7 +32,7 @@ export function MetricCard({ label, value, detail }: { label: string; value: str
   return (
     <GlassCard className="p-4">
       <p className="text-xs tracking-wide text-slate-400 uppercase">{label}</p>
-      <p className="mt-2 font-mono text-2xl tracking-tight text-slate-900">{value}</p>
+      <p className="mt-2 font-mono text-lg tracking-tight break-words text-slate-900 sm:text-2xl">{value}</p>
       {detail ? <p className="mt-2 text-xs leading-5 text-slate-500">{detail}</p> : null}
     </GlassCard>
   );
