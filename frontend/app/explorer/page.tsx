@@ -81,7 +81,6 @@ export default function ExplorerPage() {
                 {item.label}
               </button>
             ))}
-            <button disabled title="Rental yield is unavailable" className="cursor-not-allowed rounded-full px-3 py-1.5 text-sm whitespace-nowrap text-slate-400">Yield</button>
           </div>
         </div>
 

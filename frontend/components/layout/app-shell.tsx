@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, Building2, Calculator, GitCompare, LayoutDashboard, Map, Menu, Search, X } from "lucide-react";
+import { Building2, Calculator, GitCompare, LayoutDashboard, Map, Menu, Search, X } from "lucide-react";
 import { useMemo, useState } from "react";
 import { api } from "@/lib/api/client";
 import type { CommunitySummary, MarketOverview } from "@/lib/api/types";
@@ -16,7 +16,6 @@ const NAV = [
   { href: "/valuation", label: "Property Valuation", icon: Calculator },
   { href: "/communities", label: "Communities", icon: Building2 },
   { href: "/compare", label: "Area Comparison", icon: GitCompare },
-  { href: "/methodology", label: "Methodology", icon: BookOpen },
 ];
 
 const TITLES: Record<string, string> = {
